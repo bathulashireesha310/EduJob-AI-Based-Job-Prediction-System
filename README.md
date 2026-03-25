@@ -21,6 +21,7 @@ Programming skill demand graph
 📜 Prediction History
 Stores and displays user prediction history
 ```
+```
 🧠 Machine Learning Model
 Algorithm Used: Random Forest Classifier
 Why Random Forest?
@@ -33,6 +34,7 @@ Encoded categorical data using one-hot encoding
 Label encoding for target variable
 Output:
 Top 3 predicted job roles with probability (%)
+```
 ```
 ⚙️ Tech Stack
 Frontend: Streamlit
