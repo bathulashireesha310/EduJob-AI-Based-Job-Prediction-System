@@ -5,6 +5,7 @@ EduJob is an AI-powered job prediction system that analyzes student academic and
 It uses Machine Learning (Random Forest Classifier) to recommend career paths based on user inputs like CGPA, skills, internships, and certifications.
 
 🚀 Features
+```
 🔐 User Authentication
 Registration & Login system using CSV storage
 Email and password validation
@@ -41,7 +42,7 @@ matplotlib
 streamlit
 Storage:
 CSV files (users, dataset, history)
-
+```
 ## 📂 Project Structure
 
 ```
@@ -99,17 +100,17 @@ pip install -r requirements.txt
 streamlit run app.py
 📦 Requirements
 
-Create a requirements.txt file with:
-
 streamlit
 pandas
 scikit-learn
 matplotlib
+
 🎯 Key Highlights
 Real-time job prediction using AI
 User-friendly interface with Streamlit
 Data visualization for better insights
 Practical implementation of ML concepts
+
 📌 Future Enhancements
 🔹 Deploy on Streamlit Cloud
 🔹 Add more ML models for comparison
