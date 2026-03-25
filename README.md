@@ -42,7 +42,7 @@ streamlit
 Storage:
 CSV files (users, dataset, history)
 
-📂 Project Structure
+## 📂 Project Structure
 EduJob-AI-Based-Job-Prediction-System/
 │
 ├── app.py
