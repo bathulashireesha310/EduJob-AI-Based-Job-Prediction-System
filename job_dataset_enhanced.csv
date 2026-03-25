@@ -1,0 +1,3001 @@
+Degree,Specialization,CGPA,JobRole,Programming,Internship,Projects,Certification,ProblemSolving
+M.Tech,Data Science,8.65,Data Scientist,Python,Yes,5,Yes,High
+MBA,Cyber Security,7.03,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Sc,AI,8.43,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,Machine Learning,7.6,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Information Security,8.51,Cyber Security Analyst,Python,Yes,5,Yes,High
+MBA,Finance,8.79,Business Analyst,Python,Yes,3,Yes,High
+MBA,Finance,8.74,Business Analyst,C++,Yes,4,No,High
+B.Tech,AI,8.66,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Information Security,6.29,Support Engineer,Python,No,1,No,Low
+B.Tech,Information Security,7.54,Cyber Security Analyst,Python,Yes,3,No,Medium
+BCA,Software Engineering,6.36,DevOps Engineer,Java,No,1,Yes,Low
+BCA,AI,9.37,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Electronics,8.05,Support Engineer,Python,Yes,2,Yes,Medium
+B.Tech,Software Engineering,8.42,Software Developer,Java,Yes,3,No,Medium
+BCA,CSE,7.68,DevOps Engineer,C++,Yes,2,Yes,Medium
+M.Tech,Finance,6.99,Business Analyst,C++,No,1,No,Low
+MBA,CSE,9.24,Software Developer,Java,Yes,3,No,High
+B.Tech,Machine Learning,8.94,AI Engineer,Python,Yes,5,Yes,High
+MCA,CSE,6.28,DevOps Engineer,Python,No,1,Yes,Low
+M.Sc,IT,8.25,Cloud Engineer,Java,Yes,3,No,Medium
+MBA,CSE,8.53,Software Developer,Java,Yes,5,Yes,High
+M.Tech,AI,6.53,Data Scientist,Python,No,1,Yes,Low
+MBA,Data Science,8.93,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Data Science,7.92,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Software Engineering,7.57,Software Developer,Java,Yes,2,Yes,Medium
+MBA,Machine Learning,7.48,Data Scientist,Python,No,2,Yes,Medium
+M.Tech,Information Security,7.49,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,AI,7.73,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,AI,7.31,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Data Science,7.46,Business Analyst,Python,No,3,Yes,Medium
+BCA,IT,8.08,Cloud Engineer,Java,Yes,2,No,Medium
+BBA,Software Engineering,8.55,Software Developer,Java,Yes,4,No,High
+B.Tech,Electronics,8.34,Support Engineer,C++,Yes,2,Yes,Medium
+B.Tech,Electronics,7.26,Support Engineer,Python,No,2,No,Medium
+B.Tech,Information Security,7.7,Cyber Security Analyst,Python,Yes,3,No,Medium
+MCA,Cyber Security,8.92,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Data Science,9.79,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Information Security,7.48,Cyber Security Analyst,Python,No,2,No,Medium
+MCA,AI,9.76,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Finance,8.26,Business Analyst,Python,Yes,2,Yes,Medium
+B.Tech,Finance,7.69,Business Analyst,C++,Yes,2,Yes,Medium
+B.Tech,AI,6.82,Data Scientist,Python,No,1,Yes,Low
+MCA,Machine Learning,8.71,AI Engineer,Python,Yes,5,Yes,High
+M.Sc,AI,8.13,AI Engineer,Python,Yes,2,Yes,Medium
+B.Tech,IT,6.46,Support Engineer,Python,No,0,No,Low
+B.Tech,Finance,7.98,Business Analyst,Java,Yes,3,No,Medium
+BBA,Electronics,7.37,Support Engineer,C++,No,3,Yes,Medium
+M.Tech,IT,9.77,Cloud Engineer,Java,Yes,3,No,High
+BCA,Electronics,8.56,Support Engineer,C++,Yes,3,Yes,High
+BBA,Data Science,7.33,Business Analyst,Python,No,2,Yes,Medium
+M.Sc,AI,6.05,Data Scientist,Python,No,0,Yes,Low
+B.Tech,IT,9.21,Cloud Engineer,C++,Yes,4,Yes,High
+MCA,AI,7.33,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,CSE,8.16,DevOps Engineer,Python,Yes,3,No,Medium
+MBA,Machine Learning,8.29,AI Engineer,Python,Yes,3,Yes,Medium
+MBA,Software Engineering,8.89,Software Developer,Java,Yes,4,No,High
+M.Sc,Machine Learning,8.11,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Electronics,9.68,Cloud Engineer,Java,Yes,5,No,High
+B.Tech,Information Security,9.89,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Electronics,8.18,Support Engineer,Java,Yes,2,No,Medium
+B.Sc,Information Security,9.63,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Sc,Cyber Security,6.31,Support Engineer,Python,No,1,Yes,Low
+BCA,CSE,8.66,Software Developer,C++,Yes,4,No,High
+B.Tech,Finance,6.01,Business Analyst,Java,No,0,Yes,Low
+BCA,IT,8.07,Cloud Engineer,Java,Yes,3,Yes,Medium
+M.Sc,IT,6.79,Support Engineer,Java,No,0,Yes,Low
+B.Tech,CSE,9.01,Software Developer,Java,Yes,4,No,High
+BBA,Electronics,7.41,Support Engineer,C++,No,3,Yes,Medium
+B.Sc,IT,6.45,Support Engineer,Java,No,1,No,Low
+MBA,IT,7.46,Support Engineer,Java,No,3,No,Medium
+BCA,Business Analytics,9.88,Business Analyst,Java,Yes,4,Yes,High
+M.Sc,Data Science,8.27,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Data Science,6.12,Business Analyst,Python,No,0,Yes,Low
+MBA,AI,7.5,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,Finance,8.86,Business Analyst,C++,Yes,5,No,High
+MCA,Information Security,6.51,Support Engineer,Python,No,0,Yes,Low
+B.Tech,AI,8.2,AI Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Data Science,8.32,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,AI,9.83,AI Engineer,Python,Yes,3,Yes,High
+MBA,Information Security,8.42,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,Electronics,9.06,Cloud Engineer,C++,Yes,3,Yes,High
+M.Tech,Business Analytics,9.19,Business Analyst,Java,Yes,5,No,High
+MBA,Cyber Security,8.7,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,IT,8.27,Cloud Engineer,Python,Yes,2,No,Medium
+M.Tech,IT,6.54,Support Engineer,Python,No,0,No,Low
+B.Sc,Information Security,9.72,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Machine Learning,8.73,AI Engineer,Python,Yes,5,Yes,High
+MBA,Finance,7.65,Business Analyst,C++,Yes,3,Yes,Medium
+MBA,Information Security,7.82,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,Machine Learning,8.18,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Information Security,9.74,Cyber Security Analyst,Python,Yes,4,No,High
+M.Tech,Machine Learning,8.43,AI Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Information Security,8.9,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Sc,Machine Learning,7.57,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Data Science,7.67,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Software Engineering,6.43,DevOps Engineer,Java,No,1,No,Low
+M.Tech,Finance,7.13,Business Analyst,C++,No,3,No,Medium
+B.Sc,Software Engineering,6.54,DevOps Engineer,Java,No,1,Yes,Low
+M.Sc,Software Engineering,9.27,Software Developer,Java,Yes,5,No,High
+B.Tech,Data Science,9.95,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Business Analytics,6.03,Business Analyst,C++,No,0,Yes,Low
+BBA,IT,8.39,Cloud Engineer,C++,Yes,3,Yes,Medium
+BCA,AI,8.09,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Information Security,9.53,Cyber Security Analyst,Python,Yes,3,Yes,High
+MCA,Business Analytics,8.29,Business Analyst,Java,Yes,2,No,Medium
+M.Tech,Software Engineering,9.67,Software Developer,Java,Yes,4,Yes,High
+BBA,Data Science,8.1,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Business Analytics,6.6,Business Analyst,C++,No,1,No,Low
+MBA,Electronics,9.07,Cloud Engineer,C++,Yes,4,Yes,High
+B.Tech,Machine Learning,6.88,Data Scientist,Python,No,1,Yes,Low
+BCA,Data Science,6.83,Business Analyst,Python,No,1,Yes,Low
+BBA,Machine Learning,7.72,Data Scientist,Python,Yes,2,Yes,Medium
+M.Sc,IT,7.81,Support Engineer,Java,Yes,2,No,Medium
+BCA,AI,7.84,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Cyber Security,9.12,Cyber Security Analyst,Python,Yes,5,Yes,High
+BBA,AI,8.5,AI Engineer,Python,Yes,3,Yes,High
+BCA,Electronics,9.21,Cloud Engineer,C++,Yes,5,No,High
+M.Tech,Software Engineering,9.97,Software Developer,Java,Yes,3,Yes,High
+M.Sc,Information Security,7.7,Cyber Security Analyst,Python,Yes,2,No,Medium
+M.Sc,CSE,7.61,DevOps Engineer,Java,Yes,2,No,Medium
+M.Tech,Machine Learning,8.78,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Electronics,7.05,Support Engineer,Python,No,3,Yes,Medium
+M.Sc,IT,8.59,Cloud Engineer,Python,Yes,4,Yes,High
+MCA,Business Analytics,9.55,Business Analyst,Java,Yes,3,No,High
+MBA,Machine Learning,6.87,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Data Science,8.87,Data Scientist,Python,Yes,3,Yes,High
+MCA,Data Science,7.26,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,Business Analytics,6.69,Business Analyst,Python,No,1,No,Low
+MCA,Finance,6.83,Business Analyst,Java,No,0,No,Low
+M.Tech,CSE,9.5,Software Developer,Java,Yes,5,Yes,High
+MCA,Finance,6.56,Business Analyst,C++,No,1,Yes,Low
+BBA,CSE,6.39,DevOps Engineer,Python,No,1,Yes,Low
+MBA,Electronics,9.0,Cloud Engineer,C++,Yes,4,Yes,High
+M.Tech,Software Engineering,8.06,Software Developer,Java,Yes,2,Yes,Medium
+BCA,Electronics,7.71,Support Engineer,Java,Yes,3,Yes,Medium
+BCA,Cyber Security,7.43,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,Machine Learning,6.65,Data Scientist,Python,No,0,Yes,Low
+BBA,Cyber Security,7.81,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,AI,8.53,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Information Security,6.07,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Software Engineering,9.16,Software Developer,Java,Yes,4,No,High
+BCA,AI,6.06,Data Scientist,Python,No,0,Yes,Low
+BCA,IT,7.79,Support Engineer,Python,Yes,2,Yes,Medium
+B.Sc,AI,6.95,Data Scientist,Python,No,0,Yes,Low
+B.Tech,CSE,7.36,DevOps Engineer,Python,No,3,Yes,Medium
+B.Tech,Machine Learning,9.02,AI Engineer,Python,Yes,3,Yes,High
+BBA,Cyber Security,8.01,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Business Analytics,7.25,Business Analyst,Python,No,2,Yes,Medium
+B.Tech,Data Science,7.74,Business Analyst,Python,Yes,2,Yes,Medium
+BBA,CSE,7.58,DevOps Engineer,Java,Yes,3,No,Medium
+MBA,AI,9.28,AI Engineer,Python,Yes,5,Yes,High
+MCA,Software Engineering,6.78,DevOps Engineer,Java,No,1,No,Low
+BBA,IT,8.08,Cloud Engineer,Python,Yes,2,No,Medium
+BBA,Business Analytics,9.59,Business Analyst,Python,Yes,3,No,High
+BBA,Business Analytics,8.77,Business Analyst,Python,Yes,3,Yes,High
+M.Sc,Information Security,6.63,Support Engineer,Python,No,1,Yes,Low
+BCA,IT,7.18,Support Engineer,Python,No,2,No,Medium
+BCA,Finance,9.72,Business Analyst,Python,Yes,4,No,High
+BBA,Electronics,6.68,Support Engineer,Python,No,0,Yes,Low
+B.Tech,AI,7.21,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,AI,7.83,AI Engineer,Python,Yes,2,Yes,Medium
+M.Sc,AI,8.36,AI Engineer,Python,Yes,3,Yes,Medium
+M.Sc,CSE,6.43,DevOps Engineer,C++,No,1,No,Low
+MCA,Cyber Security,7.82,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,AI,7.98,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,Machine Learning,9.06,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Machine Learning,8.38,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,Data Science,9.88,Data Scientist,Python,Yes,4,Yes,High
+BBA,Information Security,6.5,Support Engineer,Python,No,1,No,Low
+M.Sc,Electronics,9.66,Cloud Engineer,C++,Yes,3,Yes,High
+MBA,Machine Learning,8.58,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,CSE,6.54,DevOps Engineer,Python,No,0,Yes,Low
+M.Sc,Business Analytics,7.71,Business Analyst,C++,Yes,3,Yes,Medium
+M.Tech,Business Analytics,8.49,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Cyber Security,9.58,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Data Science,9.14,Data Scientist,Python,Yes,4,Yes,High
+MBA,Machine Learning,6.21,Data Scientist,Python,No,0,Yes,Low
+MCA,Cyber Security,6.83,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Finance,8.09,Business Analyst,Python,Yes,2,Yes,Medium
+MCA,Information Security,9.88,Cyber Security Analyst,Python,Yes,4,No,High
+M.Sc,Finance,7.13,Business Analyst,Python,No,2,No,Medium
+B.Sc,CSE,9.43,Software Developer,Java,Yes,4,No,High
+M.Tech,Business Analytics,6.54,Business Analyst,C++,No,0,No,Low
+B.Tech,Finance,8.04,Business Analyst,Python,Yes,2,No,Medium
+M.Tech,IT,6.53,Support Engineer,Python,No,1,No,Low
+BCA,Software Engineering,6.1,DevOps Engineer,Java,No,0,No,Low
+M.Tech,Information Security,6.5,Support Engineer,Python,No,1,Yes,Low
+BCA,Software Engineering,6.16,DevOps Engineer,Java,No,0,No,Low
+M.Sc,Electronics,9.79,Cloud Engineer,Java,Yes,3,No,High
+BCA,IT,9.0,Cloud Engineer,Java,Yes,5,No,High
+B.Sc,AI,9.29,AI Engineer,Python,Yes,3,Yes,High
+MBA,Data Science,7.35,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,Software Engineering,8.86,Software Developer,Java,Yes,3,Yes,High
+M.Tech,Finance,8.49,Business Analyst,C++,Yes,2,Yes,Medium
+MCA,Machine Learning,7.35,Data Scientist,Python,No,3,Yes,Medium
+BCA,Machine Learning,7.37,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Business Analytics,7.55,Business Analyst,C++,Yes,3,No,Medium
+MBA,Business Analytics,8.49,Business Analyst,Java,Yes,2,No,Medium
+MBA,Electronics,8.58,Support Engineer,Java,Yes,5,Yes,High
+M.Tech,Business Analytics,7.66,Business Analyst,Java,Yes,3,No,Medium
+MBA,Machine Learning,6.36,Data Scientist,Python,No,1,Yes,Low
+MBA,Cyber Security,7.46,Cyber Security Analyst,Python,No,3,Yes,Medium
+BBA,Machine Learning,9.37,AI Engineer,Python,Yes,4,Yes,High
+BCA,Machine Learning,8.8,AI Engineer,Python,Yes,4,Yes,High
+MCA,Business Analytics,9.24,Business Analyst,Java,Yes,4,No,High
+BCA,Electronics,7.29,Support Engineer,Java,No,3,No,Medium
+MBA,AI,8.76,AI Engineer,Python,Yes,5,Yes,High
+BBA,Cyber Security,6.25,Support Engineer,Python,No,1,Yes,Low
+M.Sc,Finance,7.27,Business Analyst,Python,No,2,Yes,Medium
+B.Tech,Finance,7.38,Business Analyst,Python,No,2,No,Medium
+M.Sc,AI,7.0,Data Scientist,Python,No,3,Yes,Medium
+M.Tech,CSE,9.39,Software Developer,Python,Yes,5,Yes,High
+MBA,CSE,9.56,Software Developer,C++,Yes,3,Yes,High
+M.Tech,CSE,8.56,Software Developer,Python,Yes,5,Yes,High
+MCA,Business Analytics,9.47,Business Analyst,Java,Yes,5,Yes,High
+B.Tech,Software Engineering,6.49,DevOps Engineer,Java,No,0,No,Low
+M.Sc,CSE,8.61,Software Developer,Java,Yes,5,Yes,High
+M.Tech,Business Analytics,8.92,Business Analyst,Python,Yes,4,Yes,High
+MCA,Business Analytics,6.75,Business Analyst,Java,No,0,No,Low
+MBA,CSE,8.26,DevOps Engineer,Java,Yes,2,Yes,Medium
+MCA,Cyber Security,9.0,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,IT,6.63,Support Engineer,Java,No,1,Yes,Low
+M.Tech,IT,8.83,Cloud Engineer,C++,Yes,4,Yes,High
+MCA,CSE,8.39,DevOps Engineer,Python,Yes,3,No,Medium
+BBA,Cyber Security,8.63,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Machine Learning,6.56,Data Scientist,Python,No,1,Yes,Low
+MCA,Information Security,8.67,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Electronics,7.2,Support Engineer,Python,No,2,Yes,Medium
+M.Tech,Data Science,9.71,Data Scientist,Python,Yes,3,Yes,High
+BCA,Data Science,6.29,Business Analyst,Python,No,0,Yes,Low
+BCA,Data Science,8.9,Data Scientist,Python,Yes,4,Yes,High
+B.Sc,CSE,9.29,Software Developer,C++,Yes,5,No,High
+M.Tech,Finance,9.21,Business Analyst,Java,Yes,3,Yes,High
+MCA,Finance,8.47,Business Analyst,Java,Yes,2,No,Medium
+MBA,Business Analytics,9.92,Business Analyst,Java,Yes,5,Yes,High
+B.Sc,Electronics,6.58,Support Engineer,Java,No,1,No,Low
+M.Tech,Software Engineering,6.63,DevOps Engineer,Java,No,0,No,Low
+M.Sc,Machine Learning,7.73,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Software Engineering,8.32,Software Developer,Java,Yes,2,Yes,Medium
+BCA,AI,9.5,AI Engineer,Python,Yes,5,Yes,High
+MBA,Machine Learning,9.73,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Business Analytics,7.27,Business Analyst,C++,No,3,Yes,Medium
+MBA,Machine Learning,9.03,AI Engineer,Python,Yes,4,Yes,High
+BCA,Machine Learning,9.31,AI Engineer,Python,Yes,3,Yes,High
+BBA,Software Engineering,7.8,Software Developer,Java,Yes,2,No,Medium
+MBA,Software Engineering,6.04,DevOps Engineer,Java,No,1,Yes,Low
+BCA,Data Science,6.01,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Business Analytics,9.04,Business Analyst,C++,Yes,5,No,High
+B.Tech,AI,8.4,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Information Security,7.52,Cyber Security Analyst,Python,Yes,2,No,Medium
+MBA,Business Analytics,9.22,Business Analyst,Python,Yes,5,Yes,High
+MCA,Cyber Security,7.43,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,IT,8.52,Cloud Engineer,C++,Yes,4,Yes,High
+BCA,Information Security,8.21,Cyber Security Analyst,Python,Yes,2,No,Medium
+B.Sc,Machine Learning,6.19,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Business Analytics,9.49,Business Analyst,Python,Yes,3,Yes,High
+M.Sc,Cyber Security,8.09,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Data Science,7.69,Business Analyst,Python,Yes,3,Yes,Medium
+MCA,Information Security,9.41,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Sc,Software Engineering,9.02,Software Developer,Java,Yes,3,Yes,High
+BBA,IT,9.54,Cloud Engineer,C++,Yes,5,No,High
+B.Tech,Electronics,7.46,Support Engineer,Python,No,3,Yes,Medium
+MBA,Cyber Security,7.03,Cyber Security Analyst,Python,No,3,Yes,Medium
+BBA,Cyber Security,7.64,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Finance,7.38,Business Analyst,Java,No,3,Yes,Medium
+BBA,Electronics,8.88,Support Engineer,Python,Yes,4,No,High
+B.Tech,CSE,8.78,Software Developer,Java,Yes,4,Yes,High
+M.Sc,Business Analytics,8.96,Business Analyst,Java,Yes,3,Yes,High
+B.Sc,Business Analytics,9.47,Business Analyst,C++,Yes,5,Yes,High
+BBA,Cyber Security,8.33,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,IT,6.06,Support Engineer,Python,No,1,Yes,Low
+BBA,Software Engineering,8.0,Software Developer,Java,Yes,2,No,Medium
+M.Sc,Business Analytics,7.83,Business Analyst,Python,Yes,2,Yes,Medium
+BBA,Cyber Security,6.75,Support Engineer,Python,No,1,Yes,Low
+M.Tech,AI,6.57,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Electronics,7.55,Support Engineer,C++,Yes,3,No,Medium
+MBA,Machine Learning,8.68,AI Engineer,Python,Yes,5,Yes,High
+M.Sc,IT,9.87,Cloud Engineer,Python,Yes,4,Yes,High
+BBA,Information Security,8.23,Cyber Security Analyst,Python,Yes,3,No,Medium
+M.Sc,Finance,8.88,Business Analyst,Python,Yes,4,Yes,High
+MBA,Machine Learning,8.66,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Data Science,6.58,Business Analyst,Python,No,1,Yes,Low
+MCA,Electronics,9.08,Cloud Engineer,C++,Yes,5,Yes,High
+B.Tech,AI,9.94,AI Engineer,Python,Yes,4,Yes,High
+MCA,Data Science,8.62,Data Scientist,Python,Yes,5,Yes,High
+BBA,Data Science,9.81,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,Finance,8.35,Business Analyst,C++,Yes,2,Yes,Medium
+MBA,IT,6.85,Support Engineer,Python,No,0,No,Low
+MBA,Finance,6.29,Business Analyst,Python,No,0,No,Low
+M.Sc,IT,8.29,Cloud Engineer,Java,Yes,3,No,Medium
+MCA,CSE,7.36,DevOps Engineer,Java,No,2,Yes,Medium
+B.Sc,CSE,9.89,Software Developer,Java,Yes,5,No,High
+BCA,Business Analytics,8.37,Business Analyst,Python,Yes,3,Yes,Medium
+MCA,Information Security,6.69,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Finance,6.44,Business Analyst,C++,No,0,Yes,Low
+BBA,Business Analytics,8.5,Business Analyst,Python,Yes,4,No,High
+B.Tech,Business Analytics,7.3,Business Analyst,Java,No,2,Yes,Medium
+BBA,Information Security,8.2,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Business Analytics,9.06,Business Analyst,Python,Yes,5,Yes,High
+BCA,Information Security,6.48,Support Engineer,Python,No,0,No,Low
+MBA,Business Analytics,9.66,Business Analyst,C++,Yes,5,No,High
+BCA,Machine Learning,8.8,AI Engineer,Python,Yes,5,Yes,High
+B.Tech,CSE,6.26,DevOps Engineer,C++,No,0,Yes,Low
+BCA,Information Security,8.55,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Sc,IT,8.27,Cloud Engineer,Java,Yes,2,Yes,Medium
+M.Sc,Finance,6.84,Business Analyst,Java,No,1,No,Low
+M.Sc,Cyber Security,8.25,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Software Engineering,6.42,DevOps Engineer,Java,No,1,Yes,Low
+M.Tech,Data Science,8.5,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Electronics,9.04,Cloud Engineer,Java,Yes,3,No,High
+BCA,Software Engineering,9.97,Software Developer,Java,Yes,4,Yes,High
+B.Tech,AI,8.46,AI Engineer,Python,Yes,3,Yes,Medium
+B.Sc,Software Engineering,6.56,DevOps Engineer,Java,No,1,Yes,Low
+B.Sc,Business Analytics,7.07,Business Analyst,C++,No,3,Yes,Medium
+M.Tech,Machine Learning,7.7,Data Scientist,Python,Yes,3,Yes,Medium
+M.Sc,Finance,8.52,Business Analyst,Java,Yes,5,Yes,High
+BBA,Data Science,7.9,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Machine Learning,8.64,AI Engineer,Python,Yes,5,Yes,High
+BBA,Information Security,9.67,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Data Science,7.79,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Software Engineering,6.56,DevOps Engineer,Java,No,1,No,Low
+B.Sc,Electronics,8.12,Support Engineer,C++,Yes,2,Yes,Medium
+BBA,Information Security,6.38,Support Engineer,Python,No,0,No,Low
+BCA,Cyber Security,6.6,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Finance,7.67,Business Analyst,Python,Yes,2,Yes,Medium
+BCA,Business Analytics,7.99,Business Analyst,C++,Yes,3,No,Medium
+BCA,Business Analytics,7.3,Business Analyst,Java,No,2,Yes,Medium
+B.Sc,Software Engineering,7.12,DevOps Engineer,Java,No,3,Yes,Medium
+MBA,Information Security,9.0,Cyber Security Analyst,Python,Yes,5,No,High
+M.Tech,CSE,7.61,DevOps Engineer,C++,Yes,3,Yes,Medium
+M.Sc,Machine Learning,8.96,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,IT,7.7,Support Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Cyber Security,6.69,Support Engineer,Python,No,0,Yes,Low
+BCA,Machine Learning,8.26,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,Data Science,6.77,Business Analyst,Python,No,1,Yes,Low
+M.Tech,AI,9.19,AI Engineer,Python,Yes,4,Yes,High
+MCA,Software Engineering,7.5,Software Developer,Java,Yes,3,No,Medium
+BCA,CSE,9.74,Software Developer,C++,Yes,4,Yes,High
+B.Sc,IT,8.84,Cloud Engineer,Python,Yes,4,Yes,High
+B.Sc,Information Security,9.75,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Business Analytics,8.49,Business Analyst,Java,Yes,3,No,Medium
+M.Tech,Electronics,6.3,Support Engineer,Java,No,1,No,Low
+B.Sc,AI,8.33,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Cyber Security,6.24,Support Engineer,Python,No,0,Yes,Low
+B.Tech,IT,8.82,Cloud Engineer,C++,Yes,3,No,High
+M.Tech,Machine Learning,9.44,AI Engineer,Python,Yes,5,Yes,High
+MBA,Finance,6.16,Business Analyst,Java,No,0,Yes,Low
+BBA,Electronics,6.24,Support Engineer,C++,No,0,Yes,Low
+B.Sc,IT,7.2,Support Engineer,Python,No,3,No,Medium
+MBA,Data Science,9.81,Data Scientist,Python,Yes,5,Yes,High
+MBA,Data Science,8.36,Data Scientist,Python,Yes,2,Yes,Medium
+MBA,Electronics,7.33,Support Engineer,C++,No,2,Yes,Medium
+MCA,AI,6.67,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Electronics,6.79,Support Engineer,C++,No,1,Yes,Low
+MBA,Finance,6.18,Business Analyst,Java,No,1,No,Low
+B.Sc,Information Security,8.41,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BBA,AI,7.75,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Cyber Security,9.05,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Software Engineering,9.78,Software Developer,Java,Yes,3,No,High
+BBA,Data Science,6.65,Business Analyst,Python,No,1,Yes,Low
+M.Tech,Information Security,9.99,Cyber Security Analyst,Python,Yes,4,No,High
+BCA,CSE,6.52,DevOps Engineer,Java,No,1,No,Low
+B.Sc,Machine Learning,8.63,AI Engineer,Python,Yes,5,Yes,High
+BBA,Machine Learning,7.1,Data Scientist,Python,No,3,Yes,Medium
+BCA,Cyber Security,7.65,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,CSE,7.61,DevOps Engineer,C++,Yes,3,Yes,Medium
+B.Tech,IT,8.9,Cloud Engineer,Python,Yes,5,Yes,High
+B.Tech,Electronics,8.79,Support Engineer,Java,Yes,4,No,High
+MBA,Machine Learning,8.8,AI Engineer,Python,Yes,5,Yes,High
+BBA,AI,6.2,Data Scientist,Python,No,1,Yes,Low
+BCA,Cyber Security,9.03,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Electronics,6.36,Support Engineer,C++,No,1,Yes,Low
+BBA,IT,7.89,Support Engineer,Java,Yes,2,Yes,Medium
+BCA,Data Science,7.21,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,IT,8.86,Cloud Engineer,C++,Yes,4,Yes,High
+B.Sc,Cyber Security,7.94,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,Electronics,9.09,Cloud Engineer,C++,Yes,4,Yes,High
+B.Tech,Business Analytics,6.51,Business Analyst,C++,No,0,No,Low
+BCA,Cyber Security,7.33,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Tech,CSE,6.1,DevOps Engineer,Java,No,1,Yes,Low
+BCA,Finance,9.2,Business Analyst,Java,Yes,3,No,High
+M.Tech,Information Security,6.04,Support Engineer,Python,No,0,Yes,Low
+MCA,Software Engineering,7.01,DevOps Engineer,Java,No,2,Yes,Medium
+M.Sc,Machine Learning,6.77,Data Scientist,Python,No,0,Yes,Low
+MBA,IT,7.48,Support Engineer,C++,No,3,No,Medium
+MBA,Business Analytics,8.09,Business Analyst,C++,Yes,2,No,Medium
+MCA,Electronics,9.51,Cloud Engineer,Java,Yes,4,Yes,High
+MBA,AI,9.63,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Business Analytics,8.96,Business Analyst,Java,Yes,3,Yes,High
+B.Sc,Information Security,7.07,Cyber Security Analyst,Python,No,3,No,Medium
+B.Tech,IT,7.08,Support Engineer,Python,No,2,No,Medium
+BCA,Business Analytics,8.33,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,CSE,6.7,DevOps Engineer,C++,No,0,No,Low
+BCA,Finance,7.05,Business Analyst,Python,No,2,No,Medium
+B.Tech,Data Science,7.93,Business Analyst,Python,Yes,2,Yes,Medium
+B.Tech,AI,9.02,AI Engineer,Python,Yes,4,Yes,High
+MBA,IT,8.7,Cloud Engineer,Python,Yes,3,No,High
+MCA,Finance,9.84,Business Analyst,Java,Yes,5,Yes,High
+M.Sc,Electronics,8.79,Support Engineer,Python,Yes,5,No,High
+MCA,Data Science,7.72,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Business Analytics,6.68,Business Analyst,Java,No,0,No,Low
+B.Tech,Cyber Security,7.61,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BBA,IT,9.46,Cloud Engineer,Python,Yes,4,Yes,High
+BBA,CSE,8.36,DevOps Engineer,Python,Yes,2,Yes,Medium
+MBA,Business Analytics,7.77,Business Analyst,Java,Yes,3,No,Medium
+B.Sc,CSE,8.0,DevOps Engineer,Python,Yes,3,No,Medium
+B.Tech,Finance,7.72,Business Analyst,Python,Yes,2,Yes,Medium
+M.Sc,Data Science,7.07,Business Analyst,Python,No,2,Yes,Medium
+BBA,AI,6.95,Data Scientist,Python,No,1,Yes,Low
+MBA,IT,6.54,Support Engineer,Java,No,1,Yes,Low
+MCA,Information Security,7.94,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Sc,CSE,7.11,DevOps Engineer,Java,No,2,Yes,Medium
+M.Sc,Data Science,7.76,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Finance,9.62,Business Analyst,Python,Yes,4,No,High
+MCA,Software Engineering,9.87,Software Developer,Java,Yes,3,No,High
+MBA,Electronics,7.7,Support Engineer,Java,Yes,3,Yes,Medium
+B.Tech,CSE,8.72,Software Developer,Python,Yes,3,No,High
+B.Tech,Cyber Security,8.86,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,IT,8.89,Cloud Engineer,Python,Yes,3,Yes,High
+B.Tech,Cyber Security,6.39,Support Engineer,Python,No,0,Yes,Low
+M.Sc,CSE,6.97,DevOps Engineer,Java,No,0,No,Low
+BBA,Business Analytics,9.21,Business Analyst,C++,Yes,3,Yes,High
+MBA,IT,7.61,Support Engineer,Python,Yes,2,No,Medium
+M.Sc,CSE,6.72,DevOps Engineer,Java,No,1,No,Low
+MBA,CSE,7.49,DevOps Engineer,Java,No,3,No,Medium
+B.Tech,Finance,7.84,Business Analyst,Python,Yes,3,Yes,Medium
+MCA,Electronics,7.45,Support Engineer,Java,No,2,Yes,Medium
+BBA,IT,7.67,Support Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Information Security,9.49,Cyber Security Analyst,Python,Yes,3,No,High
+MCA,AI,8.44,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Electronics,6.23,Support Engineer,Java,No,0,No,Low
+BBA,Electronics,7.93,Support Engineer,Python,Yes,2,No,Medium
+M.Tech,CSE,9.5,Software Developer,Java,Yes,5,Yes,High
+MBA,Cyber Security,6.26,Support Engineer,Python,No,0,Yes,Low
+B.Sc,Electronics,6.4,Support Engineer,C++,No,1,No,Low
+MCA,Cyber Security,9.11,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Sc,Cyber Security,9.05,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Sc,Data Science,6.13,Business Analyst,Python,No,1,Yes,Low
+MBA,Machine Learning,7.74,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Cyber Security,9.47,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Information Security,9.84,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Information Security,7.67,Cyber Security Analyst,Python,Yes,3,No,Medium
+BBA,Business Analytics,7.62,Business Analyst,Java,Yes,2,No,Medium
+M.Sc,Cyber Security,9.38,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Software Engineering,9.03,Software Developer,Java,Yes,5,Yes,High
+MCA,Software Engineering,9.11,Software Developer,Java,Yes,3,Yes,High
+B.Sc,Cyber Security,8.3,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,AI,8.44,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Finance,7.32,Business Analyst,Python,No,3,Yes,Medium
+BBA,Machine Learning,9.67,AI Engineer,Python,Yes,5,Yes,High
+MCA,Information Security,8.67,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Business Analytics,9.64,Business Analyst,C++,Yes,4,No,High
+M.Sc,Machine Learning,6.85,Data Scientist,Python,No,1,Yes,Low
+M.Tech,Data Science,7.76,Business Analyst,Python,Yes,2,Yes,Medium
+M.Sc,CSE,9.99,Software Developer,Java,Yes,4,Yes,High
+M.Tech,Software Engineering,6.62,DevOps Engineer,Java,No,1,No,Low
+MBA,Business Analytics,6.62,Business Analyst,Java,No,1,Yes,Low
+M.Sc,Software Engineering,9.5,Software Developer,Java,Yes,5,No,High
+MBA,Machine Learning,6.16,Data Scientist,Python,No,0,Yes,Low
+B.Sc,Information Security,8.02,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Data Science,9.54,Data Scientist,Python,Yes,5,Yes,High
+MCA,Finance,8.0,Business Analyst,Java,Yes,3,Yes,Medium
+MCA,Business Analytics,8.97,Business Analyst,Java,Yes,5,No,High
+M.Tech,Business Analytics,9.59,Business Analyst,Python,Yes,3,Yes,High
+MCA,Electronics,6.32,Support Engineer,Python,No,0,Yes,Low
+B.Sc,Data Science,6.76,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Information Security,8.52,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Data Science,6.37,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Data Science,8.64,Data Scientist,Python,Yes,4,Yes,High
+M.Tech,Data Science,9.38,Data Scientist,Python,Yes,3,Yes,High
+MCA,Machine Learning,9.44,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Machine Learning,8.64,AI Engineer,Python,Yes,5,Yes,High
+MBA,Electronics,6.21,Support Engineer,C++,No,1,No,Low
+BCA,Software Engineering,9.81,Software Developer,Java,Yes,3,Yes,High
+BBA,Cyber Security,7.19,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Tech,IT,6.29,Support Engineer,Python,No,1,Yes,Low
+BBA,Machine Learning,7.97,Data Scientist,Python,Yes,2,Yes,Medium
+B.Tech,Cyber Security,8.02,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BBA,IT,8.19,Cloud Engineer,Python,Yes,3,No,Medium
+M.Sc,Business Analytics,9.97,Business Analyst,C++,Yes,3,No,High
+BCA,CSE,8.31,DevOps Engineer,Java,Yes,3,No,Medium
+M.Sc,IT,9.57,Cloud Engineer,C++,Yes,5,No,High
+B.Tech,IT,7.29,Support Engineer,Java,No,3,No,Medium
+BBA,Information Security,8.26,Cyber Security Analyst,Python,Yes,3,No,Medium
+M.Sc,Information Security,9.88,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Electronics,8.37,Support Engineer,C++,Yes,3,No,Medium
+MBA,Finance,9.95,Business Analyst,Python,Yes,3,Yes,High
+MCA,Business Analytics,9.03,Business Analyst,Python,Yes,3,Yes,High
+B.Tech,Cyber Security,9.05,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,CSE,8.9,Software Developer,Java,Yes,4,Yes,High
+BBA,Finance,6.5,Business Analyst,C++,No,0,No,Low
+MCA,Data Science,9.82,Data Scientist,Python,Yes,5,Yes,High
+BCA,Machine Learning,7.27,Data Scientist,Python,No,3,Yes,Medium
+MBA,AI,8.65,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Business Analytics,7.38,Business Analyst,Java,No,3,No,Medium
+B.Sc,AI,7.35,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,Information Security,8.24,Cyber Security Analyst,Python,Yes,3,No,Medium
+M.Sc,Machine Learning,8.56,AI Engineer,Python,Yes,4,Yes,High
+BCA,CSE,8.15,DevOps Engineer,Python,Yes,3,Yes,Medium
+M.Sc,Software Engineering,6.76,DevOps Engineer,Java,No,0,No,Low
+B.Sc,Data Science,8.42,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Electronics,6.78,Support Engineer,C++,No,1,No,Low
+BCA,Business Analytics,8.98,Business Analyst,Java,Yes,3,Yes,High
+BBA,Data Science,9.75,Data Scientist,Python,Yes,5,Yes,High
+M.Tech,Cyber Security,8.2,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,Electronics,7.46,Support Engineer,C++,No,3,Yes,Medium
+MBA,IT,8.54,Cloud Engineer,Python,Yes,3,No,High
+B.Tech,Information Security,9.22,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Software Engineering,7.8,Software Developer,Java,Yes,3,Yes,Medium
+M.Sc,IT,6.99,Support Engineer,Python,No,1,No,Low
+M.Tech,Business Analytics,7.71,Business Analyst,Java,Yes,3,No,Medium
+B.Sc,Electronics,8.41,Support Engineer,Java,Yes,2,No,Medium
+BCA,Finance,7.85,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Machine Learning,7.34,Data Scientist,Python,No,3,Yes,Medium
+BBA,AI,6.92,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Finance,8.14,Business Analyst,Java,Yes,3,No,Medium
+MBA,AI,9.42,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Software Engineering,9.51,Software Developer,Java,Yes,5,No,High
+MBA,CSE,9.3,Software Developer,Python,Yes,5,Yes,High
+BBA,AI,6.39,Data Scientist,Python,No,0,Yes,Low
+B.Tech,Information Security,9.31,Cyber Security Analyst,Python,Yes,5,No,High
+B.Tech,AI,9.39,AI Engineer,Python,Yes,3,Yes,High
+MCA,Finance,6.84,Business Analyst,Python,No,0,Yes,Low
+MBA,Business Analytics,9.44,Business Analyst,Java,Yes,5,Yes,High
+M.Sc,CSE,6.77,DevOps Engineer,Java,No,0,No,Low
+B.Tech,Machine Learning,8.97,AI Engineer,Python,Yes,3,Yes,High
+BCA,CSE,9.69,Software Developer,Java,Yes,4,Yes,High
+MBA,Electronics,9.39,Cloud Engineer,Python,Yes,3,No,High
+BBA,Business Analytics,8.27,Business Analyst,Java,Yes,3,No,Medium
+MBA,Cyber Security,7.52,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Data Science,7.84,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Machine Learning,9.66,AI Engineer,Python,Yes,3,Yes,High
+MCA,AI,6.23,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Information Security,7.14,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Sc,AI,6.03,Data Scientist,Python,No,1,Yes,Low
+MBA,Electronics,6.85,Support Engineer,C++,No,0,No,Low
+B.Sc,CSE,6.47,DevOps Engineer,Python,No,0,Yes,Low
+B.Sc,CSE,7.67,DevOps Engineer,Java,Yes,2,Yes,Medium
+BCA,Machine Learning,6.48,Data Scientist,Python,No,0,Yes,Low
+B.Sc,IT,9.45,Cloud Engineer,Java,Yes,5,Yes,High
+MBA,AI,7.03,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,Data Science,9.34,Data Scientist,Python,Yes,3,Yes,High
+M.Sc,Data Science,8.32,Data Scientist,Python,Yes,2,Yes,Medium
+M.Sc,CSE,8.83,Software Developer,Python,Yes,4,No,High
+BCA,Finance,9.75,Business Analyst,Java,Yes,5,Yes,High
+MBA,CSE,8.82,Software Developer,Python,Yes,4,No,High
+BBA,Machine Learning,8.02,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Software Engineering,9.12,Software Developer,Java,Yes,3,Yes,High
+B.Sc,Data Science,8.36,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,CSE,8.54,Software Developer,Python,Yes,3,Yes,High
+B.Sc,Machine Learning,7.61,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Software Engineering,9.22,Software Developer,Java,Yes,3,No,High
+MBA,Finance,8.3,Business Analyst,Python,Yes,3,No,Medium
+B.Sc,Data Science,8.4,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Business Analytics,7.37,Business Analyst,C++,No,3,No,Medium
+B.Sc,Data Science,7.25,Business Analyst,Python,No,3,Yes,Medium
+M.Sc,CSE,8.6,Software Developer,C++,Yes,5,No,High
+M.Tech,AI,8.04,AI Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Information Security,6.59,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Software Engineering,6.44,DevOps Engineer,Java,No,0,Yes,Low
+BBA,Software Engineering,6.68,DevOps Engineer,Java,No,0,Yes,Low
+M.Sc,Cyber Security,7.94,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Finance,7.66,Business Analyst,C++,Yes,2,Yes,Medium
+B.Sc,AI,9.61,AI Engineer,Python,Yes,4,Yes,High
+BBA,Machine Learning,7.47,Data Scientist,Python,No,3,Yes,Medium
+M.Sc,Data Science,6.89,Business Analyst,Python,No,1,Yes,Low
+BCA,Software Engineering,8.05,Software Developer,Java,Yes,2,No,Medium
+M.Sc,Information Security,9.71,Cyber Security Analyst,Python,Yes,3,Yes,High
+MBA,Business Analytics,7.02,Business Analyst,Java,No,2,Yes,Medium
+MCA,Software Engineering,9.83,Software Developer,Java,Yes,3,No,High
+BCA,Electronics,7.86,Support Engineer,C++,Yes,3,Yes,Medium
+BBA,Machine Learning,7.28,Data Scientist,Python,No,3,Yes,Medium
+MCA,Information Security,7.51,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Sc,Electronics,8.54,Support Engineer,Python,Yes,3,Yes,High
+M.Sc,CSE,8.8,Software Developer,Java,Yes,3,No,High
+B.Sc,Electronics,7.85,Support Engineer,Java,Yes,2,Yes,Medium
+BCA,Business Analytics,8.8,Business Analyst,Java,Yes,3,Yes,High
+M.Sc,IT,9.7,Cloud Engineer,Java,Yes,3,Yes,High
+M.Sc,Data Science,7.59,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,Software Engineering,9.52,Software Developer,Java,Yes,5,No,High
+B.Sc,Information Security,9.52,Cyber Security Analyst,Python,Yes,3,No,High
+B.Sc,Information Security,7.48,Cyber Security Analyst,Python,No,2,No,Medium
+B.Sc,AI,8.81,AI Engineer,Python,Yes,3,Yes,High
+BBA,Cyber Security,6.31,Support Engineer,Python,No,1,Yes,Low
+B.Tech,CSE,6.8,DevOps Engineer,Python,No,0,No,Low
+BBA,Machine Learning,9.64,AI Engineer,Python,Yes,4,Yes,High
+MCA,Electronics,8.05,Support Engineer,Python,Yes,3,Yes,Medium
+BCA,IT,8.35,Cloud Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Cyber Security,6.36,Support Engineer,Python,No,0,Yes,Low
+MCA,Data Science,6.16,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Information Security,7.54,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Finance,8.31,Business Analyst,Java,Yes,2,Yes,Medium
+B.Sc,Business Analytics,9.49,Business Analyst,C++,Yes,3,Yes,High
+M.Tech,Machine Learning,6.26,Data Scientist,Python,No,0,Yes,Low
+MBA,Information Security,7.49,Cyber Security Analyst,Python,No,3,No,Medium
+BCA,Business Analytics,7.44,Business Analyst,C++,No,3,No,Medium
+BCA,IT,9.7,Cloud Engineer,C++,Yes,4,Yes,High
+BBA,IT,9.03,Cloud Engineer,Python,Yes,5,Yes,High
+BCA,Electronics,9.08,Cloud Engineer,C++,Yes,4,Yes,High
+BBA,AI,7.11,Data Scientist,Python,No,2,Yes,Medium
+MCA,Business Analytics,8.17,Business Analyst,C++,Yes,3,No,Medium
+MCA,Cyber Security,6.37,Support Engineer,Python,No,1,Yes,Low
+MCA,Finance,6.52,Business Analyst,Java,No,1,Yes,Low
+MBA,IT,9.34,Cloud Engineer,C++,Yes,3,Yes,High
+B.Sc,Information Security,8.13,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,Information Security,9.09,Cyber Security Analyst,Python,Yes,5,No,High
+M.Tech,Business Analytics,8.67,Business Analyst,Python,Yes,5,Yes,High
+BBA,Machine Learning,8.55,AI Engineer,Python,Yes,5,Yes,High
+BBA,Machine Learning,7.26,Data Scientist,Python,No,2,Yes,Medium
+BBA,AI,8.37,AI Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Software Engineering,6.2,DevOps Engineer,Java,No,0,No,Low
+MCA,IT,6.53,Support Engineer,Java,No,0,No,Low
+B.Tech,Cyber Security,6.78,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Data Science,8.97,Data Scientist,Python,Yes,4,Yes,High
+BCA,Data Science,9.5,Data Scientist,Python,Yes,3,Yes,High
+BBA,Software Engineering,8.16,Software Developer,Java,Yes,2,No,Medium
+BBA,CSE,7.9,DevOps Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Information Security,8.92,Cyber Security Analyst,Python,Yes,5,Yes,High
+BBA,AI,7.21,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,Cyber Security,9.77,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,CSE,7.0,DevOps Engineer,Java,No,2,Yes,Medium
+M.Sc,Business Analytics,8.37,Business Analyst,C++,Yes,2,Yes,Medium
+BBA,Electronics,8.14,Support Engineer,C++,Yes,3,No,Medium
+B.Sc,Data Science,6.72,Business Analyst,Python,No,1,Yes,Low
+M.Sc,Information Security,7.39,Cyber Security Analyst,Python,No,2,No,Medium
+M.Sc,Data Science,7.81,Business Analyst,Python,Yes,3,Yes,Medium
+MBA,Software Engineering,7.28,DevOps Engineer,Java,No,3,Yes,Medium
+BCA,Data Science,7.94,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,Finance,8.69,Business Analyst,C++,Yes,5,No,High
+M.Tech,Business Analytics,6.74,Business Analyst,C++,No,0,No,Low
+MCA,Finance,7.27,Business Analyst,Java,No,3,No,Medium
+MCA,Machine Learning,8.98,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,IT,7.35,Support Engineer,Java,No,3,No,Medium
+M.Tech,AI,9.06,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,CSE,9.9,Software Developer,Python,Yes,3,No,High
+B.Sc,AI,7.41,Data Scientist,Python,No,3,Yes,Medium
+BBA,Finance,6.4,Business Analyst,Python,No,1,No,Low
+MCA,Cyber Security,9.99,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Software Engineering,9.45,Software Developer,Java,Yes,3,Yes,High
+BCA,Machine Learning,9.35,AI Engineer,Python,Yes,4,Yes,High
+BCA,Software Engineering,6.13,DevOps Engineer,Java,No,1,Yes,Low
+BBA,Business Analytics,8.68,Business Analyst,C++,Yes,3,Yes,High
+MBA,Business Analytics,8.6,Business Analyst,C++,Yes,3,Yes,High
+BBA,Electronics,6.9,Support Engineer,Java,No,1,No,Low
+B.Tech,Business Analytics,7.31,Business Analyst,Java,No,2,No,Medium
+B.Tech,Software Engineering,9.59,Software Developer,Java,Yes,5,No,High
+B.Sc,Finance,7.69,Business Analyst,C++,Yes,2,Yes,Medium
+MBA,IT,7.5,Support Engineer,C++,Yes,3,Yes,Medium
+B.Tech,CSE,7.62,DevOps Engineer,Java,Yes,3,No,Medium
+M.Sc,Machine Learning,7.41,Data Scientist,Python,No,3,Yes,Medium
+BBA,Software Engineering,9.29,Software Developer,Java,Yes,3,Yes,High
+MBA,Software Engineering,9.24,Software Developer,Java,Yes,3,No,High
+MBA,Business Analytics,8.3,Business Analyst,C++,Yes,2,Yes,Medium
+M.Sc,IT,6.37,Support Engineer,C++,No,1,No,Low
+MCA,IT,8.56,Cloud Engineer,Python,Yes,4,No,High
+B.Sc,Machine Learning,9.15,AI Engineer,Python,Yes,3,Yes,High
+MBA,Data Science,7.3,Business Analyst,Python,No,3,Yes,Medium
+M.Sc,Finance,6.01,Business Analyst,C++,No,0,No,Low
+BBA,AI,6.68,Data Scientist,Python,No,0,Yes,Low
+MBA,Machine Learning,7.47,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,Data Science,7.2,Business Analyst,Python,No,2,Yes,Medium
+BCA,Finance,6.68,Business Analyst,Python,No,1,No,Low
+BBA,AI,6.14,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Machine Learning,9.24,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Information Security,8.55,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Business Analytics,6.18,Business Analyst,C++,No,1,Yes,Low
+B.Sc,CSE,9.16,Software Developer,Python,Yes,4,Yes,High
+M.Tech,Business Analytics,6.54,Business Analyst,C++,No,0,No,Low
+M.Tech,Business Analytics,9.7,Business Analyst,Java,Yes,4,Yes,High
+MBA,Machine Learning,6.96,Data Scientist,Python,No,0,Yes,Low
+MBA,Business Analytics,6.63,Business Analyst,Python,No,1,No,Low
+MCA,Finance,7.26,Business Analyst,C++,No,3,Yes,Medium
+B.Sc,AI,8.42,AI Engineer,Python,Yes,3,Yes,Medium
+BBA,Software Engineering,7.35,DevOps Engineer,Java,No,2,No,Medium
+M.Tech,Electronics,8.21,Support Engineer,C++,Yes,2,Yes,Medium
+B.Tech,Finance,6.27,Business Analyst,C++,No,0,Yes,Low
+B.Tech,IT,6.14,Support Engineer,Java,No,0,No,Low
+M.Tech,AI,6.25,Data Scientist,Python,No,0,Yes,Low
+MBA,CSE,7.8,DevOps Engineer,Python,Yes,3,No,Medium
+B.Tech,Software Engineering,6.1,DevOps Engineer,Java,No,1,No,Low
+MBA,Data Science,8.59,Data Scientist,Python,Yes,5,Yes,High
+BCA,Finance,9.84,Business Analyst,Java,Yes,4,No,High
+M.Tech,IT,6.85,Support Engineer,C++,No,1,No,Low
+MCA,Electronics,6.79,Support Engineer,C++,No,0,Yes,Low
+BCA,IT,9.74,Cloud Engineer,Python,Yes,3,No,High
+B.Sc,AI,8.78,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Machine Learning,7.07,Data Scientist,Python,No,2,Yes,Medium
+MBA,AI,7.62,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Information Security,8.8,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Data Science,7.02,Business Analyst,Python,No,3,Yes,Medium
+B.Tech,Machine Learning,9.3,AI Engineer,Python,Yes,4,Yes,High
+MBA,Electronics,9.18,Cloud Engineer,Java,Yes,4,No,High
+M.Sc,Information Security,9.14,Cyber Security Analyst,Python,Yes,3,No,High
+B.Tech,Software Engineering,9.13,Software Developer,Java,Yes,5,Yes,High
+B.Tech,AI,7.14,Data Scientist,Python,No,3,Yes,Medium
+M.Sc,Electronics,7.08,Support Engineer,Python,No,2,Yes,Medium
+MCA,CSE,6.45,DevOps Engineer,Java,No,1,No,Low
+MBA,Electronics,8.33,Support Engineer,Java,Yes,2,No,Medium
+B.Sc,Data Science,9.77,Data Scientist,Python,Yes,5,Yes,High
+M.Tech,Information Security,9.06,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Sc,CSE,7.0,DevOps Engineer,Python,No,2,Yes,Medium
+MCA,IT,8.02,Cloud Engineer,C++,Yes,2,No,Medium
+M.Tech,Business Analytics,9.94,Business Analyst,Python,Yes,3,No,High
+BCA,IT,9.47,Cloud Engineer,Python,Yes,4,Yes,High
+B.Tech,Electronics,8.21,Support Engineer,C++,Yes,2,No,Medium
+M.Tech,Software Engineering,7.02,DevOps Engineer,Java,No,3,No,Medium
+M.Sc,IT,6.47,Support Engineer,Java,No,0,Yes,Low
+M.Sc,Business Analytics,6.7,Business Analyst,Python,No,0,No,Low
+B.Tech,Machine Learning,8.87,AI Engineer,Python,Yes,5,Yes,High
+BBA,Finance,6.98,Business Analyst,Java,No,0,No,Low
+M.Sc,Business Analytics,6.64,Business Analyst,C++,No,0,Yes,Low
+M.Sc,Electronics,6.6,Support Engineer,Java,No,0,No,Low
+MCA,Business Analytics,8.01,Business Analyst,C++,Yes,3,Yes,Medium
+MBA,Electronics,8.61,Support Engineer,Python,Yes,3,Yes,High
+BBA,Finance,7.68,Business Analyst,Java,Yes,3,No,Medium
+BBA,Electronics,8.17,Support Engineer,Python,Yes,3,No,Medium
+M.Tech,Software Engineering,6.28,DevOps Engineer,Java,No,0,Yes,Low
+M.Sc,Cyber Security,6.57,Support Engineer,Python,No,1,Yes,Low
+B.Sc,Finance,7.66,Business Analyst,Java,Yes,2,Yes,Medium
+MBA,Software Engineering,8.01,Software Developer,Java,Yes,3,Yes,Medium
+BBA,Business Analytics,8.61,Business Analyst,Python,Yes,4,No,High
+M.Tech,Machine Learning,6.52,Data Scientist,Python,No,0,Yes,Low
+BCA,Cyber Security,8.9,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,Software Engineering,6.07,DevOps Engineer,Java,No,0,Yes,Low
+MBA,CSE,6.17,DevOps Engineer,Python,No,0,No,Low
+BBA,CSE,9.7,Software Developer,C++,Yes,4,Yes,High
+MCA,Business Analytics,9.22,Business Analyst,Java,Yes,5,No,High
+M.Tech,Cyber Security,7.17,Cyber Security Analyst,Python,No,3,Yes,Medium
+MBA,IT,8.91,Cloud Engineer,Java,Yes,4,Yes,High
+MBA,Cyber Security,7.16,Cyber Security Analyst,Python,No,3,Yes,Medium
+MCA,Finance,6.64,Business Analyst,C++,No,0,Yes,Low
+B.Tech,AI,7.18,Data Scientist,Python,No,3,Yes,Medium
+BBA,Cyber Security,9.1,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Finance,8.55,Business Analyst,Python,Yes,4,No,High
+BCA,Information Security,6.52,Support Engineer,Python,No,0,Yes,Low
+BCA,Electronics,7.64,Support Engineer,C++,Yes,2,Yes,Medium
+BCA,Machine Learning,8.95,AI Engineer,Python,Yes,3,Yes,High
+M.Tech,Business Analytics,8.94,Business Analyst,Java,Yes,4,Yes,High
+MCA,Information Security,7.37,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Data Science,8.48,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Information Security,7.87,Cyber Security Analyst,Python,Yes,3,No,Medium
+MCA,Electronics,9.79,Cloud Engineer,Python,Yes,3,Yes,High
+BBA,AI,8.07,AI Engineer,Python,Yes,3,Yes,Medium
+M.Sc,IT,8.21,Cloud Engineer,Java,Yes,3,No,Medium
+B.Sc,Cyber Security,7.54,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,Electronics,6.77,Support Engineer,Java,No,0,Yes,Low
+MCA,Finance,8.46,Business Analyst,Java,Yes,2,No,Medium
+M.Sc,Cyber Security,7.7,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Sc,Finance,7.2,Business Analyst,Java,No,3,No,Medium
+B.Sc,Software Engineering,7.33,DevOps Engineer,Java,No,2,No,Medium
+MCA,Information Security,6.35,Support Engineer,Python,No,0,Yes,Low
+B.Tech,CSE,6.32,DevOps Engineer,C++,No,0,Yes,Low
+B.Sc,IT,9.03,Cloud Engineer,Python,Yes,4,Yes,High
+MBA,Machine Learning,6.9,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Data Science,9.33,Data Scientist,Python,Yes,3,Yes,High
+BBA,Finance,7.28,Business Analyst,C++,No,2,No,Medium
+M.Sc,Software Engineering,9.51,Software Developer,Java,Yes,4,No,High
+M.Sc,Electronics,9.07,Cloud Engineer,Java,Yes,3,No,High
+M.Tech,CSE,6.54,DevOps Engineer,Python,No,1,No,Low
+M.Tech,AI,6.59,Data Scientist,Python,No,0,Yes,Low
+M.Sc,IT,6.3,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Data Science,7.43,Business Analyst,Python,No,2,Yes,Medium
+BCA,Data Science,8.28,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Software Engineering,9.35,Software Developer,Java,Yes,5,No,High
+M.Sc,Electronics,8.49,Support Engineer,Java,Yes,3,Yes,Medium
+MCA,Electronics,9.15,Cloud Engineer,Java,Yes,4,Yes,High
+MCA,Data Science,8.98,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,Data Science,9.66,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Cyber Security,8.19,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Sc,Machine Learning,9.29,AI Engineer,Python,Yes,3,Yes,High
+BCA,AI,6.89,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Software Engineering,7.87,Software Developer,Java,Yes,2,No,Medium
+BCA,Finance,8.22,Business Analyst,Java,Yes,2,No,Medium
+M.Tech,Business Analytics,6.53,Business Analyst,Java,No,0,Yes,Low
+M.Tech,Electronics,9.26,Cloud Engineer,Python,Yes,3,Yes,High
+BCA,Cyber Security,7.77,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,Information Security,8.37,Cyber Security Analyst,Python,Yes,3,No,Medium
+BCA,Software Engineering,8.7,Software Developer,Java,Yes,5,No,High
+BCA,Finance,9.56,Business Analyst,C++,Yes,5,Yes,High
+M.Tech,Electronics,6.98,Support Engineer,Java,No,1,Yes,Low
+MBA,Software Engineering,6.09,DevOps Engineer,Java,No,1,No,Low
+MCA,Machine Learning,8.05,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,CSE,9.83,Software Developer,Python,Yes,5,Yes,High
+BCA,Business Analytics,8.15,Business Analyst,Python,Yes,3,No,Medium
+B.Tech,Data Science,9.24,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,Machine Learning,8.38,AI Engineer,Python,Yes,2,Yes,Medium
+MCA,AI,6.53,Data Scientist,Python,No,0,Yes,Low
+M.Sc,AI,8.34,AI Engineer,Python,Yes,3,Yes,Medium
+MBA,Finance,8.87,Business Analyst,Java,Yes,5,Yes,High
+BBA,Electronics,7.63,Support Engineer,C++,Yes,2,Yes,Medium
+BCA,Software Engineering,9.64,Software Developer,Java,Yes,5,Yes,High
+MBA,Electronics,8.37,Support Engineer,Python,Yes,3,No,Medium
+BCA,AI,6.69,Data Scientist,Python,No,0,Yes,Low
+B.Sc,Machine Learning,7.03,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,Data Science,9.89,Data Scientist,Python,Yes,4,Yes,High
+MCA,Business Analytics,9.2,Business Analyst,C++,Yes,5,No,High
+B.Sc,CSE,7.91,DevOps Engineer,C++,Yes,2,Yes,Medium
+M.Sc,Software Engineering,9.11,Software Developer,Java,Yes,3,Yes,High
+B.Tech,AI,9.03,AI Engineer,Python,Yes,3,Yes,High
+BBA,Business Analytics,8.69,Business Analyst,C++,Yes,3,No,High
+M.Tech,AI,6.72,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Data Science,8.66,Data Scientist,Python,Yes,4,Yes,High
+BCA,Finance,6.78,Business Analyst,Java,No,0,No,Low
+BCA,Data Science,9.09,Data Scientist,Python,Yes,4,Yes,High
+B.Sc,Software Engineering,8.38,Software Developer,Java,Yes,3,No,Medium
+MCA,IT,8.65,Cloud Engineer,Java,Yes,5,No,High
+M.Sc,Cyber Security,6.53,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Electronics,8.53,Support Engineer,C++,Yes,3,Yes,High
+MCA,CSE,9.89,Software Developer,Python,Yes,4,No,High
+BCA,Data Science,9.53,Data Scientist,Python,Yes,3,Yes,High
+B.Sc,Electronics,9.2,Cloud Engineer,Python,Yes,4,Yes,High
+M.Tech,Software Engineering,6.81,DevOps Engineer,Java,No,1,No,Low
+MBA,Machine Learning,9.79,AI Engineer,Python,Yes,4,Yes,High
+MBA,IT,9.67,Cloud Engineer,Python,Yes,3,No,High
+BCA,CSE,8.72,Software Developer,Java,Yes,4,No,High
+BCA,Cyber Security,6.12,Support Engineer,Python,No,1,Yes,Low
+BCA,CSE,8.64,Software Developer,Python,Yes,4,Yes,High
+BCA,CSE,9.14,Software Developer,C++,Yes,4,Yes,High
+BBA,IT,7.27,Support Engineer,Java,No,3,No,Medium
+M.Sc,CSE,8.48,DevOps Engineer,C++,Yes,2,Yes,Medium
+BCA,Electronics,7.93,Support Engineer,C++,Yes,3,Yes,Medium
+B.Sc,Software Engineering,9.33,Software Developer,Java,Yes,5,No,High
+MCA,Cyber Security,8.22,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,CSE,9.16,Software Developer,C++,Yes,3,Yes,High
+M.Tech,IT,8.6,Cloud Engineer,Python,Yes,4,No,High
+B.Sc,AI,7.91,AI Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Information Security,8.84,Cyber Security Analyst,Python,Yes,3,No,High
+MBA,CSE,6.52,DevOps Engineer,C++,No,0,No,Low
+M.Sc,Finance,8.37,Business Analyst,Java,Yes,2,Yes,Medium
+MCA,Information Security,9.68,Cyber Security Analyst,Python,Yes,4,No,High
+M.Tech,Electronics,8.65,Support Engineer,Java,Yes,4,Yes,High
+B.Tech,Cyber Security,9.99,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,IT,6.81,Support Engineer,C++,No,1,Yes,Low
+M.Sc,Software Engineering,9.47,Software Developer,Java,Yes,5,Yes,High
+M.Tech,Software Engineering,7.26,DevOps Engineer,Java,No,3,Yes,Medium
+M.Tech,Cyber Security,9.73,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Business Analytics,7.34,Business Analyst,C++,No,3,No,Medium
+BCA,Machine Learning,9.38,AI Engineer,Python,Yes,4,Yes,High
+BBA,IT,7.76,Support Engineer,Java,Yes,2,Yes,Medium
+M.Tech,AI,6.94,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Machine Learning,8.51,AI Engineer,Python,Yes,3,Yes,High
+BCA,Data Science,8.26,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Software Engineering,9.53,Software Developer,Java,Yes,5,No,High
+MBA,Software Engineering,8.18,Software Developer,Java,Yes,2,No,Medium
+MBA,AI,6.32,Data Scientist,Python,No,0,Yes,Low
+MBA,Software Engineering,7.13,DevOps Engineer,Java,No,3,No,Medium
+B.Sc,Machine Learning,8.74,AI Engineer,Python,Yes,4,Yes,High
+BBA,IT,9.36,Cloud Engineer,Java,Yes,4,Yes,High
+MCA,Data Science,7.82,Business Analyst,Python,Yes,2,Yes,Medium
+MCA,AI,7.48,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Electronics,6.08,Support Engineer,Java,No,0,Yes,Low
+M.Sc,Machine Learning,9.5,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,IT,9.68,Cloud Engineer,C++,Yes,4,No,High
+B.Sc,Data Science,7.0,Business Analyst,Python,No,3,Yes,Medium
+B.Sc,Finance,6.68,Business Analyst,C++,No,1,Yes,Low
+BCA,AI,6.83,Data Scientist,Python,No,1,Yes,Low
+BBA,Information Security,6.63,Support Engineer,Python,No,1,No,Low
+MCA,Data Science,8.68,Data Scientist,Python,Yes,3,Yes,High
+BBA,IT,6.59,Support Engineer,Java,No,0,Yes,Low
+B.Tech,Electronics,9.99,Cloud Engineer,Python,Yes,4,No,High
+MCA,IT,8.12,Cloud Engineer,Python,Yes,2,No,Medium
+M.Tech,Data Science,8.03,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,IT,8.57,Cloud Engineer,Python,Yes,3,No,High
+MBA,Software Engineering,9.29,Software Developer,Java,Yes,4,No,High
+M.Sc,AI,9.88,AI Engineer,Python,Yes,3,Yes,High
+BCA,Cyber Security,9.52,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Electronics,6.77,Support Engineer,C++,No,1,Yes,Low
+B.Tech,AI,9.97,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Business Analytics,6.08,Business Analyst,Java,No,0,No,Low
+B.Sc,AI,7.69,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Business Analytics,8.52,Business Analyst,C++,Yes,5,No,High
+B.Sc,Finance,8.8,Business Analyst,Java,Yes,4,Yes,High
+B.Sc,Software Engineering,8.48,Software Developer,Java,Yes,3,Yes,Medium
+BCA,Software Engineering,9.67,Software Developer,Java,Yes,3,Yes,High
+M.Tech,Software Engineering,6.61,DevOps Engineer,Java,No,0,Yes,Low
+MCA,Software Engineering,6.29,DevOps Engineer,Java,No,1,Yes,Low
+B.Sc,Software Engineering,8.5,Software Developer,Java,Yes,3,Yes,High
+MBA,Finance,7.75,Business Analyst,C++,Yes,3,No,Medium
+B.Tech,Data Science,9.11,Data Scientist,Python,Yes,3,Yes,High
+B.Sc,Finance,9.75,Business Analyst,Python,Yes,3,Yes,High
+MCA,Cyber Security,8.94,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Information Security,7.42,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Business Analytics,9.26,Business Analyst,Python,Yes,5,No,High
+BCA,Cyber Security,8.13,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Cyber Security,7.78,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,IT,7.21,Support Engineer,Java,No,2,No,Medium
+B.Tech,Software Engineering,8.0,Software Developer,Java,Yes,2,Yes,Medium
+B.Tech,CSE,6.47,DevOps Engineer,C++,No,1,No,Low
+M.Tech,Electronics,9.66,Cloud Engineer,C++,Yes,4,No,High
+MCA,IT,6.28,Support Engineer,C++,No,1,Yes,Low
+BCA,Software Engineering,6.73,DevOps Engineer,Java,No,0,No,Low
+B.Sc,IT,8.69,Cloud Engineer,Python,Yes,3,Yes,High
+MBA,Electronics,8.29,Support Engineer,Java,Yes,3,No,Medium
+BCA,Finance,6.07,Business Analyst,C++,No,1,Yes,Low
+B.Tech,AI,8.44,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Finance,6.06,Business Analyst,Java,No,0,Yes,Low
+M.Sc,Finance,7.62,Business Analyst,Java,Yes,3,Yes,Medium
+BCA,Business Analytics,9.25,Business Analyst,Java,Yes,3,No,High
+M.Sc,Business Analytics,8.06,Business Analyst,Python,Yes,2,No,Medium
+MCA,Electronics,6.57,Support Engineer,Python,No,0,No,Low
+BCA,AI,8.74,AI Engineer,Python,Yes,5,Yes,High
+MCA,Cyber Security,8.46,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,AI,7.6,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Machine Learning,8.34,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Finance,6.74,Business Analyst,Java,No,0,Yes,Low
+BBA,Electronics,8.77,Support Engineer,Java,Yes,5,Yes,High
+MCA,Machine Learning,6.61,Data Scientist,Python,No,1,Yes,Low
+MBA,Information Security,9.0,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Data Science,8.0,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,AI,7.74,Data Scientist,Python,Yes,3,Yes,Medium
+BCA,AI,8.83,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Electronics,6.98,Support Engineer,Python,No,0,No,Low
+B.Sc,AI,9.76,AI Engineer,Python,Yes,4,Yes,High
+BCA,Data Science,8.39,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,IT,6.09,Support Engineer,C++,No,1,No,Low
+MBA,IT,9.03,Cloud Engineer,Python,Yes,5,No,High
+MCA,Information Security,7.07,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Tech,IT,6.06,Support Engineer,Python,No,0,No,Low
+M.Sc,Business Analytics,8.08,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Machine Learning,7.62,Data Scientist,Python,Yes,2,Yes,Medium
+M.Sc,Electronics,6.16,Support Engineer,C++,No,1,Yes,Low
+B.Tech,Cyber Security,7.34,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Electronics,7.43,Support Engineer,C++,No,2,Yes,Medium
+B.Tech,IT,7.48,Support Engineer,Java,No,2,Yes,Medium
+B.Tech,Electronics,6.72,Support Engineer,Java,No,0,Yes,Low
+M.Tech,Finance,6.13,Business Analyst,Java,No,1,Yes,Low
+B.Sc,Software Engineering,7.87,Software Developer,Java,Yes,3,No,Medium
+MBA,IT,6.55,Support Engineer,C++,No,1,No,Low
+M.Sc,Cyber Security,6.63,Support Engineer,Python,No,0,Yes,Low
+BCA,Information Security,7.09,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Business Analytics,9.65,Business Analyst,C++,Yes,4,No,High
+MBA,IT,9.41,Cloud Engineer,Python,Yes,3,No,High
+M.Tech,Information Security,7.26,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Sc,Data Science,7.13,Business Analyst,Python,No,2,Yes,Medium
+MBA,Information Security,8.4,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Information Security,9.32,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Sc,Cyber Security,7.2,Cyber Security Analyst,Python,No,2,Yes,Medium
+MCA,AI,7.75,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Electronics,7.44,Support Engineer,Java,No,3,No,Medium
+MCA,Finance,9.55,Business Analyst,C++,Yes,3,Yes,High
+BCA,AI,9.47,AI Engineer,Python,Yes,3,Yes,High
+MCA,Finance,7.02,Business Analyst,C++,No,3,No,Medium
+M.Tech,Software Engineering,7.74,Software Developer,Java,Yes,3,No,Medium
+B.Sc,Information Security,8.55,Cyber Security Analyst,Python,Yes,3,No,High
+BBA,IT,6.79,Support Engineer,C++,No,1,No,Low
+MBA,CSE,8.49,DevOps Engineer,Java,Yes,2,No,Medium
+B.Tech,Software Engineering,7.04,DevOps Engineer,Java,No,3,No,Medium
+B.Tech,Finance,9.54,Business Analyst,Java,Yes,4,No,High
+BCA,CSE,6.16,DevOps Engineer,Python,No,0,Yes,Low
+B.Tech,Machine Learning,6.34,Data Scientist,Python,No,1,Yes,Low
+BBA,Business Analytics,9.96,Business Analyst,C++,Yes,3,Yes,High
+M.Tech,Information Security,9.06,Cyber Security Analyst,Python,Yes,5,No,High
+M.Tech,Business Analytics,6.47,Business Analyst,Java,No,1,Yes,Low
+MBA,Data Science,6.04,Business Analyst,Python,No,0,Yes,Low
+MCA,CSE,8.86,Software Developer,Java,Yes,4,Yes,High
+BBA,Machine Learning,8.67,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Information Security,9.89,Cyber Security Analyst,Python,Yes,4,No,High
+M.Tech,IT,9.42,Cloud Engineer,C++,Yes,4,Yes,High
+MBA,AI,6.36,Data Scientist,Python,No,1,Yes,Low
+M.Sc,CSE,7.47,DevOps Engineer,Java,No,3,No,Medium
+MBA,CSE,8.04,DevOps Engineer,C++,Yes,2,No,Medium
+BBA,Electronics,6.9,Support Engineer,Java,No,1,No,Low
+BBA,Business Analytics,6.65,Business Analyst,Python,No,0,Yes,Low
+B.Tech,IT,9.57,Cloud Engineer,Java,Yes,3,No,High
+MCA,Information Security,9.31,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Tech,Electronics,7.75,Support Engineer,C++,Yes,2,No,Medium
+M.Tech,AI,7.93,AI Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Cyber Security,6.92,Support Engineer,Python,No,0,Yes,Low
+M.Tech,IT,9.29,Cloud Engineer,C++,Yes,5,No,High
+B.Sc,CSE,7.04,DevOps Engineer,Java,No,2,Yes,Medium
+BCA,Information Security,8.0,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Machine Learning,9.84,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,AI,9.3,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Information Security,8.67,Cyber Security Analyst,Python,Yes,4,No,High
+MCA,Information Security,9.9,Cyber Security Analyst,Python,Yes,3,No,High
+BCA,Data Science,9.81,Data Scientist,Python,Yes,5,Yes,High
+B.Tech,Business Analytics,6.08,Business Analyst,Java,No,0,Yes,Low
+MBA,Business Analytics,9.97,Business Analyst,Java,Yes,5,No,High
+M.Tech,Business Analytics,7.93,Business Analyst,Java,Yes,2,Yes,Medium
+MCA,Business Analytics,8.88,Business Analyst,Python,Yes,3,No,High
+BCA,CSE,8.85,Software Developer,Python,Yes,5,Yes,High
+MCA,CSE,9.46,Software Developer,Java,Yes,3,Yes,High
+MBA,Information Security,7.96,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BCA,Electronics,9.56,Cloud Engineer,C++,Yes,3,Yes,High
+B.Sc,Machine Learning,7.8,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Electronics,9.77,Cloud Engineer,Python,Yes,5,No,High
+B.Sc,Business Analytics,7.77,Business Analyst,Java,Yes,2,No,Medium
+BBA,Finance,8.31,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,Business Analytics,6.46,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Cyber Security,7.99,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,IT,8.27,Cloud Engineer,C++,Yes,2,No,Medium
+M.Tech,Machine Learning,7.5,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Cyber Security,7.54,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,CSE,9.82,Software Developer,C++,Yes,5,No,High
+BCA,AI,9.83,AI Engineer,Python,Yes,4,Yes,High
+MCA,Data Science,9.02,Data Scientist,Python,Yes,5,Yes,High
+MCA,IT,8.58,Cloud Engineer,C++,Yes,5,Yes,High
+M.Tech,Business Analytics,7.02,Business Analyst,Java,No,3,Yes,Medium
+B.Tech,Cyber Security,7.27,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Business Analytics,8.32,Business Analyst,Java,Yes,2,No,Medium
+BCA,Finance,7.16,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,IT,9.04,Cloud Engineer,Python,Yes,4,Yes,High
+BCA,CSE,6.78,DevOps Engineer,C++,No,1,No,Low
+MBA,Finance,9.08,Business Analyst,Python,Yes,4,No,High
+B.Sc,Cyber Security,7.36,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,Data Science,7.79,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,AI,6.93,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Business Analytics,8.99,Business Analyst,Python,Yes,5,Yes,High
+BCA,Cyber Security,8.44,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BCA,Software Engineering,8.63,Software Developer,Java,Yes,4,No,High
+B.Sc,CSE,9.39,Software Developer,Python,Yes,4,Yes,High
+M.Tech,Business Analytics,7.85,Business Analyst,Java,Yes,3,No,Medium
+MBA,CSE,8.55,Software Developer,Java,Yes,3,Yes,High
+BBA,Machine Learning,7.8,Data Scientist,Python,Yes,3,Yes,Medium
+M.Sc,Electronics,9.91,Cloud Engineer,Python,Yes,5,Yes,High
+B.Tech,AI,6.79,Data Scientist,Python,No,0,Yes,Low
+BCA,Cyber Security,8.5,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Sc,AI,9.56,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Machine Learning,9.32,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Finance,7.38,Business Analyst,C++,No,3,Yes,Medium
+BBA,Cyber Security,6.33,Support Engineer,Python,No,0,Yes,Low
+B.Tech,CSE,7.48,DevOps Engineer,C++,No,3,No,Medium
+MBA,IT,9.06,Cloud Engineer,Python,Yes,5,Yes,High
+MCA,CSE,9.15,Software Developer,Python,Yes,5,No,High
+B.Sc,AI,9.03,AI Engineer,Python,Yes,5,Yes,High
+MCA,Data Science,9.55,Data Scientist,Python,Yes,3,Yes,High
+M.Sc,Software Engineering,7.23,DevOps Engineer,Java,No,3,No,Medium
+B.Sc,Software Engineering,7.26,DevOps Engineer,Java,No,2,No,Medium
+M.Sc,Finance,7.65,Business Analyst,Java,Yes,2,No,Medium
+M.Tech,Software Engineering,6.77,DevOps Engineer,Java,No,0,Yes,Low
+MBA,CSE,7.87,DevOps Engineer,Python,Yes,2,No,Medium
+BCA,Electronics,7.85,Support Engineer,C++,Yes,3,No,Medium
+M.Tech,Data Science,6.01,Business Analyst,Python,No,1,Yes,Low
+BCA,CSE,7.99,DevOps Engineer,Python,Yes,2,No,Medium
+BCA,CSE,8.7,Software Developer,C++,Yes,3,No,High
+M.Sc,Software Engineering,6.12,DevOps Engineer,Java,No,1,No,Low
+M.Tech,Software Engineering,9.84,Software Developer,Java,Yes,3,Yes,High
+BCA,Information Security,9.62,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Finance,6.15,Business Analyst,Java,No,0,No,Low
+M.Sc,Electronics,6.13,Support Engineer,Python,No,1,Yes,Low
+M.Sc,Electronics,7.71,Support Engineer,C++,Yes,2,No,Medium
+B.Tech,IT,6.71,Support Engineer,C++,No,1,No,Low
+M.Sc,Data Science,7.37,Business Analyst,Python,No,3,Yes,Medium
+MCA,IT,8.8,Cloud Engineer,Python,Yes,5,Yes,High
+M.Sc,Machine Learning,7.56,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Software Engineering,9.27,Software Developer,Java,Yes,4,Yes,High
+BCA,AI,8.29,AI Engineer,Python,Yes,3,Yes,Medium
+BBA,AI,7.05,Data Scientist,Python,No,2,Yes,Medium
+MCA,AI,8.92,AI Engineer,Python,Yes,3,Yes,High
+MCA,Cyber Security,7.71,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Sc,Electronics,6.21,Support Engineer,Python,No,0,No,Low
+BCA,Electronics,9.06,Cloud Engineer,C++,Yes,3,Yes,High
+B.Sc,AI,7.46,Data Scientist,Python,No,2,Yes,Medium
+MBA,Finance,9.72,Business Analyst,C++,Yes,5,Yes,High
+B.Tech,AI,9.02,AI Engineer,Python,Yes,3,Yes,High
+BCA,Information Security,9.6,Cyber Security Analyst,Python,Yes,5,No,High
+BBA,AI,7.24,Data Scientist,Python,No,3,Yes,Medium
+BBA,Machine Learning,7.97,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Information Security,8.34,Cyber Security Analyst,Python,Yes,3,No,Medium
+MBA,Cyber Security,9.08,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Cyber Security,9.96,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,Machine Learning,9.07,AI Engineer,Python,Yes,3,Yes,High
+M.Tech,Electronics,9.33,Cloud Engineer,Python,Yes,3,No,High
+BBA,CSE,7.46,DevOps Engineer,Java,No,2,No,Medium
+BBA,Software Engineering,8.7,Software Developer,Java,Yes,4,No,High
+BBA,Information Security,6.7,Support Engineer,Python,No,0,Yes,Low
+B.Sc,Machine Learning,7.31,Data Scientist,Python,No,3,Yes,Medium
+MBA,AI,9.35,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,AI,7.52,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Data Science,8.63,Data Scientist,Python,Yes,5,Yes,High
+MBA,Software Engineering,6.52,DevOps Engineer,Java,No,0,No,Low
+B.Sc,Finance,7.18,Business Analyst,Java,No,2,Yes,Medium
+MBA,Data Science,6.5,Business Analyst,Python,No,0,Yes,Low
+BBA,Information Security,6.09,Support Engineer,Python,No,0,No,Low
+BCA,Cyber Security,7.97,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,CSE,8.16,DevOps Engineer,C++,Yes,3,Yes,Medium
+MCA,Electronics,9.19,Cloud Engineer,C++,Yes,5,No,High
+B.Tech,AI,7.8,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,IT,7.64,Support Engineer,Java,Yes,2,Yes,Medium
+MCA,Finance,6.16,Business Analyst,Python,No,1,Yes,Low
+BCA,Business Analytics,6.03,Business Analyst,Java,No,0,No,Low
+B.Sc,Software Engineering,9.62,Software Developer,Java,Yes,5,No,High
+M.Tech,AI,6.71,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Information Security,6.18,Support Engineer,Python,No,1,No,Low
+M.Tech,Information Security,8.44,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,AI,8.85,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Electronics,8.57,Support Engineer,Java,Yes,4,Yes,High
+MBA,Electronics,6.12,Support Engineer,C++,No,1,No,Low
+MCA,Data Science,6.61,Business Analyst,Python,No,1,Yes,Low
+B.Tech,Data Science,6.13,Business Analyst,Python,No,1,Yes,Low
+BBA,Information Security,7.7,Cyber Security Analyst,Python,Yes,2,No,Medium
+B.Tech,Data Science,6.77,Business Analyst,Python,No,1,Yes,Low
+M.Tech,Cyber Security,8.64,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Finance,7.19,Business Analyst,Python,No,3,Yes,Medium
+MBA,Data Science,7.04,Business Analyst,Python,No,3,Yes,Medium
+B.Sc,CSE,6.87,DevOps Engineer,Java,No,1,Yes,Low
+BCA,AI,7.52,Data Scientist,Python,Yes,2,Yes,Medium
+B.Tech,Business Analytics,6.35,Business Analyst,Java,No,0,No,Low
+M.Tech,Electronics,8.04,Support Engineer,C++,Yes,3,No,Medium
+MCA,Finance,9.18,Business Analyst,Python,Yes,3,No,High
+MBA,Finance,7.77,Business Analyst,Java,Yes,3,No,Medium
+MBA,Information Security,9.52,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Electronics,6.95,Support Engineer,Python,No,1,No,Low
+B.Sc,Information Security,8.07,Cyber Security Analyst,Python,Yes,2,No,Medium
+BBA,Machine Learning,9.04,AI Engineer,Python,Yes,4,Yes,High
+MCA,Cyber Security,8.55,Cyber Security Analyst,Python,Yes,3,Yes,High
+MBA,Finance,6.58,Business Analyst,Java,No,0,No,Low
+MBA,Machine Learning,9.14,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Information Security,8.6,Cyber Security Analyst,Python,Yes,3,No,High
+BBA,Business Analytics,9.28,Business Analyst,Java,Yes,3,No,High
+BCA,IT,6.23,Support Engineer,Python,No,1,Yes,Low
+MCA,CSE,7.97,DevOps Engineer,C++,Yes,3,Yes,Medium
+BBA,IT,7.9,Support Engineer,Python,Yes,2,No,Medium
+M.Tech,CSE,9.4,Software Developer,Java,Yes,4,Yes,High
+BBA,AI,8.02,AI Engineer,Python,Yes,3,Yes,Medium
+M.Sc,AI,8.31,AI Engineer,Python,Yes,3,Yes,Medium
+BBA,Business Analytics,6.72,Business Analyst,C++,No,1,No,Low
+M.Tech,CSE,7.12,DevOps Engineer,Python,No,2,No,Medium
+MCA,AI,8.79,AI Engineer,Python,Yes,5,Yes,High
+BCA,Data Science,7.48,Business Analyst,Python,No,3,Yes,Medium
+MBA,Cyber Security,6.69,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Finance,8.45,Business Analyst,Java,Yes,2,No,Medium
+B.Sc,IT,9.13,Cloud Engineer,C++,Yes,5,Yes,High
+MCA,Machine Learning,8.86,AI Engineer,Python,Yes,4,Yes,High
+BCA,Information Security,9.69,Cyber Security Analyst,Python,Yes,4,No,High
+B.Sc,Machine Learning,8.42,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Business Analytics,6.27,Business Analyst,Java,No,0,Yes,Low
+MCA,Machine Learning,9.39,AI Engineer,Python,Yes,5,Yes,High
+BCA,Cyber Security,8.32,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Data Science,7.26,Business Analyst,Python,No,3,Yes,Medium
+MBA,Software Engineering,8.08,Software Developer,Java,Yes,2,Yes,Medium
+MBA,CSE,8.51,Software Developer,Java,Yes,4,No,High
+BBA,Information Security,7.54,Cyber Security Analyst,Python,Yes,2,No,Medium
+M.Tech,IT,7.01,Support Engineer,Python,No,2,Yes,Medium
+M.Sc,CSE,8.66,Software Developer,C++,Yes,3,Yes,High
+M.Sc,CSE,9.56,Software Developer,C++,Yes,5,No,High
+BBA,Software Engineering,8.95,Software Developer,Java,Yes,3,No,High
+M.Sc,Electronics,9.82,Cloud Engineer,Java,Yes,5,No,High
+MCA,Business Analytics,6.95,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Finance,7.5,Business Analyst,C++,Yes,3,No,Medium
+M.Tech,AI,6.78,Data Scientist,Python,No,0,Yes,Low
+MCA,IT,8.22,Cloud Engineer,Python,Yes,3,Yes,Medium
+B.Sc,CSE,9.64,Software Developer,Java,Yes,4,No,High
+B.Sc,Business Analytics,6.3,Business Analyst,C++,No,1,Yes,Low
+MCA,Data Science,6.14,Business Analyst,Python,No,0,Yes,Low
+MBA,IT,6.66,Support Engineer,Java,No,1,No,Low
+BCA,Finance,6.45,Business Analyst,Python,No,1,Yes,Low
+MBA,IT,9.3,Cloud Engineer,C++,Yes,4,No,High
+BCA,Electronics,6.2,Support Engineer,C++,No,1,No,Low
+M.Sc,AI,6.85,Data Scientist,Python,No,1,Yes,Low
+M.Tech,AI,8.07,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,Machine Learning,7.89,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Information Security,8.12,Cyber Security Analyst,Python,Yes,3,No,Medium
+MCA,Business Analytics,9.05,Business Analyst,Java,Yes,3,Yes,High
+M.Sc,Machine Learning,9.21,AI Engineer,Python,Yes,3,Yes,High
+MCA,Cyber Security,6.15,Support Engineer,Python,No,0,Yes,Low
+MBA,IT,6.43,Support Engineer,C++,No,0,No,Low
+MCA,Business Analytics,6.5,Business Analyst,Python,No,1,No,Low
+M.Sc,Cyber Security,8.74,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Cyber Security,8.81,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Information Security,7.1,Cyber Security Analyst,Python,No,2,No,Medium
+BBA,IT,9.9,Cloud Engineer,C++,Yes,5,Yes,High
+B.Sc,Information Security,6.19,Support Engineer,Python,No,0,No,Low
+M.Tech,Data Science,8.35,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Electronics,8.17,Support Engineer,Java,Yes,2,Yes,Medium
+B.Tech,Information Security,9.88,Cyber Security Analyst,Python,Yes,3,No,High
+M.Tech,Cyber Security,7.16,Cyber Security Analyst,Python,No,2,Yes,Medium
+MCA,Machine Learning,7.86,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Finance,6.12,Business Analyst,Java,No,0,Yes,Low
+MCA,Electronics,9.9,Cloud Engineer,Python,Yes,3,No,High
+BCA,Finance,6.01,Business Analyst,Python,No,0,Yes,Low
+MBA,Finance,8.61,Business Analyst,C++,Yes,3,Yes,High
+MCA,Software Engineering,7.14,DevOps Engineer,Java,No,2,Yes,Medium
+B.Sc,Software Engineering,6.73,DevOps Engineer,Java,No,0,No,Low
+BBA,Information Security,6.73,Support Engineer,Python,No,1,No,Low
+B.Sc,Cyber Security,6.38,Support Engineer,Python,No,0,Yes,Low
+BBA,AI,9.11,AI Engineer,Python,Yes,5,Yes,High
+BCA,Machine Learning,7.04,Data Scientist,Python,No,2,Yes,Medium
+MBA,AI,6.53,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Cyber Security,6.73,Support Engineer,Python,No,1,Yes,Low
+B.Sc,CSE,6.01,DevOps Engineer,Python,No,0,Yes,Low
+B.Sc,Business Analytics,6.01,Business Analyst,C++,No,0,No,Low
+BBA,Cyber Security,8.24,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,IT,8.68,Cloud Engineer,C++,Yes,4,No,High
+BCA,Cyber Security,9.28,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Data Science,9.47,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,Finance,9.61,Business Analyst,Python,Yes,5,Yes,High
+BCA,CSE,8.53,Software Developer,Python,Yes,3,Yes,High
+BBA,Finance,7.19,Business Analyst,C++,No,3,Yes,Medium
+B.Sc,CSE,6.2,DevOps Engineer,C++,No,0,No,Low
+B.Tech,Cyber Security,8.86,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Business Analytics,8.85,Business Analyst,Python,Yes,5,Yes,High
+MBA,Cyber Security,9.68,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Machine Learning,8.79,AI Engineer,Python,Yes,3,Yes,High
+M.Tech,Data Science,8.36,Data Scientist,Python,Yes,3,Yes,Medium
+MBA,Finance,8.1,Business Analyst,C++,Yes,2,Yes,Medium
+B.Sc,Information Security,8.84,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Sc,Cyber Security,6.05,Support Engineer,Python,No,0,Yes,Low
+BBA,Software Engineering,9.39,Software Developer,Java,Yes,4,No,High
+M.Tech,Information Security,7.31,Cyber Security Analyst,Python,No,3,No,Medium
+B.Tech,CSE,9.42,Software Developer,C++,Yes,3,Yes,High
+M.Tech,Finance,6.66,Business Analyst,Java,No,0,Yes,Low
+B.Sc,IT,9.23,Cloud Engineer,Java,Yes,3,Yes,High
+BBA,Electronics,6.06,Support Engineer,Python,No,1,No,Low
+BBA,Electronics,6.81,Support Engineer,Java,No,1,No,Low
+M.Sc,Software Engineering,7.98,Software Developer,Java,Yes,3,No,Medium
+BCA,Information Security,6.55,Support Engineer,Python,No,1,Yes,Low
+M.Tech,Finance,8.07,Business Analyst,Python,Yes,3,Yes,Medium
+MCA,IT,7.14,Support Engineer,Python,No,3,Yes,Medium
+MCA,Software Engineering,6.69,DevOps Engineer,Java,No,1,Yes,Low
+MBA,IT,6.44,Support Engineer,C++,No,0,No,Low
+BBA,Cyber Security,9.51,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,AI,6.03,Data Scientist,Python,No,1,Yes,Low
+MBA,Business Analytics,7.14,Business Analyst,Python,No,3,No,Medium
+M.Sc,Business Analytics,8.27,Business Analyst,Python,Yes,2,No,Medium
+MCA,Business Analytics,9.71,Business Analyst,C++,Yes,3,Yes,High
+M.Sc,Electronics,7.82,Support Engineer,Python,Yes,3,Yes,Medium
+B.Sc,IT,9.72,Cloud Engineer,Java,Yes,3,Yes,High
+BCA,AI,7.74,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,IT,8.06,Cloud Engineer,Python,Yes,3,Yes,Medium
+MBA,Information Security,7.39,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,CSE,9.87,Software Developer,C++,Yes,3,No,High
+BCA,Electronics,6.74,Support Engineer,Java,No,1,No,Low
+BCA,Data Science,9.2,Data Scientist,Python,Yes,5,Yes,High
+M.Tech,CSE,7.32,DevOps Engineer,C++,No,2,Yes,Medium
+M.Tech,IT,9.1,Cloud Engineer,Python,Yes,5,Yes,High
+BBA,Software Engineering,6.11,DevOps Engineer,Java,No,0,No,Low
+BBA,Software Engineering,9.99,Software Developer,Java,Yes,3,No,High
+BCA,Machine Learning,9.65,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Finance,9.56,Business Analyst,Python,Yes,3,No,High
+MCA,Business Analytics,7.4,Business Analyst,Python,No,3,Yes,Medium
+BBA,Electronics,7.34,Support Engineer,Java,No,3,No,Medium
+B.Tech,Cyber Security,7.52,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BCA,Information Security,9.12,Cyber Security Analyst,Python,Yes,5,No,High
+B.Tech,Cyber Security,9.61,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,Business Analytics,8.08,Business Analyst,Java,Yes,3,No,Medium
+M.Tech,Business Analytics,6.41,Business Analyst,C++,No,1,No,Low
+B.Sc,AI,9.07,AI Engineer,Python,Yes,4,Yes,High
+BCA,CSE,8.99,Software Developer,Java,Yes,3,Yes,High
+M.Tech,IT,8.31,Cloud Engineer,C++,Yes,3,No,Medium
+B.Sc,IT,9.18,Cloud Engineer,Python,Yes,3,Yes,High
+BBA,Cyber Security,7.23,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Sc,Machine Learning,8.72,AI Engineer,Python,Yes,3,Yes,High
+BCA,Cyber Security,7.67,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Business Analytics,9.33,Business Analyst,Python,Yes,3,No,High
+B.Tech,Information Security,9.88,Cyber Security Analyst,Python,Yes,4,No,High
+BBA,IT,6.78,Support Engineer,Java,No,0,No,Low
+BBA,AI,6.67,Data Scientist,Python,No,1,Yes,Low
+MBA,Machine Learning,6.64,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Business Analytics,8.15,Business Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Electronics,6.2,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Electronics,9.02,Cloud Engineer,Java,Yes,5,Yes,High
+M.Sc,Data Science,9.86,Data Scientist,Python,Yes,4,Yes,High
+M.Tech,Business Analytics,7.46,Business Analyst,Python,No,2,No,Medium
+M.Sc,Electronics,7.19,Support Engineer,C++,No,2,Yes,Medium
+M.Sc,Machine Learning,8.91,AI Engineer,Python,Yes,3,Yes,High
+MCA,Information Security,6.74,Support Engineer,Python,No,1,No,Low
+B.Sc,IT,6.29,Support Engineer,Python,No,0,Yes,Low
+MCA,Data Science,8.14,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Software Engineering,6.6,DevOps Engineer,Java,No,1,Yes,Low
+M.Sc,Software Engineering,7.82,Software Developer,Java,Yes,2,No,Medium
+B.Tech,CSE,6.47,DevOps Engineer,C++,No,1,No,Low
+MBA,Cyber Security,8.83,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,AI,6.97,Data Scientist,Python,No,0,Yes,Low
+B.Tech,Electronics,6.02,Support Engineer,C++,No,1,No,Low
+BCA,Electronics,6.79,Support Engineer,Python,No,1,Yes,Low
+B.Sc,Business Analytics,9.65,Business Analyst,Python,Yes,3,No,High
+MBA,Electronics,7.16,Support Engineer,C++,No,3,Yes,Medium
+B.Sc,Business Analytics,7.27,Business Analyst,Python,No,3,Yes,Medium
+B.Tech,Machine Learning,6.67,Data Scientist,Python,No,0,Yes,Low
+BCA,Machine Learning,6.59,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Cyber Security,9.69,Cyber Security Analyst,Python,Yes,3,Yes,High
+MCA,Software Engineering,8.74,Software Developer,Java,Yes,3,Yes,High
+BCA,Information Security,9.42,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,AI,9.47,AI Engineer,Python,Yes,5,Yes,High
+MBA,Finance,9.18,Business Analyst,Python,Yes,4,Yes,High
+B.Tech,Electronics,8.47,Support Engineer,Python,Yes,3,No,Medium
+MBA,IT,6.73,Support Engineer,C++,No,1,Yes,Low
+B.Tech,IT,8.8,Cloud Engineer,Python,Yes,5,No,High
+MBA,Business Analytics,7.88,Business Analyst,C++,Yes,3,No,Medium
+B.Tech,Cyber Security,7.14,Cyber Security Analyst,Python,No,3,Yes,Medium
+BCA,CSE,6.82,DevOps Engineer,Java,No,1,Yes,Low
+M.Tech,Software Engineering,6.59,DevOps Engineer,Java,No,0,Yes,Low
+BCA,AI,9.9,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Cyber Security,7.58,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Machine Learning,9.11,AI Engineer,Python,Yes,3,Yes,High
+MBA,Software Engineering,6.47,DevOps Engineer,Java,No,0,Yes,Low
+MBA,Software Engineering,7.38,DevOps Engineer,Java,No,2,Yes,Medium
+B.Tech,IT,7.79,Support Engineer,C++,Yes,3,Yes,Medium
+M.Tech,IT,6.93,Support Engineer,Java,No,0,Yes,Low
+MCA,Machine Learning,7.9,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Software Engineering,9.54,Software Developer,Java,Yes,5,No,High
+BCA,Software Engineering,9.89,Software Developer,Java,Yes,4,No,High
+BCA,CSE,6.31,DevOps Engineer,C++,No,1,Yes,Low
+BBA,Electronics,6.67,Support Engineer,Python,No,0,No,Low
+MCA,Software Engineering,7.94,Software Developer,Java,Yes,3,No,Medium
+MBA,IT,8.55,Cloud Engineer,C++,Yes,4,No,High
+B.Tech,AI,9.77,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Finance,6.13,Business Analyst,C++,No,0,Yes,Low
+BBA,Business Analytics,6.55,Business Analyst,C++,No,1,No,Low
+BCA,Software Engineering,6.2,DevOps Engineer,Java,No,0,Yes,Low
+M.Sc,Business Analytics,6.33,Business Analyst,Java,No,1,No,Low
+BCA,AI,8.42,AI Engineer,Python,Yes,3,Yes,Medium
+M.Sc,Information Security,9.5,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Software Engineering,6.15,DevOps Engineer,Java,No,1,No,Low
+B.Tech,Electronics,7.33,Support Engineer,Java,No,2,No,Medium
+B.Sc,IT,6.39,Support Engineer,C++,No,1,No,Low
+BCA,Finance,9.01,Business Analyst,Java,Yes,4,Yes,High
+MBA,Finance,7.79,Business Analyst,Python,Yes,2,No,Medium
+BCA,IT,9.67,Cloud Engineer,Java,Yes,4,Yes,High
+M.Tech,Business Analytics,7.98,Business Analyst,C++,Yes,2,No,Medium
+BBA,Software Engineering,7.15,DevOps Engineer,Java,No,3,No,Medium
+BCA,Business Analytics,7.61,Business Analyst,C++,Yes,3,No,Medium
+B.Tech,Electronics,6.03,Support Engineer,C++,No,1,Yes,Low
+MCA,CSE,8.85,Software Developer,C++,Yes,4,No,High
+B.Sc,Electronics,9.32,Cloud Engineer,Python,Yes,4,Yes,High
+M.Sc,Software Engineering,7.07,DevOps Engineer,Java,No,3,Yes,Medium
+MBA,Information Security,6.18,Support Engineer,Python,No,0,No,Low
+B.Tech,Finance,8.42,Business Analyst,Java,Yes,3,No,Medium
+M.Tech,Software Engineering,7.63,Software Developer,Java,Yes,3,Yes,Medium
+MCA,Finance,8.02,Business Analyst,Python,Yes,2,No,Medium
+BBA,Data Science,6.28,Business Analyst,Python,No,1,Yes,Low
+B.Sc,Cyber Security,7.04,Cyber Security Analyst,Python,No,2,Yes,Medium
+MBA,IT,7.04,Support Engineer,Java,No,2,Yes,Medium
+M.Sc,Cyber Security,6.45,Support Engineer,Python,No,0,Yes,Low
+M.Sc,Business Analytics,9.04,Business Analyst,Java,Yes,4,Yes,High
+MBA,Machine Learning,9.01,AI Engineer,Python,Yes,3,Yes,High
+BBA,IT,9.62,Cloud Engineer,Python,Yes,4,No,High
+MCA,Machine Learning,7.38,Data Scientist,Python,No,3,Yes,Medium
+MCA,Electronics,9.43,Cloud Engineer,C++,Yes,5,Yes,High
+M.Tech,IT,9.2,Cloud Engineer,C++,Yes,3,Yes,High
+BBA,Cyber Security,8.84,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Finance,7.26,Business Analyst,C++,No,3,Yes,Medium
+B.Tech,Information Security,9.52,Cyber Security Analyst,Python,Yes,5,No,High
+M.Sc,Information Security,8.59,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Machine Learning,7.03,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Business Analytics,6.06,Business Analyst,C++,No,1,Yes,Low
+BBA,Cyber Security,6.07,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Cyber Security,6.69,Support Engineer,Python,No,1,Yes,Low
+M.Tech,Cyber Security,9.63,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,Information Security,7.77,Cyber Security Analyst,Python,Yes,3,No,Medium
+M.Tech,Software Engineering,7.36,DevOps Engineer,Java,No,2,Yes,Medium
+M.Sc,Data Science,6.26,Business Analyst,Python,No,0,Yes,Low
+MCA,CSE,8.37,DevOps Engineer,Python,Yes,3,Yes,Medium
+MBA,Data Science,6.12,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Finance,9.87,Business Analyst,C++,Yes,4,Yes,High
+B.Tech,CSE,7.43,DevOps Engineer,C++,No,2,Yes,Medium
+M.Sc,Data Science,7.51,Business Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Machine Learning,6.52,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Data Science,8.36,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,CSE,7.24,DevOps Engineer,Java,No,2,Yes,Medium
+MCA,Machine Learning,6.75,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Data Science,7.85,Business Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Cyber Security,7.07,Cyber Security Analyst,Python,No,2,Yes,Medium
+MCA,CSE,9.86,Software Developer,Python,Yes,5,Yes,High
+MCA,Information Security,8.98,Cyber Security Analyst,Python,Yes,4,No,High
+BBA,Information Security,7.62,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Finance,6.34,Business Analyst,C++,No,1,No,Low
+M.Sc,AI,8.23,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,CSE,7.39,DevOps Engineer,Python,No,2,No,Medium
+MCA,Business Analytics,9.14,Business Analyst,Python,Yes,4,No,High
+M.Sc,Finance,9.84,Business Analyst,Python,Yes,5,Yes,High
+MBA,CSE,9.44,Software Developer,Python,Yes,4,No,High
+BCA,IT,6.68,Support Engineer,C++,No,1,No,Low
+B.Tech,Finance,9.76,Business Analyst,Python,Yes,4,Yes,High
+M.Tech,IT,7.32,Support Engineer,C++,No,3,No,Medium
+M.Tech,CSE,9.42,Software Developer,C++,Yes,3,Yes,High
+MBA,IT,8.7,Cloud Engineer,C++,Yes,3,Yes,High
+M.Sc,Information Security,9.66,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Finance,9.42,Business Analyst,C++,Yes,4,No,High
+BCA,Business Analytics,9.65,Business Analyst,C++,Yes,5,No,High
+B.Tech,Data Science,9.94,Data Scientist,Python,Yes,5,Yes,High
+BCA,IT,8.22,Cloud Engineer,Python,Yes,3,No,Medium
+M.Sc,Business Analytics,8.2,Business Analyst,Python,Yes,3,Yes,Medium
+B.Sc,AI,9.5,AI Engineer,Python,Yes,5,Yes,High
+B.Tech,AI,6.99,Data Scientist,Python,No,1,Yes,Low
+M.Tech,AI,9.73,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Data Science,7.25,Business Analyst,Python,No,2,Yes,Medium
+BCA,IT,7.5,Support Engineer,Java,Yes,3,No,Medium
+MCA,IT,9.67,Cloud Engineer,Java,Yes,4,No,High
+BBA,Machine Learning,8.36,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,Business Analytics,8.43,Business Analyst,Java,Yes,3,No,Medium
+MBA,AI,8.36,AI Engineer,Python,Yes,2,Yes,Medium
+MCA,Information Security,6.0,Support Engineer,Python,No,1,No,Low
+BCA,Finance,6.03,Business Analyst,C++,No,0,Yes,Low
+MCA,Cyber Security,9.02,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,Software Engineering,7.55,Software Developer,Java,Yes,2,Yes,Medium
+B.Sc,Business Analytics,6.26,Business Analyst,Java,No,0,Yes,Low
+M.Tech,Cyber Security,7.83,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Information Security,6.43,Support Engineer,Python,No,0,Yes,Low
+B.Sc,IT,8.24,Cloud Engineer,Python,Yes,2,Yes,Medium
+M.Sc,CSE,7.29,DevOps Engineer,Python,No,3,Yes,Medium
+BCA,Data Science,7.76,Business Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Information Security,8.71,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Sc,Electronics,7.31,Support Engineer,Java,No,2,Yes,Medium
+BCA,Finance,7.8,Business Analyst,Python,Yes,2,No,Medium
+M.Sc,Information Security,7.74,Cyber Security Analyst,Python,Yes,3,No,Medium
+B.Tech,Machine Learning,6.89,Data Scientist,Python,No,1,Yes,Low
+BBA,Machine Learning,7.08,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,Business Analytics,7.05,Business Analyst,C++,No,3,No,Medium
+B.Sc,AI,7.17,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,Software Engineering,7.8,Software Developer,Java,Yes,3,No,Medium
+B.Sc,Cyber Security,6.12,Support Engineer,Python,No,1,Yes,Low
+M.Tech,Information Security,7.63,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Data Science,7.01,Business Analyst,Python,No,2,Yes,Medium
+BBA,Business Analytics,8.18,Business Analyst,C++,Yes,3,Yes,Medium
+B.Tech,AI,6.37,Data Scientist,Python,No,1,Yes,Low
+B.Tech,IT,6.06,Support Engineer,Java,No,0,Yes,Low
+MCA,Cyber Security,9.74,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Machine Learning,7.12,Data Scientist,Python,No,2,Yes,Medium
+MCA,IT,9.05,Cloud Engineer,Python,Yes,3,Yes,High
+B.Sc,Data Science,6.16,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Machine Learning,10.0,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,CSE,7.29,DevOps Engineer,Python,No,3,No,Medium
+MBA,Finance,6.15,Business Analyst,Java,No,1,No,Low
+MCA,IT,7.04,Support Engineer,Python,No,2,No,Medium
+M.Tech,Machine Learning,9.33,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Information Security,7.88,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Machine Learning,8.39,AI Engineer,Python,Yes,2,Yes,Medium
+M.Sc,Finance,9.8,Business Analyst,Java,Yes,3,Yes,High
+M.Sc,Information Security,10.0,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Tech,Information Security,7.93,Cyber Security Analyst,Python,Yes,3,No,Medium
+MBA,AI,6.83,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Finance,6.09,Business Analyst,Python,No,0,Yes,Low
+BCA,Machine Learning,8.94,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,CSE,7.05,DevOps Engineer,Java,No,3,Yes,Medium
+M.Sc,Finance,7.07,Business Analyst,Python,No,2,Yes,Medium
+MBA,CSE,6.72,DevOps Engineer,Python,No,1,No,Low
+B.Tech,Machine Learning,7.91,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Cyber Security,6.65,Support Engineer,Python,No,0,Yes,Low
+MCA,Information Security,8.53,Cyber Security Analyst,Python,Yes,4,No,High
+M.Sc,CSE,6.71,DevOps Engineer,Python,No,1,Yes,Low
+MBA,Electronics,6.04,Support Engineer,Python,No,1,No,Low
+BBA,Machine Learning,6.76,Data Scientist,Python,No,1,Yes,Low
+B.Sc,IT,9.97,Cloud Engineer,Python,Yes,5,No,High
+B.Sc,Information Security,9.8,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Finance,6.65,Business Analyst,Java,No,0,Yes,Low
+B.Sc,Electronics,9.78,Cloud Engineer,Python,Yes,5,Yes,High
+M.Tech,Electronics,7.66,Support Engineer,Java,Yes,3,No,Medium
+BCA,Data Science,9.68,Data Scientist,Python,Yes,5,Yes,High
+MCA,Cyber Security,7.21,Cyber Security Analyst,Python,No,3,Yes,Medium
+BCA,Business Analytics,6.77,Business Analyst,C++,No,1,No,Low
+MBA,IT,8.67,Cloud Engineer,Python,Yes,3,Yes,High
+M.Sc,IT,7.41,Support Engineer,Python,No,3,Yes,Medium
+B.Sc,Electronics,7.04,Support Engineer,C++,No,2,Yes,Medium
+BCA,Data Science,6.23,Business Analyst,Python,No,0,Yes,Low
+BCA,Electronics,6.08,Support Engineer,C++,No,0,Yes,Low
+BBA,CSE,8.88,Software Developer,C++,Yes,3,No,High
+M.Sc,Cyber Security,7.54,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,Machine Learning,7.02,Data Scientist,Python,No,3,Yes,Medium
+MCA,AI,9.3,AI Engineer,Python,Yes,5,Yes,High
+MBA,Electronics,9.99,Cloud Engineer,Java,Yes,3,Yes,High
+MCA,IT,8.43,Cloud Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Business Analytics,8.83,Business Analyst,Java,Yes,3,No,High
+MCA,Finance,6.31,Business Analyst,Java,No,0,No,Low
+M.Tech,Electronics,9.64,Cloud Engineer,Python,Yes,3,Yes,High
+BBA,Machine Learning,8.2,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Electronics,8.79,Support Engineer,Java,Yes,4,Yes,High
+B.Tech,Machine Learning,6.96,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Business Analytics,8.23,Business Analyst,Java,Yes,3,Yes,Medium
+B.Sc,Machine Learning,9.08,AI Engineer,Python,Yes,4,Yes,High
+MCA,Cyber Security,9.87,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Software Engineering,6.22,DevOps Engineer,Java,No,0,Yes,Low
+B.Sc,CSE,6.58,DevOps Engineer,Java,No,0,Yes,Low
+M.Tech,Electronics,9.01,Cloud Engineer,Python,Yes,5,Yes,High
+MBA,IT,9.61,Cloud Engineer,C++,Yes,4,Yes,High
+M.Sc,AI,7.86,AI Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Machine Learning,7.91,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Electronics,8.42,Support Engineer,Java,Yes,2,Yes,Medium
+M.Sc,Electronics,6.42,Support Engineer,C++,No,0,No,Low
+MBA,CSE,8.9,Software Developer,Python,Yes,3,Yes,High
+BCA,IT,8.08,Cloud Engineer,C++,Yes,2,Yes,Medium
+B.Tech,Software Engineering,9.82,Software Developer,Java,Yes,4,Yes,High
+M.Tech,AI,6.49,Data Scientist,Python,No,1,Yes,Low
+M.Tech,Software Engineering,9.91,Software Developer,Java,Yes,5,Yes,High
+M.Tech,Electronics,8.08,Support Engineer,Java,Yes,3,No,Medium
+B.Tech,AI,9.41,AI Engineer,Python,Yes,3,Yes,High
+MCA,Data Science,7.59,Business Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Finance,7.36,Business Analyst,C++,No,3,Yes,Medium
+M.Tech,Data Science,8.6,Data Scientist,Python,Yes,4,Yes,High
+MBA,Finance,6.11,Business Analyst,C++,No,0,Yes,Low
+MBA,AI,7.18,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,Data Science,7.42,Business Analyst,Python,No,2,Yes,Medium
+BCA,Software Engineering,9.65,Software Developer,Java,Yes,4,Yes,High
+M.Tech,Business Analytics,8.23,Business Analyst,C++,Yes,2,Yes,Medium
+MBA,CSE,7.54,DevOps Engineer,Python,Yes,3,Yes,Medium
+BBA,Software Engineering,7.59,Software Developer,Java,Yes,2,Yes,Medium
+BBA,Information Security,7.34,Cyber Security Analyst,Python,No,3,No,Medium
+B.Sc,Electronics,6.54,Support Engineer,C++,No,0,Yes,Low
+BBA,Software Engineering,9.43,Software Developer,Java,Yes,3,Yes,High
+M.Tech,Business Analytics,7.38,Business Analyst,Python,No,3,No,Medium
+M.Tech,Business Analytics,6.12,Business Analyst,C++,No,0,No,Low
+B.Sc,Electronics,8.73,Support Engineer,Python,Yes,3,No,High
+BCA,Finance,9.69,Business Analyst,Python,Yes,4,No,High
+BCA,Machine Learning,8.72,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,AI,8.54,AI Engineer,Python,Yes,3,Yes,High
+MBA,CSE,6.92,DevOps Engineer,Java,No,0,No,Low
+B.Sc,Finance,7.27,Business Analyst,C++,No,3,Yes,Medium
+B.Sc,IT,7.43,Support Engineer,C++,No,2,No,Medium
+MCA,Data Science,7.96,Business Analyst,Python,Yes,3,Yes,Medium
+MCA,Business Analytics,7.66,Business Analyst,C++,Yes,2,Yes,Medium
+BBA,CSE,8.45,DevOps Engineer,Python,Yes,2,Yes,Medium
+BCA,Data Science,6.41,Business Analyst,Python,No,0,Yes,Low
+MCA,CSE,7.63,DevOps Engineer,Python,Yes,2,No,Medium
+B.Sc,Electronics,8.67,Support Engineer,Python,Yes,3,Yes,High
+B.Tech,Electronics,7.12,Support Engineer,Java,No,2,No,Medium
+M.Tech,Software Engineering,8.59,Software Developer,Java,Yes,5,Yes,High
+B.Sc,Information Security,6.28,Support Engineer,Python,No,1,No,Low
+BCA,Electronics,8.0,Support Engineer,Python,Yes,2,No,Medium
+MCA,CSE,9.53,Software Developer,Python,Yes,5,No,High
+M.Sc,Cyber Security,8.24,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Electronics,9.37,Cloud Engineer,Python,Yes,5,Yes,High
+B.Sc,AI,6.4,Data Scientist,Python,No,0,Yes,Low
+BCA,Software Engineering,7.37,DevOps Engineer,Java,No,2,Yes,Medium
+M.Sc,Finance,9.29,Business Analyst,Java,Yes,5,No,High
+B.Sc,Business Analytics,7.69,Business Analyst,Python,Yes,2,No,Medium
+BBA,Data Science,7.77,Business Analyst,Python,Yes,2,Yes,Medium
+B.Tech,IT,7.52,Support Engineer,C++,Yes,2,Yes,Medium
+MBA,Information Security,9.46,Cyber Security Analyst,Python,Yes,5,Yes,High
+BBA,AI,9.31,AI Engineer,Python,Yes,5,Yes,High
+BCA,Machine Learning,8.81,AI Engineer,Python,Yes,3,Yes,High
+BCA,IT,6.18,Support Engineer,C++,No,0,No,Low
+M.Tech,Electronics,9.1,Cloud Engineer,Java,Yes,3,Yes,High
+B.Sc,Electronics,6.15,Support Engineer,Python,No,0,No,Low
+BBA,Information Security,8.97,Cyber Security Analyst,Python,Yes,3,No,High
+MCA,Electronics,6.1,Support Engineer,Java,No,1,No,Low
+MBA,Finance,7.42,Business Analyst,C++,No,2,No,Medium
+B.Tech,IT,6.55,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Electronics,7.8,Support Engineer,C++,Yes,2,Yes,Medium
+M.Sc,Electronics,9.73,Cloud Engineer,Java,Yes,3,No,High
+BBA,Data Science,7.94,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,Cyber Security,7.96,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,Software Engineering,9.55,Software Developer,Java,Yes,5,Yes,High
+MBA,Information Security,7.08,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Sc,Electronics,9.44,Cloud Engineer,Python,Yes,5,Yes,High
+MBA,CSE,8.64,Software Developer,Java,Yes,4,No,High
+MBA,Electronics,9.09,Cloud Engineer,Python,Yes,5,No,High
+BCA,Electronics,8.87,Support Engineer,Python,Yes,4,Yes,High
+MBA,Business Analytics,8.34,Business Analyst,Java,Yes,3,Yes,Medium
+MCA,Data Science,6.88,Business Analyst,Python,No,1,Yes,Low
+B.Tech,AI,6.09,Data Scientist,Python,No,1,Yes,Low
+B.Sc,CSE,8.32,DevOps Engineer,Python,Yes,2,Yes,Medium
+B.Tech,AI,8.65,AI Engineer,Python,Yes,3,Yes,High
+MBA,Electronics,9.34,Cloud Engineer,C++,Yes,3,Yes,High
+M.Tech,Cyber Security,6.07,Support Engineer,Python,No,1,Yes,Low
+B.Tech,AI,6.9,Data Scientist,Python,No,0,Yes,Low
+BCA,Electronics,7.21,Support Engineer,C++,No,3,No,Medium
+M.Tech,AI,9.46,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Cyber Security,8.37,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,CSE,9.9,Software Developer,Java,Yes,3,No,High
+B.Sc,Finance,9.86,Business Analyst,C++,Yes,4,Yes,High
+B.Sc,Machine Learning,8.26,AI Engineer,Python,Yes,2,Yes,Medium
+BCA,IT,7.92,Support Engineer,Java,Yes,2,Yes,Medium
+MCA,Cyber Security,8.41,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Cyber Security,9.13,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Finance,8.1,Business Analyst,C++,Yes,2,Yes,Medium
+M.Sc,Information Security,6.27,Support Engineer,Python,No,0,No,Low
+BCA,Business Analytics,7.96,Business Analyst,Java,Yes,2,Yes,Medium
+B.Tech,AI,8.12,AI Engineer,Python,Yes,2,Yes,Medium
+M.Tech,CSE,9.49,Software Developer,C++,Yes,4,Yes,High
+B.Sc,Business Analytics,6.11,Business Analyst,C++,No,1,No,Low
+MCA,Business Analytics,6.42,Business Analyst,Java,No,0,No,Low
+MBA,Data Science,9.17,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,IT,6.68,Support Engineer,Python,No,0,No,Low
+BCA,IT,8.45,Cloud Engineer,Python,Yes,2,No,Medium
+B.Sc,Business Analytics,7.19,Business Analyst,C++,No,3,Yes,Medium
+M.Tech,Machine Learning,7.83,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Data Science,6.37,Business Analyst,Python,No,1,Yes,Low
+M.Sc,Information Security,9.72,Cyber Security Analyst,Python,Yes,4,No,High
+BBA,CSE,8.92,Software Developer,Java,Yes,5,No,High
+BBA,CSE,8.0,DevOps Engineer,Python,Yes,3,No,Medium
+MBA,IT,8.21,Cloud Engineer,Java,Yes,2,Yes,Medium
+B.Tech,Business Analytics,6.65,Business Analyst,C++,No,0,Yes,Low
+MBA,Finance,6.23,Business Analyst,C++,No,0,No,Low
+M.Sc,Software Engineering,9.48,Software Developer,Java,Yes,5,No,High
+B.Tech,Electronics,9.98,Cloud Engineer,C++,Yes,4,Yes,High
+B.Tech,Machine Learning,9.94,AI Engineer,Python,Yes,5,Yes,High
+BCA,Information Security,9.71,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Machine Learning,6.27,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Software Engineering,9.97,Software Developer,Java,Yes,3,No,High
+M.Sc,CSE,7.0,DevOps Engineer,Python,No,2,No,Medium
+M.Sc,Finance,9.43,Business Analyst,Python,Yes,4,Yes,High
+MBA,Finance,8.0,Business Analyst,Java,Yes,3,No,Medium
+B.Sc,Finance,7.19,Business Analyst,Java,No,2,Yes,Medium
+M.Sc,Software Engineering,6.37,DevOps Engineer,Java,No,1,No,Low
+B.Tech,IT,9.16,Cloud Engineer,C++,Yes,5,Yes,High
+BCA,Software Engineering,9.84,Software Developer,Java,Yes,5,No,High
+BBA,Electronics,8.98,Support Engineer,Java,Yes,3,Yes,High
+BCA,CSE,7.81,DevOps Engineer,Python,Yes,2,Yes,Medium
+B.Sc,AI,9.99,AI Engineer,Python,Yes,3,Yes,High
+BBA,AI,9.75,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Information Security,9.74,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Finance,8.75,Business Analyst,Python,Yes,5,No,High
+BBA,AI,6.31,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Data Science,6.1,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Electronics,8.65,Support Engineer,C++,Yes,5,No,High
+M.Tech,Software Engineering,7.3,DevOps Engineer,Java,No,2,No,Medium
+M.Tech,AI,6.21,Data Scientist,Python,No,0,Yes,Low
+B.Tech,CSE,9.46,Software Developer,Python,Yes,5,No,High
+MCA,Business Analytics,8.16,Business Analyst,Python,Yes,2,No,Medium
+M.Tech,Information Security,8.77,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Cyber Security,9.49,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Finance,6.89,Business Analyst,Java,No,0,No,Low
+M.Tech,CSE,9.77,Software Developer,C++,Yes,5,No,High
+B.Sc,Finance,6.69,Business Analyst,C++,No,1,Yes,Low
+B.Tech,Machine Learning,9.03,AI Engineer,Python,Yes,4,Yes,High
+MCA,Finance,9.71,Business Analyst,Java,Yes,5,No,High
+MBA,Business Analytics,7.76,Business Analyst,C++,Yes,2,Yes,Medium
+MBA,Software Engineering,6.66,DevOps Engineer,Java,No,1,No,Low
+MCA,Finance,9.28,Business Analyst,Python,Yes,3,No,High
+B.Tech,Machine Learning,9.83,AI Engineer,Python,Yes,5,Yes,High
+BCA,Software Engineering,6.77,DevOps Engineer,Java,No,0,Yes,Low
+B.Sc,AI,6.23,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Software Engineering,7.95,Software Developer,Java,Yes,3,Yes,Medium
+MBA,Information Security,9.82,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,Information Security,9.2,Cyber Security Analyst,Python,Yes,3,No,High
+BCA,Finance,8.17,Business Analyst,Python,Yes,2,No,Medium
+B.Tech,Electronics,6.3,Support Engineer,Python,No,0,Yes,Low
+B.Sc,AI,8.76,AI Engineer,Python,Yes,4,Yes,High
+MBA,Business Analytics,7.02,Business Analyst,Java,No,2,Yes,Medium
+B.Sc,Cyber Security,8.08,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Sc,IT,8.16,Cloud Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Data Science,6.72,Business Analyst,Python,No,1,Yes,Low
+B.Sc,Business Analytics,8.71,Business Analyst,C++,Yes,3,Yes,High
+B.Tech,Electronics,7.38,Support Engineer,Java,No,2,No,Medium
+B.Tech,Finance,6.12,Business Analyst,Java,No,0,Yes,Low
+MBA,Business Analytics,9.99,Business Analyst,Java,Yes,3,Yes,High
+M.Sc,CSE,7.33,DevOps Engineer,C++,No,2,No,Medium
+B.Sc,Data Science,7.7,Business Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Finance,7.63,Business Analyst,Python,Yes,3,No,Medium
+BCA,Machine Learning,6.84,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Information Security,9.17,Cyber Security Analyst,Python,Yes,4,No,High
+M.Sc,Information Security,8.67,Cyber Security Analyst,Python,Yes,3,No,High
+M.Tech,Business Analytics,7.61,Business Analyst,Python,Yes,3,No,Medium
+MBA,IT,7.97,Support Engineer,C++,Yes,3,No,Medium
+B.Tech,Cyber Security,8.73,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Finance,9.59,Business Analyst,Java,Yes,4,No,High
+B.Sc,Business Analytics,6.72,Business Analyst,C++,No,1,No,Low
+B.Sc,AI,7.09,Data Scientist,Python,No,2,Yes,Medium
+BBA,Cyber Security,9.89,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,Machine Learning,9.92,AI Engineer,Python,Yes,5,Yes,High
+BBA,Information Security,6.99,Support Engineer,Python,No,1,No,Low
+B.Sc,Electronics,6.13,Support Engineer,C++,No,1,No,Low
+MBA,AI,7.53,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Data Science,6.3,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Finance,8.71,Business Analyst,C++,Yes,4,No,High
+B.Tech,Electronics,8.99,Support Engineer,Python,Yes,4,Yes,High
+M.Sc,Business Analytics,8.87,Business Analyst,Java,Yes,4,Yes,High
+BBA,Business Analytics,7.84,Business Analyst,C++,Yes,3,Yes,Medium
+BCA,Finance,7.96,Business Analyst,Java,Yes,2,No,Medium
+MBA,Machine Learning,8.94,AI Engineer,Python,Yes,5,Yes,High
+MBA,Business Analytics,6.94,Business Analyst,C++,No,1,No,Low
+BBA,CSE,9.07,Software Developer,C++,Yes,3,Yes,High
+MBA,Business Analytics,9.68,Business Analyst,Java,Yes,5,No,High
+M.Tech,Data Science,6.55,Business Analyst,Python,No,1,Yes,Low
+MBA,Business Analytics,9.53,Business Analyst,Java,Yes,4,No,High
+MBA,IT,9.19,Cloud Engineer,Java,Yes,5,Yes,High
+M.Tech,IT,7.85,Support Engineer,Python,Yes,3,No,Medium
+BCA,Data Science,8.29,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Data Science,7.76,Business Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Electronics,8.87,Support Engineer,Python,Yes,3,Yes,High
+B.Tech,Software Engineering,6.93,DevOps Engineer,Java,No,0,Yes,Low
+M.Tech,Cyber Security,7.61,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,CSE,6.71,DevOps Engineer,Java,No,1,Yes,Low
+B.Tech,Finance,6.83,Business Analyst,C++,No,1,Yes,Low
+M.Tech,AI,8.19,AI Engineer,Python,Yes,2,Yes,Medium
+BCA,Business Analytics,8.17,Business Analyst,Java,Yes,3,Yes,Medium
+M.Tech,Machine Learning,8.55,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Business Analytics,6.6,Business Analyst,Python,No,0,Yes,Low
+MCA,Data Science,6.02,Business Analyst,Python,No,0,Yes,Low
+MBA,Data Science,8.15,Data Scientist,Python,Yes,2,Yes,Medium
+MBA,Machine Learning,7.23,Data Scientist,Python,No,3,Yes,Medium
+MCA,CSE,7.15,DevOps Engineer,C++,No,2,No,Medium
+BCA,IT,9.15,Cloud Engineer,Java,Yes,4,Yes,High
+M.Tech,Information Security,8.41,Cyber Security Analyst,Python,Yes,3,No,Medium
+MBA,IT,7.38,Support Engineer,Java,No,3,No,Medium
+MCA,IT,6.55,Support Engineer,Python,No,1,No,Low
+BCA,Machine Learning,6.7,Data Scientist,Python,No,0,Yes,Low
+B.Sc,AI,7.34,Data Scientist,Python,No,2,Yes,Medium
+B.Sc,IT,6.1,Support Engineer,Python,No,0,Yes,Low
+MBA,Cyber Security,8.56,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,Finance,8.26,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,Finance,9.65,Business Analyst,Java,Yes,4,No,High
+B.Tech,AI,8.1,AI Engineer,Python,Yes,2,Yes,Medium
+M.Sc,IT,6.75,Support Engineer,Java,No,1,Yes,Low
+M.Sc,Data Science,8.44,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Machine Learning,9.21,AI Engineer,Python,Yes,4,Yes,High
+BBA,Finance,6.85,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Data Science,9.41,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,Data Science,6.35,Business Analyst,Python,No,1,Yes,Low
+BCA,Finance,8.2,Business Analyst,Java,Yes,3,No,Medium
+B.Tech,Information Security,7.73,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,CSE,9.43,Software Developer,Python,Yes,4,Yes,High
+MCA,IT,8.13,Cloud Engineer,Python,Yes,2,No,Medium
+MBA,Software Engineering,9.91,Software Developer,Java,Yes,4,Yes,High
+M.Sc,Machine Learning,6.69,Data Scientist,Python,No,0,Yes,Low
+MCA,Cyber Security,6.91,Support Engineer,Python,No,1,Yes,Low
+BCA,Data Science,9.3,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,CSE,9.27,Software Developer,Java,Yes,5,Yes,High
+B.Tech,Cyber Security,9.97,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Finance,9.67,Business Analyst,Python,Yes,3,Yes,High
+BBA,Information Security,9.25,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Software Engineering,8.0,Software Developer,Java,Yes,3,No,Medium
+BCA,Cyber Security,7.96,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,IT,6.57,Support Engineer,Java,No,1,No,Low
+BBA,CSE,8.44,DevOps Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Data Science,8.47,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,Business Analytics,7.67,Business Analyst,C++,Yes,2,No,Medium
+BBA,Information Security,6.37,Support Engineer,Python,No,1,No,Low
+B.Sc,AI,8.47,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,CSE,7.81,DevOps Engineer,C++,Yes,2,No,Medium
+B.Tech,Cyber Security,7.63,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,Data Science,6.21,Business Analyst,Python,No,1,Yes,Low
+M.Tech,AI,6.04,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Finance,7.91,Business Analyst,Java,Yes,3,Yes,Medium
+BCA,Information Security,6.86,Support Engineer,Python,No,1,No,Low
+MBA,Finance,7.68,Business Analyst,Java,Yes,3,No,Medium
+M.Tech,Finance,6.04,Business Analyst,Java,No,1,No,Low
+MCA,Business Analytics,8.93,Business Analyst,C++,Yes,4,Yes,High
+B.Sc,Finance,8.39,Business Analyst,C++,Yes,3,Yes,Medium
+B.Tech,Machine Learning,9.67,AI Engineer,Python,Yes,4,Yes,High
+MCA,CSE,9.09,Software Developer,C++,Yes,4,Yes,High
+B.Tech,Information Security,9.61,Cyber Security Analyst,Python,Yes,5,Yes,High
+BBA,Data Science,7.03,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,IT,7.58,Support Engineer,C++,Yes,2,No,Medium
+M.Sc,Cyber Security,7.57,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Tech,IT,7.98,Support Engineer,Java,Yes,2,Yes,Medium
+M.Tech,CSE,6.18,DevOps Engineer,Python,No,0,No,Low
+B.Sc,Information Security,6.95,Support Engineer,Python,No,1,Yes,Low
+BBA,IT,8.52,Cloud Engineer,Java,Yes,5,Yes,High
+MCA,Information Security,6.35,Support Engineer,Python,No,1,No,Low
+M.Sc,Business Analytics,7.36,Business Analyst,Java,No,3,No,Medium
+B.Tech,Machine Learning,8.92,AI Engineer,Python,Yes,3,Yes,High
+MCA,CSE,6.36,DevOps Engineer,C++,No,0,Yes,Low
+BBA,Machine Learning,8.63,AI Engineer,Python,Yes,5,Yes,High
+BCA,Machine Learning,6.62,Data Scientist,Python,No,1,Yes,Low
+BBA,Finance,6.33,Business Analyst,Java,No,1,Yes,Low
+B.Sc,Cyber Security,7.24,Cyber Security Analyst,Python,No,3,Yes,Medium
+MBA,Machine Learning,9.61,AI Engineer,Python,Yes,4,Yes,High
+MBA,CSE,7.33,DevOps Engineer,Java,No,2,No,Medium
+B.Tech,Data Science,9.41,Data Scientist,Python,Yes,5,Yes,High
+M.Sc,Cyber Security,7.13,Cyber Security Analyst,Python,No,3,Yes,Medium
+MCA,IT,6.33,Support Engineer,Java,No,1,No,Low
+MCA,Machine Learning,6.72,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Software Engineering,6.07,DevOps Engineer,Java,No,1,No,Low
+MBA,Machine Learning,6.72,Data Scientist,Python,No,0,Yes,Low
+BBA,Information Security,6.94,Support Engineer,Python,No,1,No,Low
+BCA,IT,8.65,Cloud Engineer,Python,Yes,3,No,High
+B.Tech,Information Security,7.32,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,Business Analytics,9.06,Business Analyst,Java,Yes,4,No,High
+BCA,Data Science,7.42,Business Analyst,Python,No,3,Yes,Medium
+M.Tech,Software Engineering,9.46,Software Developer,Java,Yes,4,No,High
+M.Sc,AI,7.45,Data Scientist,Python,No,2,Yes,Medium
+M.Sc,Business Analytics,7.43,Business Analyst,Java,No,3,Yes,Medium
+M.Sc,Information Security,9.66,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,Machine Learning,8.26,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Electronics,6.45,Support Engineer,Python,No,0,No,Low
+BCA,Information Security,8.0,Cyber Security Analyst,Python,Yes,2,No,Medium
+BBA,IT,9.37,Cloud Engineer,Python,Yes,3,No,High
+MCA,Electronics,7.37,Support Engineer,Python,No,2,No,Medium
+MCA,Cyber Security,6.06,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Software Engineering,7.28,DevOps Engineer,Java,No,2,No,Medium
+M.Tech,AI,6.2,Data Scientist,Python,No,0,Yes,Low
+MBA,Electronics,10.0,Cloud Engineer,Python,Yes,4,No,High
+B.Tech,Cyber Security,9.55,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Software Engineering,7.17,DevOps Engineer,Java,No,2,Yes,Medium
+B.Sc,AI,9.12,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Machine Learning,9.76,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Cyber Security,9.85,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Finance,7.14,Business Analyst,Java,No,3,No,Medium
+MBA,Finance,8.21,Business Analyst,Python,Yes,2,Yes,Medium
+MCA,Machine Learning,9.07,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Machine Learning,7.35,Data Scientist,Python,No,2,Yes,Medium
+BBA,Data Science,6.14,Business Analyst,Python,No,0,Yes,Low
+BBA,Finance,6.27,Business Analyst,Python,No,1,Yes,Low
+MCA,Information Security,6.08,Support Engineer,Python,No,0,No,Low
+MBA,AI,6.99,Data Scientist,Python,No,1,Yes,Low
+B.Tech,CSE,8.98,Software Developer,C++,Yes,4,No,High
+BBA,Cyber Security,6.19,Support Engineer,Python,No,0,Yes,Low
+BBA,Software Engineering,7.03,DevOps Engineer,Java,No,2,No,Medium
+MCA,AI,8.74,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Information Security,9.57,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,CSE,7.28,DevOps Engineer,Python,No,2,Yes,Medium
+MCA,Electronics,10.0,Cloud Engineer,Java,Yes,3,No,High
+BCA,Business Analytics,8.93,Business Analyst,Python,Yes,4,Yes,High
+BBA,Machine Learning,9.41,AI Engineer,Python,Yes,5,Yes,High
+MCA,Finance,8.46,Business Analyst,C++,Yes,3,Yes,Medium
+M.Tech,Machine Learning,7.55,Data Scientist,Python,Yes,3,Yes,Medium
+M.Tech,Finance,8.91,Business Analyst,Java,Yes,5,Yes,High
+BBA,Machine Learning,8.55,AI Engineer,Python,Yes,3,Yes,High
+BBA,Machine Learning,7.71,Data Scientist,Python,Yes,2,Yes,Medium
+M.Sc,Information Security,9.65,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Software Engineering,9.52,Software Developer,Java,Yes,3,No,High
+MCA,Software Engineering,7.31,DevOps Engineer,Java,No,3,Yes,Medium
+BBA,IT,6.46,Support Engineer,Python,No,0,No,Low
+M.Tech,Cyber Security,9.34,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,Software Engineering,8.07,Software Developer,Java,Yes,3,No,Medium
+M.Sc,Cyber Security,6.46,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Information Security,8.61,Cyber Security Analyst,Python,Yes,5,No,High
+B.Tech,Cyber Security,8.9,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Finance,8.63,Business Analyst,C++,Yes,3,No,High
+B.Tech,IT,6.07,Support Engineer,C++,No,1,No,Low
+BBA,Software Engineering,6.6,DevOps Engineer,Java,No,1,No,Low
+M.Tech,Data Science,8.96,Data Scientist,Python,Yes,5,Yes,High
+BCA,Machine Learning,8.26,AI Engineer,Python,Yes,3,Yes,Medium
+B.Tech,CSE,9.15,Software Developer,Python,Yes,4,Yes,High
+MBA,Electronics,7.92,Support Engineer,C++,Yes,3,No,Medium
+B.Tech,Data Science,7.55,Business Analyst,Python,Yes,2,Yes,Medium
+BBA,IT,9.21,Cloud Engineer,Python,Yes,3,No,High
+MBA,Software Engineering,9.83,Software Developer,Java,Yes,4,No,High
+BCA,Electronics,7.86,Support Engineer,Java,Yes,2,No,Medium
+BBA,Cyber Security,9.85,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,IT,8.13,Cloud Engineer,Java,Yes,2,No,Medium
+MBA,Machine Learning,8.31,AI Engineer,Python,Yes,2,Yes,Medium
+B.Tech,Business Analytics,6.08,Business Analyst,C++,No,0,No,Low
+M.Tech,Information Security,6.55,Support Engineer,Python,No,1,No,Low
+BBA,Cyber Security,7.41,Cyber Security Analyst,Python,No,3,Yes,Medium
+MBA,Business Analytics,9.94,Business Analyst,C++,Yes,5,Yes,High
+BCA,Machine Learning,8.72,AI Engineer,Python,Yes,5,Yes,High
+MCA,Business Analytics,7.37,Business Analyst,Python,No,3,Yes,Medium
+M.Tech,Business Analytics,7.95,Business Analyst,C++,Yes,2,No,Medium
+BCA,CSE,6.57,DevOps Engineer,Python,No,1,Yes,Low
+B.Tech,Software Engineering,7.29,DevOps Engineer,Java,No,2,No,Medium
+MBA,Business Analytics,9.78,Business Analyst,Python,Yes,4,No,High
+M.Tech,Business Analytics,8.95,Business Analyst,Python,Yes,4,Yes,High
+BBA,AI,9.37,AI Engineer,Python,Yes,5,Yes,High
+BBA,Machine Learning,9.96,AI Engineer,Python,Yes,3,Yes,High
+MCA,Cyber Security,9.35,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,IT,9.25,Cloud Engineer,Java,Yes,5,Yes,High
+M.Sc,Finance,7.04,Business Analyst,C++,No,2,No,Medium
+BCA,Electronics,9.97,Cloud Engineer,C++,Yes,4,Yes,High
+BCA,Finance,7.3,Business Analyst,Python,No,3,No,Medium
+MCA,Data Science,9.87,Data Scientist,Python,Yes,4,Yes,High
+B.Tech,CSE,7.16,DevOps Engineer,C++,No,3,No,Medium
+BBA,Cyber Security,9.4,Cyber Security Analyst,Python,Yes,3,Yes,High
+MCA,AI,7.71,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Electronics,6.15,Support Engineer,Java,No,0,Yes,Low
+BCA,Software Engineering,6.44,DevOps Engineer,Java,No,0,No,Low
+B.Sc,AI,7.94,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,AI,7.48,Data Scientist,Python,No,2,Yes,Medium
+M.Tech,Finance,7.9,Business Analyst,C++,Yes,3,No,Medium
+MBA,IT,6.99,Support Engineer,C++,No,1,No,Low
+M.Tech,IT,6.34,Support Engineer,Python,No,1,No,Low
+MBA,Cyber Security,7.33,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Tech,Electronics,7.65,Support Engineer,Java,Yes,2,Yes,Medium
+B.Sc,Electronics,8.88,Support Engineer,C++,Yes,3,No,High
+BBA,Information Security,8.06,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,Electronics,9.03,Cloud Engineer,Python,Yes,5,Yes,High
+BBA,AI,7.63,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,Information Security,7.12,Cyber Security Analyst,Python,No,2,Yes,Medium
+M.Sc,IT,6.63,Support Engineer,Python,No,1,Yes,Low
+B.Sc,AI,7.97,AI Engineer,Python,Yes,2,Yes,Medium
+M.Sc,Information Security,9.19,Cyber Security Analyst,Python,Yes,5,No,High
+M.Tech,Business Analytics,7.43,Business Analyst,Python,No,2,Yes,Medium
+M.Tech,Electronics,8.52,Support Engineer,C++,Yes,3,Yes,High
+M.Sc,Business Analytics,6.29,Business Analyst,C++,No,0,No,Low
+BBA,Electronics,7.2,Support Engineer,C++,No,2,No,Medium
+M.Tech,Cyber Security,8.25,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Machine Learning,9.23,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,CSE,8.9,Software Developer,Java,Yes,4,Yes,High
+M.Sc,Cyber Security,8.93,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Electronics,6.63,Support Engineer,Python,No,0,Yes,Low
+M.Sc,Business Analytics,8.46,Business Analyst,C++,Yes,3,No,Medium
+M.Tech,Finance,7.33,Business Analyst,Python,No,2,No,Medium
+B.Sc,Business Analytics,6.17,Business Analyst,C++,No,1,Yes,Low
+BCA,IT,6.4,Support Engineer,Java,No,1,No,Low
+MCA,Cyber Security,8.65,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Information Security,6.84,Support Engineer,Python,No,1,Yes,Low
+B.Sc,Software Engineering,9.09,Software Developer,Java,Yes,4,No,High
+M.Tech,Data Science,6.71,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Cyber Security,7.24,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,Data Science,6.25,Business Analyst,Python,No,1,Yes,Low
+MBA,Information Security,6.59,Support Engineer,Python,No,0,No,Low
+B.Sc,Electronics,8.91,Support Engineer,Python,Yes,3,No,High
+BBA,AI,6.87,Data Scientist,Python,No,1,Yes,Low
+BCA,Cyber Security,7.76,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Finance,9.06,Business Analyst,Java,Yes,4,Yes,High
+BBA,CSE,6.85,DevOps Engineer,C++,No,0,No,Low
+B.Tech,AI,7.38,Data Scientist,Python,No,2,Yes,Medium
+BBA,Electronics,6.6,Support Engineer,C++,No,1,No,Low
+BCA,Business Analytics,7.18,Business Analyst,Python,No,3,Yes,Medium
+M.Sc,IT,6.34,Support Engineer,Python,No,1,Yes,Low
+B.Sc,AI,8.87,AI Engineer,Python,Yes,4,Yes,High
+BBA,Machine Learning,7.39,Data Scientist,Python,No,2,Yes,Medium
+BCA,Machine Learning,9.99,AI Engineer,Python,Yes,5,Yes,High
+MBA,Software Engineering,7.08,DevOps Engineer,Java,No,2,No,Medium
+B.Sc,Machine Learning,9.08,AI Engineer,Python,Yes,3,Yes,High
+MCA,Software Engineering,9.43,Software Developer,Java,Yes,3,Yes,High
+MBA,Electronics,9.78,Cloud Engineer,Java,Yes,5,No,High
+M.Tech,CSE,6.53,DevOps Engineer,Python,No,0,No,Low
+B.Sc,Cyber Security,7.37,Cyber Security Analyst,Python,No,2,Yes,Medium
+BBA,Software Engineering,9.43,Software Developer,Java,Yes,4,Yes,High
+M.Sc,AI,9.12,AI Engineer,Python,Yes,4,Yes,High
+BBA,Electronics,8.1,Support Engineer,C++,Yes,3,No,Medium
+MBA,CSE,6.98,DevOps Engineer,Java,No,0,Yes,Low
+MBA,Finance,6.52,Business Analyst,Python,No,0,No,Low
+MBA,Cyber Security,8.44,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Sc,AI,6.96,Data Scientist,Python,No,0,Yes,Low
+BCA,CSE,8.63,Software Developer,C++,Yes,3,No,High
+B.Tech,Software Engineering,6.47,DevOps Engineer,Java,No,0,No,Low
+BCA,Information Security,8.68,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Electronics,8.52,Support Engineer,Python,Yes,5,No,High
+M.Sc,Cyber Security,6.88,Support Engineer,Python,No,0,Yes,Low
+BBA,Business Analytics,8.67,Business Analyst,C++,Yes,4,No,High
+MCA,CSE,6.16,DevOps Engineer,C++,No,0,No,Low
+B.Tech,AI,7.52,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,AI,6.81,Data Scientist,Python,No,0,Yes,Low
+BBA,Electronics,8.04,Support Engineer,Java,Yes,3,No,Medium
+M.Tech,Data Science,8.36,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Electronics,9.14,Cloud Engineer,Java,Yes,3,No,High
+B.Tech,AI,6.69,Data Scientist,Python,No,1,Yes,Low
+BCA,Cyber Security,6.44,Support Engineer,Python,No,1,Yes,Low
+B.Sc,Machine Learning,7.3,Data Scientist,Python,No,2,Yes,Medium
+MCA,Information Security,9.38,Cyber Security Analyst,Python,Yes,3,No,High
+B.Sc,Information Security,7.91,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,Software Engineering,9.47,Software Developer,Java,Yes,5,Yes,High
+M.Tech,IT,8.24,Cloud Engineer,C++,Yes,2,Yes,Medium
+M.Sc,Data Science,7.61,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,Business Analytics,8.67,Business Analyst,Python,Yes,4,No,High
+M.Tech,Information Security,7.51,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,IT,8.93,Cloud Engineer,C++,Yes,4,Yes,High
+B.Tech,Electronics,7.33,Support Engineer,Java,No,3,Yes,Medium
+MCA,Information Security,9.66,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,AI,9.08,AI Engineer,Python,Yes,4,Yes,High
+BBA,AI,6.73,Data Scientist,Python,No,1,Yes,Low
+M.Sc,IT,9.28,Cloud Engineer,Java,Yes,4,Yes,High
+MCA,Machine Learning,9.99,AI Engineer,Python,Yes,5,Yes,High
+M.Sc,AI,6.3,Data Scientist,Python,No,0,Yes,Low
+MCA,Finance,9.0,Business Analyst,C++,Yes,5,No,High
+B.Sc,Software Engineering,8.32,Software Developer,Java,Yes,3,No,Medium
+BCA,Cyber Security,6.62,Support Engineer,Python,No,0,Yes,Low
+MBA,Electronics,7.21,Support Engineer,Python,No,2,No,Medium
+M.Tech,CSE,9.44,Software Developer,C++,Yes,3,No,High
+BBA,IT,8.86,Cloud Engineer,C++,Yes,3,Yes,High
+B.Sc,Information Security,9.02,Cyber Security Analyst,Python,Yes,4,No,High
+MCA,Software Engineering,7.27,DevOps Engineer,Java,No,3,No,Medium
+MCA,IT,7.07,Support Engineer,C++,No,2,No,Medium
+M.Sc,Data Science,6.85,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Data Science,9.85,Data Scientist,Python,Yes,3,Yes,High
+MBA,IT,6.56,Support Engineer,C++,No,1,Yes,Low
+B.Sc,Cyber Security,9.85,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,AI,8.54,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Business Analytics,9.86,Business Analyst,C++,Yes,5,Yes,High
+BCA,Electronics,8.67,Support Engineer,Java,Yes,4,No,High
+MCA,IT,7.18,Support Engineer,Python,No,3,Yes,Medium
+M.Sc,CSE,8.22,DevOps Engineer,Python,Yes,3,Yes,Medium
+BCA,Finance,6.44,Business Analyst,C++,No,0,Yes,Low
+BBA,AI,7.18,Data Scientist,Python,No,3,Yes,Medium
+M.Sc,AI,6.72,Data Scientist,Python,No,1,Yes,Low
+MCA,CSE,7.22,DevOps Engineer,C++,No,2,No,Medium
+M.Sc,IT,9.94,Cloud Engineer,Java,Yes,3,No,High
+M.Sc,Software Engineering,6.74,DevOps Engineer,Java,No,0,No,Low
+MBA,Business Analytics,6.15,Business Analyst,Python,No,1,Yes,Low
+B.Tech,Finance,6.1,Business Analyst,C++,No,0,Yes,Low
+M.Sc,CSE,9.32,Software Developer,Java,Yes,4,No,High
+M.Tech,Data Science,6.11,Business Analyst,Python,No,0,Yes,Low
+B.Tech,Data Science,6.25,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Business Analytics,6.63,Business Analyst,Java,No,0,No,Low
+MBA,CSE,8.53,Software Developer,Java,Yes,3,No,High
+BCA,IT,7.88,Support Engineer,C++,Yes,2,No,Medium
+B.Sc,Information Security,9.71,Cyber Security Analyst,Python,Yes,5,No,High
+M.Sc,Electronics,7.49,Support Engineer,Python,No,3,No,Medium
+B.Tech,AI,6.76,Data Scientist,Python,No,1,Yes,Low
+BCA,Business Analytics,6.15,Business Analyst,Python,No,0,Yes,Low
+BCA,Data Science,7.41,Business Analyst,Python,No,2,Yes,Medium
+MCA,CSE,8.57,Software Developer,C++,Yes,3,No,High
+B.Sc,CSE,6.17,DevOps Engineer,C++,No,1,No,Low
+M.Tech,Software Engineering,8.94,Software Developer,Java,Yes,4,Yes,High
+BCA,Information Security,6.54,Support Engineer,Python,No,0,No,Low
+B.Sc,Finance,6.56,Business Analyst,Python,No,0,No,Low
+M.Sc,Business Analytics,9.7,Business Analyst,Python,Yes,5,No,High
+B.Tech,Finance,8.54,Business Analyst,Java,Yes,4,Yes,High
+BCA,Data Science,6.18,Business Analyst,Python,No,0,Yes,Low
+MCA,AI,6.98,Data Scientist,Python,No,1,Yes,Low
+MBA,Data Science,6.81,Business Analyst,Python,No,1,Yes,Low
+B.Tech,IT,7.39,Support Engineer,Python,No,2,Yes,Medium
+BCA,IT,6.95,Support Engineer,Python,No,1,Yes,Low
+MBA,Software Engineering,9.34,Software Developer,Java,Yes,4,No,High
+M.Tech,Electronics,7.75,Support Engineer,Python,Yes,2,No,Medium
+MCA,AI,9.8,AI Engineer,Python,Yes,4,Yes,High
+BBA,Business Analytics,8.45,Business Analyst,Python,Yes,3,Yes,Medium
+B.Sc,Electronics,7.09,Support Engineer,Java,No,3,No,Medium
+B.Tech,Cyber Security,7.5,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Business Analytics,6.82,Business Analyst,C++,No,1,No,Low
+MBA,Software Engineering,7.18,DevOps Engineer,Java,No,2,No,Medium
+B.Sc,Data Science,9.4,Data Scientist,Python,Yes,4,Yes,High
+BCA,CSE,6.2,DevOps Engineer,Python,No,1,No,Low
+M.Tech,Data Science,7.84,Business Analyst,Python,Yes,2,Yes,Medium
+M.Sc,Data Science,9.83,Data Scientist,Python,Yes,3,Yes,High
+B.Sc,Machine Learning,8.66,AI Engineer,Python,Yes,3,Yes,High
+MCA,Finance,6.09,Business Analyst,Java,No,0,Yes,Low
+MBA,Electronics,10.0,Cloud Engineer,C++,Yes,5,Yes,High
+BBA,Machine Learning,9.77,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Software Engineering,7.33,DevOps Engineer,Java,No,3,Yes,Medium
+MCA,Information Security,7.54,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BBA,CSE,8.27,DevOps Engineer,Python,Yes,3,Yes,Medium
+MCA,AI,9.4,AI Engineer,Python,Yes,3,Yes,High
+BBA,CSE,9.27,Software Developer,C++,Yes,3,No,High
+MCA,CSE,6.67,DevOps Engineer,C++,No,1,Yes,Low
+MCA,Machine Learning,6.66,Data Scientist,Python,No,0,Yes,Low
+BBA,Electronics,8.96,Support Engineer,Java,Yes,5,No,High
+BBA,Data Science,8.94,Data Scientist,Python,Yes,5,Yes,High
+BBA,Business Analytics,8.61,Business Analyst,Java,Yes,3,Yes,High
+M.Tech,Business Analytics,7.86,Business Analyst,Java,Yes,2,Yes,Medium
+BBA,Electronics,7.85,Support Engineer,C++,Yes,2,No,Medium
+M.Tech,CSE,8.33,DevOps Engineer,Python,Yes,3,No,Medium
+M.Tech,Cyber Security,8.68,Cyber Security Analyst,Python,Yes,4,Yes,High
+BCA,Cyber Security,7.01,Cyber Security Analyst,Python,No,2,Yes,Medium
+M.Sc,Business Analytics,9.46,Business Analyst,Java,Yes,5,No,High
+MCA,Data Science,9.88,Data Scientist,Python,Yes,3,Yes,High
+B.Sc,Software Engineering,9.51,Software Developer,Java,Yes,5,No,High
+B.Sc,Finance,9.47,Business Analyst,C++,Yes,4,Yes,High
+B.Tech,IT,6.93,Support Engineer,C++,No,1,Yes,Low
+BBA,Cyber Security,8.17,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,Cyber Security,9.03,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Software Engineering,7.65,Software Developer,Java,Yes,2,No,Medium
+MBA,Machine Learning,6.96,Data Scientist,Python,No,1,Yes,Low
+MCA,Information Security,9.82,Cyber Security Analyst,Python,Yes,3,No,High
+M.Tech,CSE,6.78,DevOps Engineer,Java,No,0,No,Low
+B.Tech,Cyber Security,7.26,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,AI,7.27,Data Scientist,Python,No,2,Yes,Medium
+BCA,CSE,7.39,DevOps Engineer,Java,No,3,Yes,Medium
+B.Sc,Cyber Security,9.93,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,Finance,7.18,Business Analyst,C++,No,3,No,Medium
+BCA,Data Science,9.47,Data Scientist,Python,Yes,4,Yes,High
+BBA,AI,6.21,Data Scientist,Python,No,0,Yes,Low
+MBA,Electronics,9.09,Cloud Engineer,C++,Yes,3,No,High
+MCA,Cyber Security,6.36,Support Engineer,Python,No,0,Yes,Low
+BBA,Data Science,8.89,Data Scientist,Python,Yes,5,Yes,High
+BCA,Cyber Security,6.93,Support Engineer,Python,No,0,Yes,Low
+MCA,Information Security,6.27,Support Engineer,Python,No,1,No,Low
+M.Tech,Software Engineering,7.6,Software Developer,Java,Yes,2,No,Medium
+B.Tech,Software Engineering,6.83,DevOps Engineer,Java,No,1,No,Low
+B.Sc,AI,6.08,Data Scientist,Python,No,0,Yes,Low
+BCA,Cyber Security,9.86,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,AI,7.07,Data Scientist,Python,No,3,Yes,Medium
+BCA,Machine Learning,8.47,AI Engineer,Python,Yes,2,Yes,Medium
+B.Sc,Data Science,7.2,Business Analyst,Python,No,3,Yes,Medium
+BBA,Cyber Security,8.44,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Cyber Security,7.96,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,Cyber Security,6.92,Support Engineer,Python,No,1,Yes,Low
+MBA,CSE,6.73,DevOps Engineer,Python,No,0,No,Low
+M.Tech,CSE,7.41,DevOps Engineer,C++,No,3,Yes,Medium
+B.Sc,Software Engineering,6.67,DevOps Engineer,Java,No,1,Yes,Low
+BCA,Data Science,8.96,Data Scientist,Python,Yes,3,Yes,High
+M.Tech,Software Engineering,8.28,Software Developer,Java,Yes,3,Yes,Medium
+MCA,Business Analytics,9.35,Business Analyst,Python,Yes,5,Yes,High
+BBA,Finance,9.18,Business Analyst,Python,Yes,3,No,High
+BCA,Business Analytics,7.23,Business Analyst,Python,No,2,Yes,Medium
+B.Tech,Business Analytics,7.17,Business Analyst,Java,No,3,No,Medium
+M.Sc,CSE,7.96,DevOps Engineer,C++,Yes,3,Yes,Medium
+BCA,IT,7.65,Support Engineer,Java,Yes,2,Yes,Medium
+BBA,Finance,6.98,Business Analyst,Python,No,0,No,Low
+BCA,Business Analytics,7.09,Business Analyst,C++,No,3,Yes,Medium
+M.Tech,Finance,8.77,Business Analyst,Python,Yes,4,No,High
+M.Tech,CSE,7.59,DevOps Engineer,Java,Yes,3,No,Medium
+MCA,Finance,8.39,Business Analyst,Java,Yes,2,No,Medium
+M.Sc,Business Analytics,7.63,Business Analyst,Python,Yes,3,Yes,Medium
+MBA,CSE,7.31,DevOps Engineer,C++,No,2,No,Medium
+BCA,Business Analytics,6.68,Business Analyst,C++,No,1,Yes,Low
+B.Tech,IT,7.77,Support Engineer,Python,Yes,3,No,Medium
+BBA,IT,6.02,Support Engineer,Java,No,1,Yes,Low
+BBA,Finance,9.84,Business Analyst,Java,Yes,5,No,High
+MBA,Software Engineering,6.47,DevOps Engineer,Java,No,0,Yes,Low
+M.Tech,Information Security,7.8,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,AI,8.72,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Software Engineering,9.49,Software Developer,Java,Yes,4,No,High
+M.Sc,Electronics,6.88,Support Engineer,C++,No,0,Yes,Low
+B.Sc,IT,8.49,Cloud Engineer,Java,Yes,2,Yes,Medium
+BBA,Finance,7.98,Business Analyst,Java,Yes,2,Yes,Medium
+MCA,Machine Learning,9.42,AI Engineer,Python,Yes,5,Yes,High
+BCA,Finance,7.12,Business Analyst,C++,No,2,No,Medium
+BCA,Machine Learning,9.56,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,AI,8.02,AI Engineer,Python,Yes,2,Yes,Medium
+MBA,AI,9.28,AI Engineer,Python,Yes,5,Yes,High
+BBA,AI,8.75,AI Engineer,Python,Yes,3,Yes,High
+BCA,CSE,7.56,DevOps Engineer,Python,Yes,3,Yes,Medium
+B.Sc,Data Science,8.39,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Information Security,8.77,Cyber Security Analyst,Python,Yes,5,Yes,High
+BBA,Cyber Security,6.63,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Finance,6.2,Business Analyst,Python,No,0,No,Low
+B.Sc,CSE,9.69,Software Developer,C++,Yes,5,Yes,High
+B.Sc,Software Engineering,8.43,Software Developer,Java,Yes,2,Yes,Medium
+M.Tech,Cyber Security,8.35,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Sc,Finance,9.41,Business Analyst,Python,Yes,4,No,High
+M.Sc,Electronics,9.38,Cloud Engineer,Python,Yes,3,No,High
+B.Tech,CSE,7.28,DevOps Engineer,C++,No,3,No,Medium
+MCA,Finance,9.0,Business Analyst,C++,Yes,3,No,High
+MBA,Information Security,8.99,Cyber Security Analyst,Python,Yes,4,Yes,High
+BBA,Machine Learning,8.15,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Business Analytics,7.23,Business Analyst,Python,No,2,Yes,Medium
+B.Sc,CSE,7.6,DevOps Engineer,Python,Yes,2,Yes,Medium
+B.Tech,Cyber Security,6.04,Support Engineer,Python,No,0,Yes,Low
+MBA,IT,8.66,Cloud Engineer,Java,Yes,3,Yes,High
+M.Tech,CSE,8.76,Software Developer,Java,Yes,4,No,High
+B.Sc,Software Engineering,9.33,Software Developer,Java,Yes,3,No,High
+M.Tech,Machine Learning,8.84,AI Engineer,Python,Yes,5,Yes,High
+BBA,Business Analytics,6.01,Business Analyst,Java,No,0,No,Low
+M.Tech,Cyber Security,8.06,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Machine Learning,9.12,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Cyber Security,8.55,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Data Science,9.46,Data Scientist,Python,Yes,5,Yes,High
+B.Sc,AI,6.52,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Data Science,9.97,Data Scientist,Python,Yes,3,Yes,High
+MCA,Machine Learning,8.76,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Finance,7.42,Business Analyst,C++,No,2,Yes,Medium
+B.Tech,AI,9.83,AI Engineer,Python,Yes,4,Yes,High
+MBA,Business Analytics,6.12,Business Analyst,C++,No,0,No,Low
+MBA,Finance,7.04,Business Analyst,Python,No,2,Yes,Medium
+B.Tech,Business Analytics,7.85,Business Analyst,Python,Yes,2,No,Medium
+M.Sc,Software Engineering,6.3,DevOps Engineer,Java,No,0,Yes,Low
+B.Sc,CSE,7.06,DevOps Engineer,Java,No,2,Yes,Medium
+BBA,Business Analytics,6.31,Business Analyst,Python,No,0,No,Low
+BCA,CSE,8.43,DevOps Engineer,Java,Yes,2,Yes,Medium
+BCA,Information Security,7.64,Cyber Security Analyst,Python,Yes,2,No,Medium
+MCA,Data Science,8.08,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Machine Learning,7.74,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,Electronics,9.83,Cloud Engineer,C++,Yes,5,No,High
+B.Sc,Machine Learning,7.7,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,Machine Learning,7.61,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Data Science,9.76,Data Scientist,Python,Yes,4,Yes,High
+MCA,Machine Learning,7.81,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,CSE,9.83,Software Developer,Java,Yes,4,No,High
+B.Sc,Information Security,7.83,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,AI,8.58,AI Engineer,Python,Yes,5,Yes,High
+B.Tech,Finance,6.68,Business Analyst,Java,No,1,No,Low
+MBA,IT,7.52,Support Engineer,Python,Yes,3,Yes,Medium
+MCA,Finance,7.72,Business Analyst,Python,Yes,2,No,Medium
+BCA,Electronics,9.4,Cloud Engineer,Java,Yes,4,No,High
+M.Tech,Information Security,7.14,Cyber Security Analyst,Python,No,3,No,Medium
+B.Tech,Machine Learning,6.24,Data Scientist,Python,No,1,Yes,Low
+M.Tech,IT,9.29,Cloud Engineer,Java,Yes,3,Yes,High
+M.Tech,AI,9.74,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Data Science,9.05,Data Scientist,Python,Yes,5,Yes,High
+BCA,Cyber Security,9.62,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,Finance,8.33,Business Analyst,Java,Yes,2,Yes,Medium
+B.Sc,Finance,7.39,Business Analyst,Python,No,2,Yes,Medium
+M.Tech,AI,8.36,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Business Analytics,7.19,Business Analyst,Java,No,3,Yes,Medium
+B.Sc,AI,6.33,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Machine Learning,9.32,AI Engineer,Python,Yes,3,Yes,High
+BBA,Data Science,6.09,Business Analyst,Python,No,1,Yes,Low
+MCA,Data Science,7.02,Business Analyst,Python,No,3,Yes,Medium
+M.Sc,Software Engineering,9.03,Software Developer,Java,Yes,5,No,High
+MCA,IT,6.31,Support Engineer,Java,No,1,No,Low
+MBA,IT,8.47,Cloud Engineer,Python,Yes,3,No,Medium
+MCA,IT,9.93,Cloud Engineer,Java,Yes,4,Yes,High
+MBA,Business Analytics,6.03,Business Analyst,Python,No,0,No,Low
+M.Tech,Data Science,7.63,Business Analyst,Python,Yes,2,Yes,Medium
+MBA,CSE,7.05,DevOps Engineer,C++,No,3,Yes,Medium
+MCA,Information Security,9.67,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Electronics,6.95,Support Engineer,Java,No,1,No,Low
+MCA,IT,9.52,Cloud Engineer,C++,Yes,4,Yes,High
+MCA,Data Science,8.6,Data Scientist,Python,Yes,5,Yes,High
+BCA,IT,9.67,Cloud Engineer,Python,Yes,5,No,High
+B.Tech,Software Engineering,6.71,DevOps Engineer,Java,No,1,Yes,Low
+B.Sc,Software Engineering,8.09,Software Developer,Java,Yes,2,No,Medium
+M.Sc,Finance,6.04,Business Analyst,Python,No,0,No,Low
+M.Tech,IT,7.05,Support Engineer,C++,No,3,No,Medium
+MCA,IT,6.71,Support Engineer,Java,No,1,Yes,Low
+B.Tech,Electronics,6.46,Support Engineer,Python,No,1,Yes,Low
+BCA,CSE,7.2,DevOps Engineer,Java,No,2,No,Medium
+M.Tech,Business Analytics,6.12,Business Analyst,Java,No,0,No,Low
+MBA,Business Analytics,9.16,Business Analyst,C++,Yes,5,No,High
+M.Sc,Information Security,8.37,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Machine Learning,6.86,Data Scientist,Python,No,1,Yes,Low
+M.Sc,Electronics,7.82,Support Engineer,Python,Yes,3,Yes,Medium
+M.Sc,Data Science,6.99,Business Analyst,Python,No,0,Yes,Low
+B.Tech,Data Science,6.93,Business Analyst,Python,No,1,Yes,Low
+B.Sc,Machine Learning,6.27,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Business Analytics,9.84,Business Analyst,Java,Yes,5,Yes,High
+M.Sc,AI,7.71,Data Scientist,Python,Yes,3,Yes,Medium
+B.Tech,Data Science,9.4,Data Scientist,Python,Yes,4,Yes,High
+B.Sc,Machine Learning,8.3,AI Engineer,Python,Yes,3,Yes,Medium
+M.Sc,AI,8.91,AI Engineer,Python,Yes,4,Yes,High
+MCA,Cyber Security,7.58,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Information Security,9.06,Cyber Security Analyst,Python,Yes,3,No,High
+M.Sc,IT,6.25,Support Engineer,Python,No,1,Yes,Low
+M.Sc,Data Science,8.95,Data Scientist,Python,Yes,4,Yes,High
+B.Sc,Business Analytics,7.42,Business Analyst,Python,No,2,Yes,Medium
+BBA,Data Science,9.34,Data Scientist,Python,Yes,5,Yes,High
+B.Sc,Machine Learning,9.07,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Cyber Security,6.28,Support Engineer,Python,No,1,Yes,Low
+BCA,Business Analytics,8.83,Business Analyst,Java,Yes,4,Yes,High
+M.Tech,Electronics,9.65,Cloud Engineer,Python,Yes,4,No,High
+M.Tech,IT,6.47,Support Engineer,C++,No,1,No,Low
+M.Tech,Finance,7.06,Business Analyst,Python,No,3,No,Medium
+MBA,CSE,7.99,DevOps Engineer,Java,Yes,2,Yes,Medium
+MCA,AI,6.65,Data Scientist,Python,No,1,Yes,Low
+B.Tech,Finance,8.95,Business Analyst,C++,Yes,3,Yes,High
+MCA,CSE,9.28,Software Developer,C++,Yes,5,No,High
+BBA,Finance,8.23,Business Analyst,Java,Yes,3,No,Medium
+BBA,IT,9.83,Cloud Engineer,C++,Yes,4,No,High
+M.Tech,Machine Learning,9.17,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,IT,8.95,Cloud Engineer,Java,Yes,5,Yes,High
+B.Sc,Business Analytics,7.45,Business Analyst,Java,No,3,No,Medium
+M.Sc,Information Security,7.46,Cyber Security Analyst,Python,No,2,Yes,Medium
+BCA,IT,9.92,Cloud Engineer,C++,Yes,5,No,High
+B.Tech,IT,9.75,Cloud Engineer,Java,Yes,5,No,High
+BCA,Electronics,7.6,Support Engineer,Python,Yes,3,Yes,Medium
+MCA,Finance,9.48,Business Analyst,Python,Yes,3,No,High
+B.Sc,AI,7.15,Data Scientist,Python,No,2,Yes,Medium
+BBA,AI,7.43,Data Scientist,Python,No,2,Yes,Medium
+BBA,IT,7.93,Support Engineer,C++,Yes,3,No,Medium
+M.Sc,Machine Learning,8.86,AI Engineer,Python,Yes,3,Yes,High
+MBA,AI,8.11,AI Engineer,Python,Yes,3,Yes,Medium
+MBA,Electronics,6.66,Support Engineer,Python,No,0,Yes,Low
+M.Sc,Business Analytics,8.31,Business Analyst,C++,Yes,2,Yes,Medium
+B.Tech,CSE,8.68,Software Developer,C++,Yes,3,No,High
+M.Tech,Software Engineering,6.58,DevOps Engineer,Java,No,1,Yes,Low
+MCA,Information Security,7.12,Cyber Security Analyst,Python,No,3,No,Medium
+B.Tech,IT,7.88,Support Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Data Science,8.65,Data Scientist,Python,Yes,5,Yes,High
+MBA,CSE,7.11,DevOps Engineer,Java,No,3,Yes,Medium
+B.Sc,Business Analytics,7.91,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,IT,9.07,Cloud Engineer,Java,Yes,3,Yes,High
+MBA,IT,9.56,Cloud Engineer,C++,Yes,4,Yes,High
+M.Tech,Finance,9.49,Business Analyst,Java,Yes,4,No,High
+MBA,Software Engineering,8.73,Software Developer,Java,Yes,3,Yes,High
+MCA,IT,7.83,Support Engineer,Python,Yes,3,Yes,Medium
+MBA,Machine Learning,7.99,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Software Engineering,9.07,Software Developer,Java,Yes,4,No,High
+MCA,CSE,7.3,DevOps Engineer,C++,No,2,Yes,Medium
+M.Sc,Finance,9.28,Business Analyst,Python,Yes,3,No,High
+M.Tech,Electronics,7.15,Support Engineer,Java,No,2,No,Medium
+MBA,Electronics,6.18,Support Engineer,Python,No,1,No,Low
+B.Tech,Software Engineering,6.16,DevOps Engineer,Java,No,0,Yes,Low
+BCA,Finance,7.9,Business Analyst,Python,Yes,3,No,Medium
+BCA,Finance,9.47,Business Analyst,Java,Yes,4,No,High
+MBA,Finance,7.06,Business Analyst,Python,No,3,No,Medium
+M.Tech,CSE,8.19,DevOps Engineer,Python,Yes,2,No,Medium
+MBA,Information Security,6.34,Support Engineer,Python,No,1,No,Low
+M.Sc,Electronics,7.79,Support Engineer,C++,Yes,2,Yes,Medium
+MBA,Data Science,6.44,Business Analyst,Python,No,1,Yes,Low
+M.Tech,Business Analytics,9.37,Business Analyst,Python,Yes,3,Yes,High
+B.Sc,Business Analytics,7.45,Business Analyst,Python,No,3,Yes,Medium
+M.Tech,AI,7.62,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Data Science,8.26,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,AI,7.46,Data Scientist,Python,No,2,Yes,Medium
+BBA,AI,8.41,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Business Analytics,7.44,Business Analyst,Java,No,3,No,Medium
+M.Sc,Electronics,7.35,Support Engineer,Java,No,3,Yes,Medium
+M.Tech,IT,8.13,Cloud Engineer,Java,Yes,3,Yes,Medium
+M.Sc,Cyber Security,6.7,Support Engineer,Python,No,0,Yes,Low
+MCA,Information Security,8.82,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Sc,Machine Learning,8.38,AI Engineer,Python,Yes,3,Yes,Medium
+BCA,Machine Learning,9.43,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Data Science,8.66,Data Scientist,Python,Yes,5,Yes,High
+MCA,Software Engineering,8.35,Software Developer,Java,Yes,2,No,Medium
+B.Sc,Machine Learning,6.18,Data Scientist,Python,No,0,Yes,Low
+BBA,Data Science,8.18,Data Scientist,Python,Yes,2,Yes,Medium
+M.Sc,IT,7.33,Support Engineer,C++,No,3,Yes,Medium
+M.Sc,Cyber Security,6.68,Support Engineer,Python,No,1,Yes,Low
+B.Sc,IT,8.1,Cloud Engineer,C++,Yes,3,Yes,Medium
+BCA,Cyber Security,6.47,Support Engineer,Python,No,1,Yes,Low
+B.Tech,Cyber Security,6.41,Support Engineer,Python,No,1,Yes,Low
+M.Tech,Data Science,7.95,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,Cyber Security,9.65,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,CSE,6.57,DevOps Engineer,Java,No,1,Yes,Low
+BCA,Machine Learning,8.6,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,AI,9.95,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Electronics,9.91,Cloud Engineer,Python,Yes,4,Yes,High
+B.Tech,IT,6.58,Support Engineer,Python,No,1,Yes,Low
+MCA,Cyber Security,9.84,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Sc,CSE,6.3,DevOps Engineer,Java,No,0,No,Low
+M.Tech,Electronics,8.67,Support Engineer,Python,Yes,4,Yes,High
+M.Tech,CSE,7.55,DevOps Engineer,Python,Yes,3,No,Medium
+B.Sc,Cyber Security,7.98,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MBA,Information Security,6.33,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Machine Learning,9.36,AI Engineer,Python,Yes,5,Yes,High
+MCA,Machine Learning,8.0,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Electronics,9.4,Cloud Engineer,C++,Yes,3,Yes,High
+MCA,Information Security,7.7,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Machine Learning,6.93,Data Scientist,Python,No,1,Yes,Low
+BBA,AI,8.09,AI Engineer,Python,Yes,3,Yes,Medium
+BBA,IT,8.44,Cloud Engineer,Python,Yes,3,No,Medium
+M.Tech,Finance,7.21,Business Analyst,C++,No,2,Yes,Medium
+B.Tech,Electronics,7.78,Support Engineer,C++,Yes,3,No,Medium
+BBA,Data Science,6.42,Business Analyst,Python,No,1,Yes,Low
+BBA,Cyber Security,9.21,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Software Engineering,6.58,DevOps Engineer,Java,No,0,No,Low
+B.Tech,Information Security,9.72,Cyber Security Analyst,Python,Yes,4,No,High
+MCA,IT,7.45,Support Engineer,Python,No,3,Yes,Medium
+M.Tech,Data Science,8.95,Data Scientist,Python,Yes,3,Yes,High
+BBA,Finance,8.75,Business Analyst,Java,Yes,5,Yes,High
+M.Sc,Machine Learning,6.18,Data Scientist,Python,No,0,Yes,Low
+BCA,CSE,6.25,DevOps Engineer,Java,No,1,Yes,Low
+M.Sc,Electronics,8.16,Support Engineer,C++,Yes,2,Yes,Medium
+B.Tech,Business Analytics,9.04,Business Analyst,C++,Yes,5,No,High
+M.Sc,Electronics,7.32,Support Engineer,Python,No,3,No,Medium
+M.Tech,Information Security,9.4,Cyber Security Analyst,Python,Yes,5,No,High
+BCA,Data Science,6.1,Business Analyst,Python,No,1,Yes,Low
+B.Tech,Software Engineering,7.71,Software Developer,Java,Yes,3,Yes,Medium
+BCA,Cyber Security,9.4,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Sc,Machine Learning,8.05,Data Scientist,Python,Yes,3,Yes,Medium
+M.Tech,Electronics,6.45,Support Engineer,C++,No,1,No,Low
+BBA,CSE,8.44,DevOps Engineer,Java,Yes,3,Yes,Medium
+M.Sc,IT,9.74,Cloud Engineer,C++,Yes,4,Yes,High
+MBA,AI,9.55,AI Engineer,Python,Yes,5,Yes,High
+BCA,Software Engineering,7.73,Software Developer,Java,Yes,3,Yes,Medium
+B.Sc,CSE,8.48,DevOps Engineer,C++,Yes,3,No,Medium
+BCA,Information Security,6.51,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Software Engineering,8.85,Software Developer,Java,Yes,5,No,High
+B.Tech,Machine Learning,6.83,Data Scientist,Python,No,1,Yes,Low
+MCA,Electronics,7.51,Support Engineer,C++,Yes,3,Yes,Medium
+MCA,Data Science,9.64,Data Scientist,Python,Yes,4,Yes,High
+MBA,Business Analytics,7.76,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,CSE,8.7,Software Developer,Python,Yes,5,Yes,High
+M.Sc,Machine Learning,6.99,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Business Analytics,9.34,Business Analyst,Python,Yes,3,No,High
+BBA,Business Analytics,6.14,Business Analyst,Python,No,0,Yes,Low
+BCA,Data Science,8.76,Data Scientist,Python,Yes,5,Yes,High
+B.Sc,CSE,6.38,DevOps Engineer,C++,No,1,No,Low
+MBA,Software Engineering,8.05,Software Developer,Java,Yes,3,Yes,Medium
+B.Sc,Information Security,8.91,Cyber Security Analyst,Python,Yes,4,No,High
+MBA,Electronics,6.81,Support Engineer,C++,No,1,Yes,Low
+B.Sc,Electronics,6.84,Support Engineer,Java,No,0,Yes,Low
+BCA,CSE,6.61,DevOps Engineer,C++,No,1,Yes,Low
+MCA,AI,7.75,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Electronics,6.54,Support Engineer,Python,No,1,No,Low
+B.Sc,AI,8.31,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,Data Science,7.4,Business Analyst,Python,No,2,Yes,Medium
+MBA,Electronics,7.97,Support Engineer,C++,Yes,3,No,Medium
+BCA,Electronics,6.07,Support Engineer,Python,No,1,No,Low
+M.Tech,Machine Learning,7.76,Data Scientist,Python,Yes,2,Yes,Medium
+MBA,Data Science,8.26,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,IT,6.5,Support Engineer,Python,No,0,Yes,Low
+MCA,AI,8.82,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,IT,6.43,Support Engineer,Java,No,0,No,Low
+MBA,Electronics,8.81,Support Engineer,Java,Yes,5,Yes,High
+B.Sc,Business Analytics,8.9,Business Analyst,C++,Yes,5,Yes,High
+B.Sc,Data Science,9.92,Data Scientist,Python,Yes,5,Yes,High
+MBA,Information Security,8.41,Cyber Security Analyst,Python,Yes,3,No,Medium
+B.Sc,AI,8.49,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Data Science,9.58,Data Scientist,Python,Yes,3,Yes,High
+BCA,Data Science,9.13,Data Scientist,Python,Yes,5,Yes,High
+M.Sc,Machine Learning,8.41,AI Engineer,Python,Yes,2,Yes,Medium
+MCA,Electronics,8.1,Support Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Machine Learning,8.54,AI Engineer,Python,Yes,5,Yes,High
+BCA,Business Analytics,9.2,Business Analyst,Python,Yes,5,Yes,High
+MBA,Cyber Security,6.58,Support Engineer,Python,No,1,Yes,Low
+MCA,Information Security,6.84,Support Engineer,Python,No,1,No,Low
+BBA,AI,7.34,Data Scientist,Python,No,2,Yes,Medium
+MBA,Software Engineering,6.9,DevOps Engineer,Java,No,1,No,Low
+M.Tech,Electronics,9.54,Cloud Engineer,Python,Yes,5,No,High
+M.Sc,CSE,6.17,DevOps Engineer,Java,No,0,Yes,Low
+B.Tech,Information Security,9.29,Cyber Security Analyst,Python,Yes,4,No,High
+B.Tech,CSE,6.2,DevOps Engineer,Python,No,1,Yes,Low
+BBA,IT,6.16,Support Engineer,C++,No,1,Yes,Low
+BCA,IT,8.43,Cloud Engineer,C++,Yes,2,Yes,Medium
+M.Tech,CSE,9.83,Software Developer,Java,Yes,3,Yes,High
+MCA,Data Science,7.72,Business Analyst,Python,Yes,2,Yes,Medium
+BCA,Information Security,7.49,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,Electronics,6.4,Support Engineer,Python,No,1,Yes,Low
+B.Tech,AI,9.97,AI Engineer,Python,Yes,5,Yes,High
+B.Tech,Electronics,6.84,Support Engineer,Python,No,0,No,Low
+BCA,Finance,6.28,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Machine Learning,8.89,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,IT,8.13,Cloud Engineer,Java,Yes,2,No,Medium
+M.Sc,Business Analytics,8.24,Business Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Software Engineering,7.05,DevOps Engineer,Java,No,3,No,Medium
+BBA,Business Analytics,6.81,Business Analyst,Python,No,0,Yes,Low
+MCA,Software Engineering,8.17,Software Developer,Java,Yes,2,Yes,Medium
+B.Tech,CSE,9.58,Software Developer,Java,Yes,3,Yes,High
+MCA,CSE,7.76,DevOps Engineer,Java,Yes,3,No,Medium
+B.Tech,AI,7.58,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Business Analytics,7.44,Business Analyst,C++,No,2,Yes,Medium
+B.Sc,Finance,8.93,Business Analyst,C++,Yes,5,Yes,High
+BBA,Business Analytics,9.48,Business Analyst,Java,Yes,3,Yes,High
+B.Tech,Software Engineering,9.92,Software Developer,Java,Yes,5,No,High
+B.Sc,AI,7.14,Data Scientist,Python,No,2,Yes,Medium
+BBA,Software Engineering,8.08,Software Developer,Java,Yes,2,No,Medium
+BCA,Cyber Security,7.42,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Finance,8.02,Business Analyst,Python,Yes,3,Yes,Medium
+BBA,IT,6.71,Support Engineer,Python,No,1,No,Low
+B.Tech,Finance,6.13,Business Analyst,Python,No,0,No,Low
+BCA,Cyber Security,8.01,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Finance,6.17,Business Analyst,C++,No,0,No,Low
+BCA,Data Science,6.82,Business Analyst,Python,No,1,Yes,Low
+MCA,Business Analytics,8.42,Business Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Business Analytics,6.44,Business Analyst,C++,No,0,No,Low
+B.Sc,Business Analytics,8.44,Business Analyst,Python,Yes,3,No,Medium
+MBA,Machine Learning,9.68,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Data Science,8.97,Data Scientist,Python,Yes,3,Yes,High
+MBA,CSE,7.39,DevOps Engineer,Java,No,2,No,Medium
+BCA,Machine Learning,7.74,Data Scientist,Python,Yes,3,Yes,Medium
+M.Sc,Data Science,7.11,Business Analyst,Python,No,3,Yes,Medium
+B.Tech,Business Analytics,7.08,Business Analyst,Python,No,3,No,Medium
+MCA,Cyber Security,6.47,Support Engineer,Python,No,1,Yes,Low
+M.Sc,IT,8.45,Cloud Engineer,Java,Yes,2,No,Medium
+M.Tech,Cyber Security,9.3,Cyber Security Analyst,Python,Yes,3,Yes,High
+BCA,Information Security,7.14,Cyber Security Analyst,Python,No,2,Yes,Medium
+MCA,Data Science,6.2,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Information Security,7.79,Cyber Security Analyst,Python,Yes,3,No,Medium
+BCA,Machine Learning,7.03,Data Scientist,Python,No,2,Yes,Medium
+MBA,CSE,8.42,DevOps Engineer,C++,Yes,2,Yes,Medium
+MCA,Machine Learning,6.49,Data Scientist,Python,No,1,Yes,Low
+BCA,Electronics,6.48,Support Engineer,Java,No,0,No,Low
+MCA,IT,6.59,Support Engineer,Java,No,0,No,Low
+M.Sc,Information Security,8.24,Cyber Security Analyst,Python,Yes,2,No,Medium
+B.Tech,Machine Learning,7.08,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,CSE,7.84,DevOps Engineer,Java,Yes,3,Yes,Medium
+B.Sc,Business Analytics,9.54,Business Analyst,Python,Yes,4,No,High
+BBA,Business Analytics,9.0,Business Analyst,C++,Yes,5,Yes,High
+M.Tech,Information Security,9.23,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Tech,AI,8.26,AI Engineer,Python,Yes,2,Yes,Medium
+B.Tech,AI,6.76,Data Scientist,Python,No,0,Yes,Low
+B.Sc,Cyber Security,6.96,Support Engineer,Python,No,1,Yes,Low
+B.Sc,IT,7.74,Support Engineer,Java,Yes,3,No,Medium
+MCA,Cyber Security,6.88,Support Engineer,Python,No,0,Yes,Low
+B.Tech,Electronics,7.44,Support Engineer,Python,No,3,No,Medium
+B.Tech,Data Science,6.2,Business Analyst,Python,No,1,Yes,Low
+B.Sc,Finance,7.23,Business Analyst,C++,No,3,Yes,Medium
+BBA,Cyber Security,8.94,Cyber Security Analyst,Python,Yes,4,Yes,High
+M.Tech,Cyber Security,7.05,Cyber Security Analyst,Python,No,3,Yes,Medium
+BCA,Information Security,9.57,Cyber Security Analyst,Python,Yes,3,No,High
+BBA,AI,6.41,Data Scientist,Python,No,0,Yes,Low
+B.Tech,Finance,6.42,Business Analyst,C++,No,0,Yes,Low
+M.Tech,Finance,8.56,Business Analyst,C++,Yes,3,Yes,High
+B.Tech,AI,9.58,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Machine Learning,8.45,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,IT,7.47,Support Engineer,Java,No,3,Yes,Medium
+MBA,AI,9.73,AI Engineer,Python,Yes,3,Yes,High
+MBA,Cyber Security,7.79,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,AI,7.41,Data Scientist,Python,No,3,Yes,Medium
+BCA,Machine Learning,7.31,Data Scientist,Python,No,2,Yes,Medium
+B.Tech,CSE,8.03,DevOps Engineer,Java,Yes,3,Yes,Medium
+B.Tech,Cyber Security,9.19,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,Business Analytics,9.88,Business Analyst,C++,Yes,4,Yes,High
+BCA,Machine Learning,8.22,AI Engineer,Python,Yes,3,Yes,Medium
+B.Sc,Data Science,8.58,Data Scientist,Python,Yes,3,Yes,High
+M.Sc,Business Analytics,6.6,Business Analyst,Python,No,1,No,Low
+BBA,Business Analytics,8.99,Business Analyst,Java,Yes,4,Yes,High
+M.Tech,Data Science,7.8,Business Analyst,Python,Yes,2,Yes,Medium
+B.Tech,AI,8.37,AI Engineer,Python,Yes,3,Yes,Medium
+BBA,Data Science,9.65,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,AI,7.24,Data Scientist,Python,No,3,Yes,Medium
+M.Sc,AI,8.04,AI Engineer,Python,Yes,3,Yes,Medium
+MBA,Cyber Security,7.02,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Sc,Data Science,8.97,Data Scientist,Python,Yes,4,Yes,High
+BCA,IT,9.49,Cloud Engineer,Java,Yes,5,No,High
+B.Tech,Software Engineering,8.14,Software Developer,Java,Yes,2,No,Medium
+MCA,Cyber Security,7.46,Cyber Security Analyst,Python,No,2,Yes,Medium
+MCA,CSE,6.87,DevOps Engineer,C++,No,1,No,Low
+M.Tech,CSE,6.23,DevOps Engineer,Java,No,0,No,Low
+BBA,Cyber Security,7.97,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,CSE,8.38,DevOps Engineer,Python,Yes,3,Yes,Medium
+M.Tech,AI,6.77,Data Scientist,Python,No,1,Yes,Low
+M.Sc,IT,9.63,Cloud Engineer,Java,Yes,3,No,High
+M.Sc,AI,9.16,AI Engineer,Python,Yes,3,Yes,High
+MCA,CSE,7.3,DevOps Engineer,Java,No,2,No,Medium
+MCA,Finance,7.53,Business Analyst,C++,Yes,3,Yes,Medium
+M.Sc,IT,8.59,Cloud Engineer,C++,Yes,3,Yes,High
+BBA,Data Science,6.88,Business Analyst,Python,No,0,Yes,Low
+MCA,Information Security,9.68,Cyber Security Analyst,Python,Yes,4,No,High
+MCA,Business Analytics,9.04,Business Analyst,Java,Yes,3,Yes,High
+M.Tech,Information Security,8.85,Cyber Security Analyst,Python,Yes,5,No,High
+B.Tech,Business Analytics,6.73,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Finance,9.26,Business Analyst,Java,Yes,3,No,High
+BBA,Software Engineering,6.69,DevOps Engineer,Java,No,1,No,Low
+BBA,Software Engineering,6.29,DevOps Engineer,Java,No,0,No,Low
+M.Tech,Information Security,8.74,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Tech,CSE,8.96,Software Developer,Java,Yes,4,Yes,High
+B.Tech,Finance,8.22,Business Analyst,Java,Yes,2,Yes,Medium
+M.Tech,Data Science,7.29,Business Analyst,Python,No,3,Yes,Medium
+BCA,Software Engineering,6.37,DevOps Engineer,Java,No,0,Yes,Low
+MBA,Machine Learning,8.9,AI Engineer,Python,Yes,4,Yes,High
+MCA,Cyber Security,7.27,Cyber Security Analyst,Python,No,3,Yes,Medium
+BCA,Electronics,8.27,Support Engineer,C++,Yes,2,Yes,Medium
+BBA,Machine Learning,8.4,AI Engineer,Python,Yes,2,Yes,Medium
+M.Sc,Finance,9.29,Business Analyst,C++,Yes,4,No,High
+M.Tech,Information Security,6.92,Support Engineer,Python,No,0,Yes,Low
+M.Tech,CSE,6.21,DevOps Engineer,C++,No,1,No,Low
+M.Tech,IT,7.6,Support Engineer,C++,Yes,2,No,Medium
+M.Tech,Machine Learning,9.76,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Business Analytics,7.6,Business Analyst,C++,Yes,3,Yes,Medium
+BCA,Data Science,7.46,Business Analyst,Python,No,2,Yes,Medium
+M.Tech,CSE,8.43,DevOps Engineer,Java,Yes,3,Yes,Medium
+B.Tech,AI,6.33,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Cyber Security,7.49,Cyber Security Analyst,Python,No,3,Yes,Medium
+MCA,Machine Learning,7.47,Data Scientist,Python,No,3,Yes,Medium
+BBA,Data Science,6.75,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Cyber Security,7.69,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,CSE,8.54,Software Developer,C++,Yes,3,No,High
+BBA,Data Science,6.27,Business Analyst,Python,No,1,Yes,Low
+B.Tech,Finance,8.31,Business Analyst,Java,Yes,2,No,Medium
+M.Tech,IT,8.63,Cloud Engineer,Java,Yes,4,Yes,High
+B.Sc,Machine Learning,7.8,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Finance,6.09,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Business Analytics,8.25,Business Analyst,Java,Yes,2,No,Medium
+BBA,Business Analytics,7.41,Business Analyst,Java,No,2,Yes,Medium
+M.Sc,AI,9.86,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Data Science,6.86,Business Analyst,Python,No,0,Yes,Low
+MBA,Electronics,9.07,Cloud Engineer,Python,Yes,5,Yes,High
+MBA,Software Engineering,6.34,DevOps Engineer,Java,No,0,Yes,Low
+B.Sc,Electronics,9.44,Cloud Engineer,Python,Yes,5,No,High
+BCA,Software Engineering,6.02,DevOps Engineer,Java,No,1,Yes,Low
+M.Sc,Electronics,7.61,Support Engineer,Java,Yes,2,No,Medium
+M.Tech,IT,9.46,Cloud Engineer,C++,Yes,3,No,High
+M.Tech,AI,6.92,Data Scientist,Python,No,1,Yes,Low
+MCA,Business Analytics,8.38,Business Analyst,Java,Yes,2,No,Medium
+B.Sc,AI,7.45,Data Scientist,Python,No,2,Yes,Medium
+MCA,IT,6.31,Support Engineer,C++,No,0,Yes,Low
+B.Sc,IT,7.17,Support Engineer,Java,No,3,Yes,Medium
+M.Sc,Finance,8.24,Business Analyst,Java,Yes,2,No,Medium
+BBA,Data Science,9.11,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,Finance,9.44,Business Analyst,Java,Yes,3,Yes,High
+M.Sc,Cyber Security,9.75,Cyber Security Analyst,Python,Yes,4,Yes,High
+MBA,Cyber Security,9.11,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Electronics,9.89,Cloud Engineer,Python,Yes,5,No,High
+MCA,Business Analytics,7.66,Business Analyst,Python,Yes,2,No,Medium
+BBA,AI,6.64,Data Scientist,Python,No,1,Yes,Low
+B.Sc,Machine Learning,6.97,Data Scientist,Python,No,1,Yes,Low
+BBA,Cyber Security,9.35,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Information Security,9.89,Cyber Security Analyst,Python,Yes,3,Yes,High
+MBA,CSE,6.94,DevOps Engineer,C++,No,1,No,Low
+MCA,AI,9.84,AI Engineer,Python,Yes,4,Yes,High
+BCA,Finance,6.96,Business Analyst,Python,No,1,No,Low
+MCA,AI,7.34,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,CSE,9.99,Software Developer,Java,Yes,5,Yes,High
+BBA,Information Security,9.23,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Electronics,9.1,Cloud Engineer,Java,Yes,4,Yes,High
+M.Sc,CSE,7.01,DevOps Engineer,Java,No,2,No,Medium
+BBA,Machine Learning,7.72,Data Scientist,Python,Yes,3,Yes,Medium
+B.Sc,Information Security,7.87,Cyber Security Analyst,Python,Yes,3,No,Medium
+M.Sc,AI,6.26,Data Scientist,Python,No,0,Yes,Low
+M.Sc,CSE,6.67,DevOps Engineer,C++,No,1,No,Low
+MCA,Data Science,8.2,Data Scientist,Python,Yes,2,Yes,Medium
+BCA,AI,9.86,AI Engineer,Python,Yes,3,Yes,High
+MBA,CSE,8.32,DevOps Engineer,C++,Yes,3,Yes,Medium
+MCA,Information Security,6.29,Support Engineer,Python,No,1,Yes,Low
+M.Tech,Machine Learning,6.4,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Electronics,9.68,Cloud Engineer,Python,Yes,3,No,High
+B.Tech,CSE,8.27,DevOps Engineer,C++,Yes,3,Yes,Medium
+MBA,Machine Learning,6.43,Data Scientist,Python,No,0,Yes,Low
+M.Sc,Data Science,6.55,Business Analyst,Python,No,0,Yes,Low
+B.Tech,Finance,6.41,Business Analyst,Java,No,0,Yes,Low
+BBA,Finance,9.23,Business Analyst,Python,Yes,4,No,High
+BCA,Electronics,9.84,Cloud Engineer,Java,Yes,3,Yes,High
+B.Tech,Machine Learning,7.19,Data Scientist,Python,No,3,Yes,Medium
+BCA,IT,9.97,Cloud Engineer,Python,Yes,3,Yes,High
+B.Sc,Finance,7.72,Business Analyst,Python,Yes,3,Yes,Medium
+B.Sc,AI,7.87,AI Engineer,Python,Yes,2,Yes,Medium
+BBA,Software Engineering,9.25,Software Developer,Java,Yes,3,Yes,High
+B.Sc,Data Science,8.73,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,Data Science,7.24,Business Analyst,Python,No,3,Yes,Medium
+BCA,Software Engineering,8.84,Software Developer,Java,Yes,3,Yes,High
+M.Sc,AI,9.02,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,CSE,9.49,Software Developer,C++,Yes,5,No,High
+MBA,Data Science,7.62,Business Analyst,Python,Yes,2,Yes,Medium
+MCA,Electronics,6.96,Support Engineer,Java,No,0,No,Low
+M.Tech,CSE,6.51,DevOps Engineer,Python,No,0,No,Low
+MCA,Information Security,7.6,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Finance,9.92,Business Analyst,Python,Yes,5,Yes,High
+M.Sc,Information Security,8.98,Cyber Security Analyst,Python,Yes,3,No,High
+B.Tech,Cyber Security,9.51,Cyber Security Analyst,Python,Yes,4,Yes,High
+MCA,Data Science,7.1,Business Analyst,Python,No,2,Yes,Medium
+MCA,Information Security,9.83,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Sc,Data Science,6.31,Business Analyst,Python,No,0,Yes,Low
+BCA,Electronics,9.18,Cloud Engineer,Python,Yes,4,No,High
+MBA,Electronics,7.39,Support Engineer,Java,No,3,Yes,Medium
+MCA,Software Engineering,9.89,Software Developer,Java,Yes,3,Yes,High
+MCA,Cyber Security,9.44,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,Machine Learning,9.8,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,AI,6.7,Data Scientist,Python,No,1,Yes,Low
+BCA,AI,8.91,AI Engineer,Python,Yes,5,Yes,High
+BBA,CSE,6.37,DevOps Engineer,Python,No,1,Yes,Low
+B.Sc,Cyber Security,9.88,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,CSE,9.99,Software Developer,Java,Yes,3,Yes,High
+BCA,Machine Learning,6.29,Data Scientist,Python,No,1,Yes,Low
+BCA,Finance,7.9,Business Analyst,Java,Yes,2,No,Medium
+BCA,CSE,8.15,DevOps Engineer,Java,Yes,2,Yes,Medium
+MBA,Machine Learning,7.1,Data Scientist,Python,No,2,Yes,Medium
+MBA,Finance,7.08,Business Analyst,C++,No,3,No,Medium
+M.Sc,Information Security,9.01,Cyber Security Analyst,Python,Yes,3,No,High
+BCA,Business Analytics,6.36,Business Analyst,Java,No,0,Yes,Low
+MBA,Machine Learning,9.38,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,CSE,7.07,DevOps Engineer,C++,No,3,No,Medium
+B.Sc,CSE,7.29,DevOps Engineer,C++,No,2,Yes,Medium
+BCA,CSE,6.16,DevOps Engineer,Java,No,1,No,Low
+M.Tech,Machine Learning,9.51,AI Engineer,Python,Yes,5,Yes,High
+BCA,Software Engineering,7.22,DevOps Engineer,Java,No,3,No,Medium
+BCA,IT,6.05,Support Engineer,Python,No,0,Yes,Low
+MBA,Software Engineering,7.85,Software Developer,Java,Yes,3,Yes,Medium
+B.Sc,AI,9.26,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Electronics,7.68,Support Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Machine Learning,9.24,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Electronics,8.12,Support Engineer,Python,Yes,3,Yes,Medium
+BCA,Software Engineering,8.2,Software Developer,Java,Yes,2,Yes,Medium
+B.Sc,Information Security,6.43,Support Engineer,Python,No,0,No,Low
+M.Tech,Electronics,6.4,Support Engineer,C++,No,1,Yes,Low
+B.Sc,IT,7.3,Support Engineer,C++,No,3,No,Medium
+M.Tech,Business Analytics,6.62,Business Analyst,Python,No,0,No,Low
+B.Tech,AI,7.11,Data Scientist,Python,No,3,Yes,Medium
+BCA,Machine Learning,9.38,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,AI,8.88,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Machine Learning,8.86,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,IT,9.61,Cloud Engineer,C++,Yes,4,No,High
+BBA,CSE,9.76,Software Developer,Java,Yes,3,Yes,High
+B.Tech,Cyber Security,9.24,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Cyber Security,9.4,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,Data Science,6.46,Business Analyst,Python,No,0,Yes,Low
+M.Sc,Software Engineering,6.47,DevOps Engineer,Java,No,0,No,Low
+B.Sc,Electronics,8.92,Support Engineer,C++,Yes,3,Yes,High
+MCA,Machine Learning,9.42,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Software Engineering,8.08,Software Developer,Java,Yes,2,No,Medium
+MCA,IT,9.82,Cloud Engineer,Python,Yes,5,Yes,High
+M.Tech,Business Analytics,8.04,Business Analyst,Python,Yes,3,Yes,Medium
+BCA,Machine Learning,8.37,AI Engineer,Python,Yes,3,Yes,Medium
+MCA,CSE,6.45,DevOps Engineer,C++,No,1,No,Low
+M.Tech,Electronics,6.15,Support Engineer,C++,No,1,No,Low
+B.Tech,Business Analytics,6.05,Business Analyst,C++,No,1,Yes,Low
+BCA,CSE,8.65,Software Developer,Java,Yes,3,Yes,High
+BBA,Machine Learning,9.31,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,AI,8.79,AI Engineer,Python,Yes,4,Yes,High
+MCA,CSE,7.41,DevOps Engineer,Java,No,2,Yes,Medium
+MCA,AI,8.49,AI Engineer,Python,Yes,2,Yes,Medium
+MCA,Data Science,9.79,Data Scientist,Python,Yes,4,Yes,High
+B.Sc,Data Science,8.1,Data Scientist,Python,Yes,3,Yes,Medium
+MBA,Software Engineering,9.82,Software Developer,Java,Yes,4,No,High
+B.Sc,Machine Learning,9.45,AI Engineer,Python,Yes,3,Yes,High
+BCA,AI,9.23,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,IT,6.94,Support Engineer,Python,No,1,No,Low
+BCA,Software Engineering,7.79,Software Developer,Java,Yes,2,No,Medium
+M.Tech,Software Engineering,7.12,DevOps Engineer,Java,No,3,Yes,Medium
+BBA,Business Analytics,6.89,Business Analyst,C++,No,1,No,Low
+M.Sc,Cyber Security,9.84,Cyber Security Analyst,Python,Yes,5,Yes,High
+M.Tech,Software Engineering,6.54,DevOps Engineer,Java,No,0,Yes,Low
+BCA,Finance,6.2,Business Analyst,C++,No,0,No,Low
+B.Sc,Business Analytics,6.64,Business Analyst,Python,No,0,Yes,Low
+B.Sc,Finance,6.88,Business Analyst,Java,No,1,Yes,Low
+M.Sc,IT,8.08,Cloud Engineer,C++,Yes,3,Yes,Medium
+MCA,Machine Learning,8.69,AI Engineer,Python,Yes,4,Yes,High
+M.Tech,Finance,6.43,Business Analyst,Python,No,1,Yes,Low
+BCA,Finance,8.54,Business Analyst,Java,Yes,4,No,High
+B.Tech,Business Analytics,7.47,Business Analyst,Java,No,3,Yes,Medium
+BBA,CSE,9.08,Software Developer,Java,Yes,3,No,High
+BBA,Data Science,9.12,Data Scientist,Python,Yes,3,Yes,High
+M.Sc,Software Engineering,7.36,DevOps Engineer,Java,No,2,Yes,Medium
+B.Sc,IT,7.14,Support Engineer,Python,No,3,No,Medium
+MBA,IT,6.79,Support Engineer,C++,No,0,Yes,Low
+BBA,Cyber Security,6.22,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Business Analytics,6.39,Business Analyst,Python,No,0,Yes,Low
+MBA,Data Science,6.28,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Machine Learning,6.79,Data Scientist,Python,No,0,Yes,Low
+B.Tech,Software Engineering,8.54,Software Developer,Java,Yes,3,No,High
+M.Tech,Software Engineering,8.6,Software Developer,Java,Yes,5,Yes,High
+BCA,Electronics,6.72,Support Engineer,C++,No,1,No,Low
+M.Sc,Cyber Security,9.09,Cyber Security Analyst,Python,Yes,5,Yes,High
+MBA,Cyber Security,9.86,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Sc,Data Science,6.87,Business Analyst,Python,No,1,Yes,Low
+BBA,Finance,7.89,Business Analyst,Java,Yes,3,No,Medium
+M.Sc,Machine Learning,7.12,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Finance,9.96,Business Analyst,C++,Yes,5,Yes,High
+MCA,Information Security,9.71,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,AI,7.74,Data Scientist,Python,Yes,2,Yes,Medium
+B.Sc,Business Analytics,6.72,Business Analyst,Python,No,1,No,Low
+MBA,Finance,8.04,Business Analyst,Python,Yes,2,Yes,Medium
+B.Tech,Information Security,8.0,Cyber Security Analyst,Python,Yes,3,No,Medium
+BCA,Machine Learning,9.39,AI Engineer,Python,Yes,4,Yes,High
+BBA,Software Engineering,8.44,Software Developer,Java,Yes,2,No,Medium
+M.Sc,Business Analytics,9.29,Business Analyst,C++,Yes,3,Yes,High
+BBA,AI,7.62,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,CSE,7.49,DevOps Engineer,C++,No,3,Yes,Medium
+BCA,CSE,9.96,Software Developer,Python,Yes,3,No,High
+MCA,Data Science,7.67,Business Analyst,Python,Yes,2,Yes,Medium
+M.Sc,Electronics,7.08,Support Engineer,Java,No,3,Yes,Medium
+MCA,Information Security,6.92,Support Engineer,Python,No,1,Yes,Low
+BBA,Software Engineering,9.7,Software Developer,Java,Yes,3,No,High
+MBA,Information Security,7.06,Cyber Security Analyst,Python,No,3,Yes,Medium
+MBA,Electronics,6.48,Support Engineer,Python,No,0,No,Low
+M.Sc,Machine Learning,8.7,AI Engineer,Python,Yes,5,Yes,High
+BBA,Electronics,9.24,Cloud Engineer,C++,Yes,3,Yes,High
+MBA,AI,9.76,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Software Engineering,7.09,DevOps Engineer,Java,No,2,No,Medium
+BBA,Software Engineering,9.96,Software Developer,Java,Yes,5,Yes,High
+BCA,Finance,6.71,Business Analyst,Python,No,1,No,Low
+M.Tech,Business Analytics,7.22,Business Analyst,C++,No,2,No,Medium
+B.Sc,AI,7.26,Data Scientist,Python,No,3,Yes,Medium
+MCA,Finance,6.22,Business Analyst,Python,No,0,No,Low
+BCA,Data Science,8.31,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,Finance,9.89,Business Analyst,C++,Yes,5,No,High
+B.Sc,Electronics,9.44,Cloud Engineer,Python,Yes,3,No,High
+M.Tech,Software Engineering,6.25,DevOps Engineer,Java,No,1,Yes,Low
+MBA,Electronics,9.04,Cloud Engineer,Java,Yes,5,No,High
+MBA,AI,8.75,AI Engineer,Python,Yes,4,Yes,High
+MBA,Finance,6.17,Business Analyst,Java,No,0,Yes,Low
+M.Sc,Information Security,9.92,Cyber Security Analyst,Python,Yes,3,No,High
+B.Sc,Software Engineering,6.75,DevOps Engineer,Java,No,0,Yes,Low
+M.Tech,Cyber Security,9.88,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Machine Learning,7.11,Data Scientist,Python,No,2,Yes,Medium
+BBA,IT,6.91,Support Engineer,Java,No,0,Yes,Low
+B.Tech,Data Science,6.99,Business Analyst,Python,No,0,Yes,Low
+M.Tech,Business Analytics,8.89,Business Analyst,Java,Yes,3,Yes,High
+MCA,Software Engineering,6.45,DevOps Engineer,Java,No,1,Yes,Low
+M.Tech,Cyber Security,9.65,Cyber Security Analyst,Python,Yes,5,Yes,High
+BCA,Cyber Security,9.79,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,CSE,7.93,DevOps Engineer,Java,Yes,3,Yes,Medium
+B.Tech,Data Science,8.67,Data Scientist,Python,Yes,5,Yes,High
+BBA,AI,9.44,AI Engineer,Python,Yes,5,Yes,High
+B.Tech,Finance,7.56,Business Analyst,C++,Yes,2,No,Medium
+BCA,Data Science,8.32,Data Scientist,Python,Yes,3,Yes,Medium
+M.Tech,Information Security,6.2,Support Engineer,Python,No,1,Yes,Low
+BBA,IT,9.73,Cloud Engineer,C++,Yes,3,Yes,High
+MBA,Machine Learning,9.78,AI Engineer,Python,Yes,5,Yes,High
+MCA,Information Security,9.42,Cyber Security Analyst,Python,Yes,3,No,High
+B.Sc,CSE,7.37,DevOps Engineer,Java,No,3,No,Medium
+BCA,Electronics,9.83,Cloud Engineer,C++,Yes,5,Yes,High
+B.Sc,Cyber Security,6.98,Support Engineer,Python,No,1,Yes,Low
+BCA,Software Engineering,6.36,DevOps Engineer,Java,No,0,Yes,Low
+BCA,Cyber Security,9.63,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,Data Science,8.47,Data Scientist,Python,Yes,3,Yes,Medium
+M.Sc,AI,7.36,Data Scientist,Python,No,3,Yes,Medium
+MBA,Information Security,7.44,Cyber Security Analyst,Python,No,2,Yes,Medium
+MBA,Cyber Security,8.68,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Tech,Machine Learning,6.78,Data Scientist,Python,No,0,Yes,Low
+MCA,IT,9.26,Cloud Engineer,Python,Yes,5,Yes,High
+MCA,Software Engineering,9.15,Software Developer,Java,Yes,4,Yes,High
+B.Sc,Cyber Security,7.51,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BCA,Electronics,8.62,Support Engineer,Python,Yes,4,No,High
+BBA,CSE,6.51,DevOps Engineer,Java,No,1,No,Low
+MBA,Software Engineering,7.51,Software Developer,Java,Yes,2,Yes,Medium
+M.Sc,Machine Learning,9.74,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,Machine Learning,8.09,Data Scientist,Python,Yes,3,Yes,Medium
+BBA,Information Security,6.54,Support Engineer,Python,No,0,Yes,Low
+M.Tech,Software Engineering,8.8,Software Developer,Java,Yes,5,Yes,High
+MBA,Information Security,9.9,Cyber Security Analyst,Python,Yes,5,No,High
+MBA,Information Security,9.53,Cyber Security Analyst,Python,Yes,5,No,High
+BBA,Data Science,9.64,Data Scientist,Python,Yes,3,Yes,High
+MCA,Software Engineering,6.65,DevOps Engineer,Java,No,1,No,Low
+B.Tech,Data Science,7.59,Business Analyst,Python,Yes,2,Yes,Medium
+M.Tech,IT,7.47,Support Engineer,Python,No,2,Yes,Medium
+B.Sc,Software Engineering,6.63,DevOps Engineer,Java,No,1,Yes,Low
+BCA,Data Science,7.37,Business Analyst,Python,No,2,Yes,Medium
+M.Sc,Software Engineering,6.21,DevOps Engineer,Java,No,0,No,Low
+M.Tech,IT,6.82,Support Engineer,C++,No,0,No,Low
+MCA,Data Science,8.5,Data Scientist,Python,Yes,5,Yes,High
+MBA,Electronics,7.08,Support Engineer,Java,No,2,Yes,Medium
+MCA,Machine Learning,6.2,Data Scientist,Python,No,1,Yes,Low
+BBA,Finance,8.95,Business Analyst,Java,Yes,3,No,High
+B.Tech,Machine Learning,7.45,Data Scientist,Python,No,3,Yes,Medium
+B.Tech,Data Science,7.17,Business Analyst,Python,No,2,Yes,Medium
+B.Tech,Business Analytics,8.74,Business Analyst,Python,Yes,5,No,High
+B.Sc,Data Science,8.91,Data Scientist,Python,Yes,5,Yes,High
+MCA,Business Analytics,7.97,Business Analyst,Java,Yes,3,Yes,Medium
+BCA,Information Security,7.85,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,Finance,8.87,Business Analyst,C++,Yes,3,Yes,High
+BBA,Business Analytics,6.88,Business Analyst,C++,No,1,Yes,Low
+B.Sc,Finance,8.35,Business Analyst,C++,Yes,3,No,Medium
+B.Tech,Cyber Security,9.43,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Business Analytics,8.92,Business Analyst,C++,Yes,4,No,High
+BBA,AI,9.16,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Software Engineering,6.31,DevOps Engineer,Java,No,0,No,Low
+M.Sc,Business Analytics,6.75,Business Analyst,C++,No,1,No,Low
+BCA,Cyber Security,7.71,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MCA,AI,7.69,Data Scientist,Python,Yes,3,Yes,Medium
+M.Sc,Cyber Security,9.21,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Sc,IT,6.29,Support Engineer,C++,No,1,Yes,Low
+B.Sc,Machine Learning,8.73,AI Engineer,Python,Yes,4,Yes,High
+B.Sc,Electronics,9.42,Cloud Engineer,C++,Yes,5,No,High
+M.Sc,Software Engineering,8.46,Software Developer,Java,Yes,2,No,Medium
+M.Tech,Machine Learning,8.4,AI Engineer,Python,Yes,3,Yes,Medium
+M.Tech,Electronics,8.17,Support Engineer,Python,Yes,2,No,Medium
+B.Sc,IT,7.22,Support Engineer,Python,No,2,Yes,Medium
+M.Tech,Electronics,7.32,Support Engineer,Python,No,2,No,Medium
+MCA,Cyber Security,6.5,Support Engineer,Python,No,0,Yes,Low
+B.Sc,Software Engineering,7.76,Software Developer,Java,Yes,2,Yes,Medium
+MCA,Information Security,8.56,Cyber Security Analyst,Python,Yes,4,No,High
+MBA,Cyber Security,7.36,Cyber Security Analyst,Python,No,2,Yes,Medium
+B.Tech,CSE,8.3,DevOps Engineer,Java,Yes,3,Yes,Medium
+BCA,Software Engineering,7.61,Software Developer,Java,Yes,3,Yes,Medium
+MBA,Software Engineering,7.06,DevOps Engineer,Java,No,3,No,Medium
+B.Sc,Data Science,6.49,Business Analyst,Python,No,0,Yes,Low
+B.Tech,Machine Learning,9.82,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,IT,9.28,Cloud Engineer,Java,Yes,5,Yes,High
+MBA,Business Analytics,6.32,Business Analyst,Java,No,0,Yes,Low
+BCA,Finance,6.7,Business Analyst,C++,No,1,No,Low
+M.Tech,AI,8.6,AI Engineer,Python,Yes,5,Yes,High
+MCA,Data Science,7.12,Business Analyst,Python,No,2,Yes,Medium
+M.Sc,Electronics,9.99,Cloud Engineer,Java,Yes,3,Yes,High
+MCA,Information Security,9.09,Cyber Security Analyst,Python,Yes,5,No,High
+B.Tech,Finance,7.58,Business Analyst,Java,Yes,3,No,Medium
+MCA,Electronics,7.07,Support Engineer,Python,No,2,No,Medium
+B.Sc,Business Analytics,6.36,Business Analyst,Java,No,0,Yes,Low
+B.Sc,AI,7.12,Data Scientist,Python,No,3,Yes,Medium
+B.Sc,Information Security,6.08,Support Engineer,Python,No,1,Yes,Low
+BCA,Software Engineering,8.24,Software Developer,Java,Yes,2,No,Medium
+M.Tech,Finance,8.65,Business Analyst,Python,Yes,5,Yes,High
+MBA,Information Security,9.42,Cyber Security Analyst,Python,Yes,3,No,High
+BCA,Electronics,7.36,Support Engineer,Java,No,2,No,Medium
+MBA,CSE,8.57,Software Developer,Python,Yes,4,No,High
+M.Sc,Machine Learning,9.17,AI Engineer,Python,Yes,3,Yes,High
+BBA,AI,9.94,AI Engineer,Python,Yes,5,Yes,High
+MBA,IT,9.46,Cloud Engineer,C++,Yes,5,Yes,High
+B.Tech,Cyber Security,7.52,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Tech,Data Science,8.14,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Software Engineering,6.77,DevOps Engineer,Java,No,1,Yes,Low
+BBA,Business Analytics,6.02,Business Analyst,Python,No,0,No,Low
+BBA,IT,7.63,Support Engineer,C++,Yes,3,No,Medium
+M.Tech,Finance,7.05,Business Analyst,Java,No,3,Yes,Medium
+M.Sc,Data Science,7.84,Business Analyst,Python,Yes,2,Yes,Medium
+M.Tech,Machine Learning,8.01,Data Scientist,Python,Yes,2,Yes,Medium
+M.Tech,Electronics,6.17,Support Engineer,C++,No,1,Yes,Low
+BCA,Finance,9.1,Business Analyst,Java,Yes,3,No,High
+MCA,Business Analytics,9.45,Business Analyst,Java,Yes,5,Yes,High
+M.Tech,CSE,8.57,Software Developer,Python,Yes,5,Yes,High
+B.Sc,Electronics,6.64,Support Engineer,Java,No,0,Yes,Low
+B.Tech,Business Analytics,6.05,Business Analyst,Java,No,1,No,Low
+B.Tech,AI,9.51,AI Engineer,Python,Yes,3,Yes,High
+B.Tech,IT,9.04,Cloud Engineer,Python,Yes,3,No,High
+BCA,Business Analytics,6.2,Business Analyst,Python,No,1,No,Low
+BBA,Machine Learning,9.38,AI Engineer,Python,Yes,3,Yes,High
+BCA,CSE,8.18,DevOps Engineer,C++,Yes,3,Yes,Medium
+MCA,Software Engineering,6.5,DevOps Engineer,Java,No,1,Yes,Low
+MCA,Cyber Security,6.86,Support Engineer,Python,No,1,Yes,Low
+B.Tech,CSE,9.44,Software Developer,Java,Yes,4,No,High
+M.Tech,Finance,8.06,Business Analyst,C++,Yes,3,No,Medium
+MCA,Software Engineering,9.04,Software Developer,Java,Yes,4,Yes,High
+MCA,Machine Learning,7.32,Data Scientist,Python,No,2,Yes,Medium
+B.Tech,AI,9.88,AI Engineer,Python,Yes,4,Yes,High
+B.Tech,Business Analytics,9.97,Business Analyst,C++,Yes,5,Yes,High
+MCA,IT,6.61,Support Engineer,Python,No,1,No,Low
+BCA,Finance,8.3,Business Analyst,Python,Yes,3,No,Medium
+M.Tech,Business Analytics,6.66,Business Analyst,Python,No,1,No,Low
+B.Tech,Cyber Security,7.26,Cyber Security Analyst,Python,No,3,Yes,Medium
+M.Tech,Information Security,9.02,Cyber Security Analyst,Python,Yes,3,Yes,High
+B.Tech,Information Security,8.12,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+BCA,IT,6.37,Support Engineer,C++,No,1,No,Low
+M.Tech,Cyber Security,7.21,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,AI,8.75,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Electronics,9.11,Cloud Engineer,Java,Yes,5,Yes,High
+MBA,Information Security,9.27,Cyber Security Analyst,Python,Yes,3,No,High
+M.Tech,Data Science,8.69,Data Scientist,Python,Yes,5,Yes,High
+BBA,CSE,8.46,DevOps Engineer,Python,Yes,3,No,Medium
+B.Sc,Electronics,6.99,Support Engineer,C++,No,0,No,Low
+BCA,Business Analytics,7.38,Business Analyst,Python,No,2,No,Medium
+BBA,Finance,7.22,Business Analyst,C++,No,2,No,Medium
+MBA,Cyber Security,9.89,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Information Security,8.79,Cyber Security Analyst,Python,Yes,3,No,High
+MBA,Finance,7.06,Business Analyst,C++,No,2,No,Medium
+B.Sc,Cyber Security,8.11,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BCA,Cyber Security,8.77,Cyber Security Analyst,Python,Yes,5,Yes,High
+B.Tech,Machine Learning,6.41,Data Scientist,Python,No,0,Yes,Low
+BBA,Machine Learning,7.86,Data Scientist,Python,Yes,2,Yes,Medium
+MCA,CSE,7.81,DevOps Engineer,C++,Yes,2,Yes,Medium
+BBA,Electronics,8.55,Support Engineer,Java,Yes,4,No,High
+B.Sc,IT,7.44,Support Engineer,Python,No,2,No,Medium
+M.Tech,AI,9.46,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Electronics,8.52,Support Engineer,C++,Yes,3,No,High
+B.Sc,Business Analytics,6.4,Business Analyst,Java,No,1,No,Low
+M.Sc,IT,7.4,Support Engineer,Java,No,3,Yes,Medium
+BBA,Business Analytics,7.91,Business Analyst,Python,Yes,2,No,Medium
+BCA,Machine Learning,9.85,AI Engineer,Python,Yes,5,Yes,High
+M.Sc,Finance,6.55,Business Analyst,Java,No,0,No,Low
+B.Tech,Machine Learning,6.36,Data Scientist,Python,No,1,Yes,Low
+BCA,Finance,7.21,Business Analyst,Python,No,2,No,Medium
+M.Sc,Data Science,7.25,Business Analyst,Python,No,3,Yes,Medium
+MCA,Electronics,7.36,Support Engineer,Java,No,3,Yes,Medium
+BBA,AI,8.7,AI Engineer,Python,Yes,5,Yes,High
+B.Sc,Data Science,9.3,Data Scientist,Python,Yes,4,Yes,High
+M.Sc,Electronics,8.54,Support Engineer,C++,Yes,4,Yes,High
+BBA,Cyber Security,7.18,Cyber Security Analyst,Python,No,3,Yes,Medium
+B.Tech,Machine Learning,6.98,Data Scientist,Python,No,1,Yes,Low
+BCA,Machine Learning,6.37,Data Scientist,Python,No,1,Yes,Low
+BCA,CSE,8.8,Software Developer,Java,Yes,4,Yes,High
+M.Sc,Data Science,8.43,Data Scientist,Python,Yes,3,Yes,Medium
+BCA,AI,8.02,AI Engineer,Python,Yes,2,Yes,Medium
+BCA,Information Security,7.28,Cyber Security Analyst,Python,No,3,No,Medium
+M.Sc,Business Analytics,9.24,Business Analyst,C++,Yes,4,Yes,High
+B.Sc,Machine Learning,9.73,AI Engineer,Python,Yes,4,Yes,High
+BBA,Finance,7.86,Business Analyst,Java,Yes,3,Yes,Medium
+MCA,Information Security,9.64,Cyber Security Analyst,Python,Yes,4,Yes,High
+B.Sc,Electronics,6.18,Support Engineer,Python,No,1,Yes,Low
+M.Tech,CSE,8.36,DevOps Engineer,Python,Yes,2,Yes,Medium
+MBA,Software Engineering,7.17,DevOps Engineer,Java,No,2,No,Medium
+BBA,Machine Learning,8.64,AI Engineer,Python,Yes,5,Yes,High
+M.Tech,Business Analytics,9.09,Business Analyst,Python,Yes,5,Yes,High
+B.Sc,Machine Learning,6.66,Data Scientist,Python,No,1,Yes,Low
+MBA,Software Engineering,8.42,Software Developer,Java,Yes,3,No,Medium
+BBA,Electronics,8.95,Support Engineer,C++,Yes,5,No,High
+M.Tech,IT,9.56,Cloud Engineer,C++,Yes,5,No,High
+M.Sc,Cyber Security,9.97,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Electronics,8.45,Support Engineer,Java,Yes,3,No,Medium
+B.Tech,Data Science,9.94,Data Scientist,Python,Yes,4,Yes,High
+M.Tech,Software Engineering,7.98,Software Developer,Java,Yes,2,No,Medium
+M.Tech,CSE,9.15,Software Developer,Python,Yes,4,No,High
+MBA,Software Engineering,6.98,DevOps Engineer,Java,No,1,Yes,Low
+M.Tech,Software Engineering,8.83,Software Developer,Java,Yes,3,Yes,High
+M.Sc,Information Security,6.42,Support Engineer,Python,No,1,Yes,Low
+M.Sc,Machine Learning,7.61,Data Scientist,Python,Yes,2,Yes,Medium
+B.Tech,Cyber Security,7.03,Cyber Security Analyst,Python,No,2,Yes,Medium
+BBA,IT,8.75,Cloud Engineer,Python,Yes,4,Yes,High
+BCA,Information Security,7.08,Cyber Security Analyst,Python,No,2,No,Medium
+BCA,Cyber Security,8.73,Cyber Security Analyst,Python,Yes,3,Yes,High
+M.Tech,AI,6.88,Data Scientist,Python,No,0,Yes,Low
+M.Tech,Software Engineering,9.11,Software Developer,Java,Yes,4,Yes,High
+BBA,Business Analytics,9.85,Business Analyst,Java,Yes,3,No,High
+MBA,Information Security,7.09,Cyber Security Analyst,Python,No,3,Yes,Medium
+MCA,Information Security,8.01,Cyber Security Analyst,Python,Yes,3,No,Medium
+B.Tech,Machine Learning,7.92,Data Scientist,Python,Yes,3,Yes,Medium
+MBA,Cyber Security,8.14,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Sc,Finance,8.69,Business Analyst,Python,Yes,3,No,High
+MCA,Machine Learning,8.08,Data Scientist,Python,Yes,3,Yes,Medium
+MCA,Machine Learning,7.44,Data Scientist,Python,No,2,Yes,Medium
+BCA,CSE,8.95,Software Developer,Python,Yes,3,Yes,High
+M.Tech,Data Science,7.77,Business Analyst,Python,Yes,2,Yes,Medium
+BCA,Electronics,7.3,Support Engineer,Java,No,3,No,Medium
+MBA,Information Security,7.78,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Information Security,8.41,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+MCA,Machine Learning,9.06,AI Engineer,Python,Yes,4,Yes,High
+MCA,Finance,6.46,Business Analyst,C++,No,0,Yes,Low
+M.Sc,CSE,9.43,Software Developer,Java,Yes,5,Yes,High
+BCA,AI,8.5,AI Engineer,Python,Yes,5,Yes,High
+MBA,Cyber Security,9.22,Cyber Security Analyst,Python,Yes,5,Yes,High
+MCA,IT,7.8,Support Engineer,C++,Yes,2,Yes,Medium
+MCA,Electronics,8.32,Support Engineer,Java,Yes,3,Yes,Medium
+B.Sc,Information Security,8.96,Cyber Security Analyst,Python,Yes,4,No,High
+BBA,IT,6.48,Support Engineer,Java,No,0,Yes,Low
+MCA,Software Engineering,8.66,Software Developer,Java,Yes,3,No,High
+BBA,Electronics,8.52,Support Engineer,C++,Yes,4,No,High
+M.Sc,Cyber Security,7.48,Cyber Security Analyst,Python,No,2,Yes,Medium
+M.Sc,Electronics,9.23,Cloud Engineer,C++,Yes,4,Yes,High
+M.Tech,Finance,9.02,Business Analyst,C++,Yes,4,No,High
+BBA,CSE,7.77,DevOps Engineer,Java,Yes,2,No,Medium
+M.Tech,Business Analytics,8.0,Business Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Information Security,7.77,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+MBA,Cyber Security,7.63,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Sc,Cyber Security,7.31,Cyber Security Analyst,Python,No,2,Yes,Medium
+MBA,Data Science,9.15,Data Scientist,Python,Yes,3,Yes,High
+B.Tech,CSE,7.82,DevOps Engineer,Python,Yes,3,No,Medium
+BCA,Business Analytics,7.11,Business Analyst,Python,No,3,Yes,Medium
+MCA,Finance,9.35,Business Analyst,Python,Yes,3,Yes,High
+MBA,Business Analytics,7.05,Business Analyst,Python,No,2,No,Medium
+BCA,Information Security,6.13,Support Engineer,Python,No,0,No,Low
+B.Tech,Software Engineering,7.06,DevOps Engineer,Java,No,2,No,Medium
+MCA,Machine Learning,7.67,Data Scientist,Python,Yes,2,Yes,Medium
+MBA,IT,6.84,Support Engineer,Python,No,1,No,Low
+M.Sc,Cyber Security,8.18,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+B.Tech,Information Security,7.66,Cyber Security Analyst,Python,Yes,2,Yes,Medium
+BBA,Software Engineering,7.84,Software Developer,Java,Yes,2,No,Medium
+B.Sc,Finance,7.43,Business Analyst,Java,No,3,Yes,Medium
+B.Sc,Cyber Security,6.28,Support Engineer,Python,No,0,Yes,Low
+M.Sc,Finance,8.97,Business Analyst,Java,Yes,4,Yes,High
+BBA,Finance,9.45,Business Analyst,C++,Yes,4,Yes,High
+BCA,AI,9.37,AI Engineer,Python,Yes,5,Yes,High
+MBA,Machine Learning,9.48,AI Engineer,Python,Yes,3,Yes,High
+MCA,IT,6.4,Support Engineer,C++,No,0,No,Low
+BBA,Software Engineering,9.32,Software Developer,Java,Yes,3,Yes,High
+BCA,AI,8.59,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Data Science,9.98,Data Scientist,Python,Yes,5,Yes,High
+BBA,Software Engineering,8.3,Software Developer,Java,Yes,3,No,Medium
+MBA,Business Analytics,9.03,Business Analyst,Java,Yes,3,No,High
+MCA,Cyber Security,9.29,Cyber Security Analyst,Python,Yes,3,Yes,High
+BBA,Finance,6.32,Business Analyst,Java,No,1,Yes,Low
+BBA,Machine Learning,9.89,AI Engineer,Python,Yes,4,Yes,High
+M.Sc,Cyber Security,7.04,Cyber Security Analyst,Python,No,2,Yes,Medium
+BBA,CSE,9.02,Software Developer,C++,Yes,4,No,High
+M.Sc,Data Science,8.8,Data Scientist,Python,Yes,3,Yes,High
+B.Sc,Electronics,6.68,Support Engineer,Python,No,0,Yes,Low
+M.Tech,CSE,9.79,Software Developer,Python,Yes,4,Yes,High
+MCA,Business Analytics,7.08,Business Analyst,C++,No,2,Yes,Medium
+BBA,Electronics,7.93,Support Engineer,Python,Yes,2,Yes,Medium
+M.Sc,Information Security,9.08,Cyber Security Analyst,Python,Yes,4,No,High
+BCA,CSE,7.37,DevOps Engineer,C++,No,3,Yes,Medium
+M.Sc,Machine Learning,9.06,AI Engineer,Python,Yes,5,Yes,High
+BCA,CSE,8.93,Software Developer,Python,Yes,3,Yes,High
+M.Sc,CSE,7.24,DevOps Engineer,Python,No,3,Yes,Medium
+M.Tech,CSE,8.41,DevOps Engineer,Python,Yes,3,Yes,Medium
+B.Tech,Data Science,9.06,Data Scientist,Python,Yes,4,Yes,High
+M.Tech,IT,6.61,Support Engineer,C++,No,0,Yes,Low
+B.Sc,Cyber Security,8.48,Cyber Security Analyst,Python,Yes,3,Yes,Medium
+M.Tech,Machine Learning,7.83,Data Scientist,Python,Yes,2,Yes,Medium
+BBA,Machine Learning,7.98,Data Scientist,Python,Yes,3,Yes,Medium
+MBA,Finance,6.53,Business Analyst,Python,No,1,Yes,Low
+BCA,Machine Learning,7.34,Data Scientist,Python,No,2,Yes,Medium
+BCA,CSE,8.07,DevOps Engineer,C++,Yes,2,Yes,Medium
+M.Sc,Finance,6.77,Business Analyst,Java,No,1,No,Low
+B.Sc,Finance,8.04,Business Analyst,C++,Yes,3,Yes,Medium
+B.Tech,Business Analytics,6.25,Business Analyst,Python,No,0,No,Low
+B.Sc,Business Analytics,8.63,Business Analyst,Python,Yes,4,No,High
+B.Sc,Electronics,6.67,Support Engineer,Java,No,0,Yes,Low
+BBA,Machine Learning,8.72,AI Engineer,Python,Yes,3,Yes,High
+M.Sc,Electronics,8.59,Support Engineer,Python,Yes,4,No,High
+B.Tech,Electronics,6.59,Support Engineer,C++,No,0,No,Low
+M.Sc,Data Science,7.84,Business Analyst,Python,Yes,3,Yes,Medium
+B.Tech,Business Analytics,7.27,Business Analyst,C++,No,2,No,Medium
+MBA,Machine Learning,6.83,Data Scientist,Python,No,1,Yes,Low
+MCA,Electronics,7.96,Support Engineer,C++,Yes,2,Yes,Medium
+BBA,Cyber Security,7.42,Cyber Security Analyst,Python,No,3,Yes,Medium
+MCA,Electronics,8.07,Support Engineer,Python,Yes,2,Yes,Medium
+MBA,CSE,6.58,DevOps Engineer,Python,No,1,No,Low
+BBA,AI,8.43,AI Engineer,Python,Yes,2,Yes,Medium
+M.Tech,Finance,7.3,Business Analyst,Java,No,3,No,Medium
+B.Tech,AI,9.93,AI Engineer,Python,Yes,3,Yes,High
+B.Sc,Business Analytics,8.89,Business Analyst,Python,Yes,5,No,High
+B.Tech,Data Science,7.13,Business Analyst,Python,No,2,Yes,Medium
+MCA,Business Analytics,7.28,Business Analyst,Java,No,3,Yes,Medium
+M.Sc,IT,9.53,Cloud Engineer,Java,Yes,4,Yes,High
+M.Sc,Software Engineering,9.66,Software Developer,Java,Yes,3,Yes,High
+BCA,Machine Learning,8.73,AI Engineer,Python,Yes,5,Yes,High
