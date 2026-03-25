@@ -72,4 +72,3 @@ The system uses a **Random Forest Classifier** to analyze user inputs and sugges
 
 ---
 
-## 📂 Project Structure
