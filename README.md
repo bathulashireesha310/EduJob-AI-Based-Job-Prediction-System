@@ -43,12 +43,15 @@ Storage:
 CSV files (users, dataset, history)
 
 ## 📂 Project Structure
+
+```
 EduJob-AI-Based-Job-Prediction-System/
 │
 ├── app.py
 ├── job_dataset_enhanced.csv
 ├── users.csv
 ├── history.csv
+│
 ├── images/
 │   ├── 01_login.jpeg
 │   ├── 02_dashboard.jpeg
@@ -56,8 +59,10 @@ EduJob-AI-Based-Job-Prediction-System/
 │   ├── 04_prediction.jpeg
 │   ├── 05_graph_distribution.jpeg
 │   └── 06_view_history.jpeg
+│
 ├── README.md
 └── requirements.txt
+```
 
 📊 How It Works
 User Input → Data Preprocessing → Model Training → Prediction → Output Display
