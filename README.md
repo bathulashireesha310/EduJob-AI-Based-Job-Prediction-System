@@ -75,22 +75,23 @@ EduJob-AI-Based-Job-Prediction-System/
 ## 🖥️ Screenshots
 
 ### 🔐 Login Page
-![Login](images/01_login.jpeg)
+![1_login](https://github.com/user-attachments/assets/66f0b76f-0142-4fe0-9903-e493aa267198)
 
 ### 📊 Dashboard
-![Dashboard](images/02_dashboard.jpeg)
+![2_dashboard](https://github.com/user-attachments/assets/2ccf545e-3710-4711-998a-939c791572f1)
 
 ### 📄 Student Details
-![Details](images/03_details.jpeg)
+![3_details](https://github.com/user-attachments/assets/7c8ca990-6b56-49d5-8afb-ad5bce05213b)
 
 ### 🤖 Prediction Result
-![Prediction](images/04_prediction.jpeg)
+![4_prediction](https://github.com/user-attachments/assets/faa1531d-e2b5-4938-bcbf-618a8b413932)
 
 ### 📈 Graph Distribution
-![Graph](images/05_graph_distribution.jpeg)
+![5_graph_distribution](https://github.com/user-attachments/assets/d463ebf3-9e29-4ece-a601-d3d2f858444f)
 
 ### 📜 View History
-![History](images/06_view_history.jpeg)
+![6_view_history](https://github.com/user-attachments/assets/785295d5-0c45-4bb3-88e4-2923d9aebb55)
+
 
 ---
 
