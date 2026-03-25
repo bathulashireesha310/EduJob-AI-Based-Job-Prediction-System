@@ -41,6 +41,7 @@ matplotlib
 streamlit
 Storage:
 CSV files (users, dataset, history)
+
 📂 Project Structure
 EduJob-AI-Based-Job-Prediction-System/
 │
@@ -57,6 +58,7 @@ EduJob-AI-Based-Job-Prediction-System/
 │   └── 06_view_history.jpeg
 ├── README.md
 └── requirements.txt
+
 📊 How It Works
 User Input → Data Preprocessing → Model Training → Prediction → Output Display
 User enters academic & skill details
